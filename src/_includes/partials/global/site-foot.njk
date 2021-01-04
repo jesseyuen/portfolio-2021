@@ -1,9 +1,9 @@
-<footer role="contentinfo" class="[ site-foot ] [ pad-top-700 pad-bottom-900 ]">
+<footer role="contentinfo" class="">
   <div class="wrapper">
-    <div class="[ site-foot__inner ] [ md:box-flex space-between align-start ]">
+    <div class="">
       {% if site.shortDesc %}
         <div>
-          <article class="[ site-foot__details ] [ sf-flow measure-compact ]">
+          <article class="">
             <h2 class="font-base text-600">{{ site.name }}</h2>
             {{ site.shortDesc | markdownFilter | safe }}
           </article>
@@ -16,7 +16,7 @@
       </div>
     </div>
     {% if site.showThemeCredit %}
-      <p class="[ site-foot__credit ] [ pad-top-900 ]">
+      <p class="">
         Powered by the <a href="https://hylia.website" rel="external">Hylia Eleventy Starter Kit v{{ pkg.version }}</a>.
       </p>
     {% endif %}
