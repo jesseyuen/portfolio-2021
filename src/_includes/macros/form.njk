@@ -3,12 +3,12 @@
    =================== #}
 
 {% macro label( text, name ) %}
-  <label class="question__label" for="field-{{ name }}">{{ text }}</label>
+  <label class="" for="field-{{ name }}">{{ text }}</label>
 {% endmacro %}
 
 {% macro field( type, name, data ) %}
   <br>
-  <input class="question__field"
+  <input class=""
         type="{{ type }}"
         name="{{ name }}"
         id="field-{{ name }}"
@@ -28,8 +28,8 @@
 {% endmacro %}
 
 {% macro confirm( text, name, data ) %}
-  <label for="field-{{ name }}" class="question--confirm">
-    <input class="question__field question__field--confirm"
+  <label for="field-{{ name }}" class="">
+    <input class=""
           type="checkbox"
           name="{{ name }}"
           id="field-{{ name }}"
@@ -99,7 +99,7 @@
     <legend
       {% if data.description %}aria-describedby="description-{{ name }}"{% endif %}
       >{{ label }}</legend>
-    <ul class="field-list__field-group__list">
+    <ul class="">
       {% for option in options %}
         <li>
           {% if option.value %}
@@ -136,7 +136,7 @@
     <legend
       {% if data.description %}aria-describedby="description-{{ name }}"{% endif %}
       >{{ label }}</legend>
-    <ul class="field-list__field-group__list">
+    <ul class="">
       {% for option in options %}
         <li>
           {% if option.value %}
@@ -169,7 +169,7 @@
 {% endmacro %}
 
 {% macro description( id, html ) %}
-  <em class="[ field-list__field-group__description ]" id="description-{{ id }}">{{ html | safe }}</em>
+  <em class="" id="description-{{ id }}">{{ html | safe }}</em>
 {% endmacro %}
 
 {% macro hidden_field( name, value ) %}
@@ -177,5 +177,5 @@
 {% endmacro %}
 
 {% macro button( text ) %}
-  <button type="submit" class="[ button ] [ font-base text-base weight-bold ]">{{ text }}</button>
+  <button type="submit" class="">{{ text }}</button>
 {% endmacro %}
