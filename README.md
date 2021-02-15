@@ -50,7 +50,7 @@ I recorded a quick start video of me deploying Hylia to Netlify and getting the 
 
 ### Method two: Clone / Fork
 
-1. Clone or fork this repo: `git clone https://github.com/hankchizljaw/hylia`
+1. Clone or fork this repo: `git clone https://github.com/jesseyuen/hylia-nude`
 2. `cd` into the project directory and run `npm install`
 3. Once all the dependencies are installed run `npm start`
 4. Open your browser at `http://localhost:8080` and away you go!
@@ -205,4 +205,4 @@ The stuff that I need the most help with is:
 - [Webmentions](https://www.w3.org/TR/webmention/)
 - Performance
 
-[deploy-to-netlify]: https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms
+[deploy-to-netlify]: https://app.netlify.com/start/deploy?repository=https://github.com/jesseyuen/hylia-nude&stack=cms
