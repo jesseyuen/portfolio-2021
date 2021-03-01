@@ -1,0 +1,11 @@
+<nav role="navigation">
+    <ul class="projects__list">
+      {% for item in params.items %}
+        <li class="projects__item">
+          <h3><a href="{{ item.href }}">{{ item.heading }}</a></h3>
+          <p class="project-desc">{{ item.desc }}</p>
+          <p><span class="visually-hidden">Project details:</span>{{ item.details }}</p>
+        </li>
+      {% endfor %}
+    </ul>
+</nav>
