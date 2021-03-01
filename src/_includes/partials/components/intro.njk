@@ -1,8 +1,21 @@
-<header class="">
-  <div class="">
+<div class="wrapper grid-wrapper grid-wrapper--reverse">
+  <div class="grid-item">
     <h1 class="">{{ introHeading }}</h1>
-    {% if introSummary %}
-      <div class="">{{ introSummary | safe }}</div>
-    {% endif %}
   </div>
-</header>
+  <div class="grid-item">
+    <div class="contact-list">
+      <h2>Contact <span class="visually-hidden">{{ site.name }}</span></h2> 
+      <ul>
+        <li>
+          <a href="mailto:hello@jesseyuen.com">Email</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/jesseyuen">Twitter</a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/jesseyuen/">LinkedIn</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

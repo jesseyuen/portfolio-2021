@@ -1,14 +1,14 @@
 {% extends 'layouts/base.njk' %}
 
+Custom macros
+{% from "macros/project-item/macro.njk"   import appProjectList %}
+
 {# Intro content #}
-{% set introHeading = title %}
-{% set introSummary %}
-  {{ content | safe }}
-{% endset %}
+{% set introHeading = shortDesc %}
 
 {# Post list content #}
-{% set postListHeading = postsHeading %}
-{% set postListItems = collections.postFeed %}
+{# {% set postListHeading = postsHeading %}
+{% set postListItems = collections.postFeed %} #}
 
 {# Archive link #}
 {% if postListItems.length < collections.posts.length %} 
@@ -19,7 +19,30 @@
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
-    {% include "partials/components/post-list.njk" %}
-    {% include "partials/components/pagination.njk" %}
+    <section class="projects wrapper grid-wrapper">
+      <div class="grid-item">
+        <h2><span class="visually-hidden">Projects completed at the</span>Department for Education</h2>
+      </div>
+      <div class="grid-item">
+        {{ appProjectList ({
+          items: [
+            {
+              href: '/link',
+              heading: 'Conversations',
+              desc: 'Test desc',
+              details: 'Item, item, item'
+            },
+            {
+              href: '/link',
+              heading: 'Conversations 2',
+              desc: 'Test desc 2',
+              details: 'Item, item, item'
+            }
+          ]
+        }) }}
+      </div>
+  </section>
+    {# {% include "partials/components/post-list.njk" %} #}
+    {# {% include "partials/components/pagination.njk" %} #}
   </main>
 {% endblock %}
