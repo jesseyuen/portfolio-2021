@@ -1,6 +1,6 @@
 {% extends 'layouts/base.njk' %}
 
-Custom macros
+{# Custom macros #}
 {% from "macros/project-item/macro.njk"   import appProjectList %}
 
 {# Intro content #}
@@ -11,37 +11,107 @@ Custom macros
 {% set postListItems = collections.postFeed %} #}
 
 {# Archive link #}
-{% if postListItems.length < collections.posts.length %} 
+{# {% if postListItems.length < collections.posts.length %} 
   {% set paginationNextText = archiveButtonText %}
   {% set paginationNextUrl = '/archive' %}
-{% endif %}
+{% endif %} #}
 
 {% block content %}
-  <main id="main-content" tabindex="-1">
+  <main id="main-content">
     {% include "partials/components/intro.njk" %}
-    <section class="projects wrapper grid-wrapper">
-      <div class="grid-item">
-        <h2><span class="visually-hidden">Projects completed at the</span>Department for Education</h2>
+    <section class="projects">
+      <div class="wrapper grid-wrapper">
+        <div class="grid-item">
+          <h2><span class="visually-hidden">Projects completed at the</span>Department for Education</h2>
+        </div>
+        <div class="grid-item">
+          {{ appProjectList ({
+            items: [
+              {
+                href: '/link',
+                heading: 'Publish teacher training courses',
+                desc: 'Adpoting a mature service in the role of lead designer',
+                details: 'Digital service delivery, Interaction design'
+              },
+              {
+                href: '/link',
+                heading: 'Register trainee teachers',
+                desc: 'Co-designing a new service in private beta',
+                details: 'Digital service delivery, Interaction design'
+              },
+              {
+                href: '/link',
+                heading: 'A community of practice',
+                desc: 'Esatblishing a national interaction design community',
+                details: 'Community, Interaction design'
+              }
+            ]
+          }) }}
+        </div>
       </div>
+    </section>
+    <section class="projects">
+      <div class="wrapper grid-wrapper">
       <div class="grid-item">
-        {{ appProjectList ({
-          items: [
-            {
-              href: '/link',
-              heading: 'Conversations',
-              desc: 'Test desc',
-              details: 'Item, item, item'
-            },
-            {
-              href: '/link',
-              heading: 'Conversations 2',
-              desc: 'Test desc 2',
-              details: 'Item, item, item'
-            }
-          ]
-        }) }}
+        <h2><span class="visually-hidden">Projects completed at the</span>Guardian</h2>
       </div>
-  </section>
+        <div class="grid-item">
+          {{ appProjectList ({
+            items: [
+              {
+                href: '/link',
+                heading: 'Conversations',
+                desc: 'Test desc',
+                details: 'Item, item, item'
+              },
+              {
+                href: '/link',
+                heading: 'Conversations 2',
+                desc: 'Test desc 2',
+                details: 'Item, item, item'
+              },
+              {
+                href: '/link',
+                heading: 'Conversations 2',
+                desc: 'Test desc 2',
+                details: 'Item, item, item'
+              }
+            ]
+          }) }}
+        </div>
+      </div>
+    </section>
+    <section class="projects">
+      <div class="wrapper grid-wrapper">
+      <div class="grid-item">
+        <h2><span class="visually-hidden">Projects completed at the</span>Guardian</h2>
+      </div>
+        <div class="grid-item">
+          {{ appProjectList ({
+            items: [
+              {
+                href: '/link',
+                heading: 'Conversations',
+                desc: 'Test desc',
+                details: 'Item, item, item'
+              },
+              {
+                href: '/link',
+                heading: 'Conversations 2',
+                desc: 'Test desc 2',
+                details: 'Item, item, item'
+              },
+              {
+                href: '/link',
+                heading: 'Conversations 2',
+                desc: 'Test desc 2',
+                details: 'Item, item, item'
+              }
+            ]
+          }) }}
+        </div>
+      </div>
+    </section>
     {# {% include "partials/components/post-list.njk" %} #}
     {# {% include "partials/components/pagination.njk" %} #}
   </main>

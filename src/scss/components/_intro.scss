@@ -1,25 +1,35 @@
 .intro {
-  background: var(--color-theme-highlight-block);
-
-  &__summary {
-    --flow-space: #{get-size(500)};
-    font-size: get-size(500);
-
-    a {
-      color: currentColor;
-
-      &:hover {
-        text-decoration: none;
-      }
-    }
+  padding: var(--spacing-xxxx-large) 0;
+  
+  &__heading {
+    font-size: var(--font-size-xx-large);
+    font-family: var(--font-family-serif);
+    line-height: 1.1;
+    font-weight: normal;
   }
 
-  &__heading {
-    max-width: 40ex;
-    color: var(--color-theme-feature-text);
+  .contact-list {
+    &__heading {
+      font-size: var(--font-size-med);
+    }
+    
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
 
-    &--compact {
-      max-width: 20ex;
+    li {
+      padding: 0;
+    }
+
+    a {
+      color: var(--color-mid);
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: var(--color-text-default);
     }
   }
 }

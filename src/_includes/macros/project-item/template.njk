@@ -2,9 +2,9 @@
     <ul class="projects__list">
       {% for item in params.items %}
         <li class="projects__item">
-          <h3><a href="{{ item.href }}">{{ item.heading }}</a></h3>
-          <p class="project-desc">{{ item.desc }}</p>
-          <p><span class="visually-hidden">Project details:</span>{{ item.details }}</p>
+          <h3 class="projects__item-heading"><a href="{{ item.href }}">{{ item.heading }}</a></h3>
+          <p class="projects__item-desc">{{ item.desc }}</p>
+          <p class="projects__item-details"><span class="visually-hidden">Project details:</span>{{ item.details }}</p>
         </li>
       {% endfor %}
     </ul>

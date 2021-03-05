@@ -1,49 +1,42 @@
-/* lora-700 - latin */
-@font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: local('Lora Bold'), local('Lora-Bold'),
-    url('/fonts/lora-v13-latin-700.woff') format('woff');
-}
-
 body {
-  // Strip the unit off the size ratio to generate a line height
-  $line-height: get-size(600);
-  line-height: $line-height / ($line-height * 0 + 1);
-
-  @include apply-utility('font', 'base');
+  font-size: var(--font-size-medium);
+  font-family: var(--font-family);
+  color: var(--color-text-default);
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-h1,
-h2,
-h3 {
-  @include apply-utility('font', 'serif');
+.type-xxx-large {
+  font-size: var(--font-size-xxx-large)
 }
 
-h1 {
-  font-size: get-size(700);
+.type-xx-large {
+  font-size: var(--font-size-xx-large)
 }
 
-h2 {
-  font-size: get-size(600);
+.type-x-large {
+  font-size: var(--font-size-x-large)
 }
 
-h3 {
-  font-size: get-size(500);
+.type-large {
+  font-size: var(--font-size-large)
 }
 
-@include media-query('md') {
-  h1 {
-    font-size: get-size(900);
-  }
-
-  h2 {
-    font-size: get-size(800);
-  }
-
-  h3 {
-    font-size: get-size(700);
-  }
+.type-med {
+  font-size: var(--font-size-medium)
 }
+
+// @include media-query('md') {
+//   h1 {
+//     font-size: get-size(900);
+//   }
+
+//   h2 {
+//     font-size: get-size(800);
+//   }
+
+//   h3 {
+//     font-size: get-size(700);
+//   }
+// }

@@ -36,6 +36,10 @@ module.exports = function(config) {
   config.addPassthroughCopy('node_modules/nunjucks/browser/nunjucks-slim.js');
   config.addPassthroughCopy('src/robots.txt');
 
+   // trigger build when scss changes, don't use .gitignore
+	config.addWatchTarget("src/_includes/scss");
+	config.setUseGitIgnore(false);
+
   const now = new Date();
 
   // Custom collections
@@ -57,19 +61,19 @@ module.exports = function(config) {
   config.addPlugin(syntaxHighlight);
 
   // 404
-  config.setBrowserSyncConfig({
-    callbacks: {
-      ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync('dist/404.html');
+  // config.setBrowserSyncConfig({
+  //   callbacks: {
+  //     ready: function(err, browserSync) {
+  //       const content_404 = fs.readFileSync('dist/404.html');
 
-        browserSync.addMiddleware('*', (req, res) => {
-          // Provides the 404 content without redirect.
-          res.write(content_404);
-          res.end();
-        });
-      }
-    }
-  });
+  //       browserSync.addMiddleware('*', (req, res) => {
+  //         // Provides the 404 content without redirect.
+  //         res.write(content_404);
+  //         res.end();
+  //       });
+  //     }
+  //   }
+  // });
 
   return {
     dir: {
