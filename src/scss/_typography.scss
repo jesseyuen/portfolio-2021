@@ -27,6 +27,10 @@ body {
   font-size: var(--font-size-medium)
 }
 
+a {
+  transition: color var(--duration-quickly);
+}
+
 // @include media-query('md') {
 //   h1 {
 //     font-size: get-size(900);
