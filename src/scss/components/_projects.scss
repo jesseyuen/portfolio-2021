@@ -53,17 +53,6 @@
     line-height: 1.2;
     text-shadow: 2px 2px 0 #fff, -2px 2px 0 #fff, 3px 0 0 #fff, -3px 0 0 #fff;
     box-shadow: inset 0 -1px 0 0 #fff, inset 0 -4px 0 0 var(--color-highlight);
-
-    // &:before {
-    //   transition: opacity var(--duration-quickly);
-    //   position: absolute;
-    //   left: 0;
-    //   bottom: 0;
-    //   width: 100%;
-    //   height: 4px;
-    //   background: var(--color-highlight);
-    //   content: "";
-    // }
   }
   
   &__item-heading a {

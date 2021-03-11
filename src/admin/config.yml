@@ -36,6 +36,25 @@ collections:
       - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
       - {label: "Social Image", name: "socialImage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "project_pages"
+    label: "Project Pages"
+    folder: "src/pages"
+    slug: "{{slug}}"
+    preview_path: "pages/{{slug}}"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/page.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink Override (Pattern: '/your-slug/index.html')", name: "permalink", widget: "string", required: false}
+      - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
+      - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
+      - {label: "Social Image", name: "socialImage", widget: "image", required: false}
+      - {label: "Role/s", name: "role", widget: "string"}
+      - {label: "Employer", name: "employer", widget: "string"}
+      - {label: "Year", name: "year", widget: "string"}
+      - {label: "Intro", name: "intro", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Outro", name: "outro", widget: "markdown", required: false}
   - name: "posts"
     label: "Posts"
     folder: "src/posts"
