@@ -12,18 +12,17 @@
 {% endset %}
 
 {% block content %}
-  <main id="main-content" tabindex="-1">
+  <main id="main-content">
     <article class="">
       {% include "partials/components/intro.njk" %}
-      <div class="">
-        {{ content | safe }}
+      <div class="wrapper grid-wrapper">
+        <div class="grid-item">
+          project template
+        </div>
+        <div class="grid-item">
+          {{ content | safe }}
+        </div>
       </div>
-      {% if site.enableThirdPartyComments %}
-        <hr />
-        <aside class="">
-          {% include "partials/global/third-party-comments.njk" %}
-        </aside>
-      {% endif %}
       {% if tags %}
         <footer class="">
           <div class="inner-wrapper">
