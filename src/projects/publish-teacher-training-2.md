@@ -3,8 +3,8 @@ layout: layouts/project.njk
 title: Publish teacher training
 permalink: /publish-teacher-training/index.html
 role: Designer, digital service delivery
-employer: DfE
-year: "2021"
+employer: Department for Education
+year: "2022"
 intro: >-
   ### The challenge
 
