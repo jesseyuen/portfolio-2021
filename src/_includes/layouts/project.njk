@@ -21,13 +21,18 @@
     <article>
       <div class="wrapper grid-wrapper">
         <div class="grid-item">
-          
+          {# empty #}
         </div>
         <div class="grid-item">
-          <section class="project-intro">
+          <section class="project-summary">
             {{ intro | safe }}  
           </section>
           {{ content | safe }}
+          {% if outro %}
+            <section class="project-summary">
+              {{ outro | safe }}
+            </section>
+          {% endif %}
         </div>
       </div>
     </article>

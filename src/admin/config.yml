@@ -55,8 +55,8 @@ collections:
       - {label: "Intro", name: "intro", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Outro", name: "outro", widget: "markdown", required: false}
-  - name: "Thougths"
-    label: "Thougths"
+  - name: "Thoughts"
+    label: "Thoughts"
     folder: "src/thoughts"
     slug: "{{slug}}"
     preview_path: "thoughts/{{slug}}"
