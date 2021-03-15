@@ -14,7 +14,18 @@
 {% block content %}
   <main id="main-content">
     <article class="">
-      {% include "partials/components/intro.njk" %}
+      
+      <section class="intro">
+        <div class="wrapper grid-wrapper grid-wrapper--reverse">
+          <div class="grid-item">
+            <h2 class="intro__heading">{{ introHeading }}</h2>
+          </div>
+          <div class="grid-item">
+            
+          </div>
+        </div>
+      </section>
+
       <div class="wrapper grid-wrapper">
         <div class="grid-item">
           project template
