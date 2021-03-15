@@ -6,9 +6,10 @@
     font-family: var(--font-family-serif);
     line-height: 1.1;
     font-weight: normal;
-    
-    //TODO media queries
-    max-width: 80%;
+      
+    @media (min-width: 1500px) {
+      max-width: 80%;
+    }
 
   }
 
