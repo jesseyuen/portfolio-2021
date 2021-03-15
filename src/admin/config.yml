@@ -55,11 +55,11 @@ collections:
       - {label: "Intro", name: "intro", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Outro", name: "outro", widget: "markdown", required: false}
-  - name: "posts"
-    label: "Posts"
-    folder: "src/posts"
+  - name: "Thougths"
+    label: "Thougths"
+    folder: "src/thougths"
     slug: "{{slug}}"
-    preview_path: "posts/{{slug}}"
+    preview_path: "thougths/{{slug}}"
     create: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
