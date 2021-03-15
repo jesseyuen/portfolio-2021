@@ -2,7 +2,7 @@
 layout: layouts/project.njk
 title: Publish teacher training
 permalink: /publish-teacher-training/index.html
-role: Designer
+role: Designer, digital service delivery
 employer: DfE
 year: "2021"
 intro: >-
