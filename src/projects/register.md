@@ -1,6 +1,7 @@
 ---
 layout: layouts/project.njk
 title: Register
+permalink: /register/index.html
 role: Design
 employer: Department for Education
 year: "202"
