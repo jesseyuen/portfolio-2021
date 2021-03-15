@@ -22,6 +22,7 @@ module.exports = function(config) {
 
   // Layout aliases
   config.addLayoutAlias('home', 'layouts/home.njk');
+  config.addLayoutAlias('page', 'layouts/page.njk');
 
   // Transforms
   config.addTransform('htmlmin', htmlMinTransform);

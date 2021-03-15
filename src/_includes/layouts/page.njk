@@ -4,12 +4,17 @@
 {% set introHeading = title %}
 
 {% block content %}
-  <main id="main-content" tabindex="-1">
-    <article class="">
-      {% include "partials/components/intro.njk" %}
-      <div class="">
-        {{ content | safe }}
+  <main id="main-content">
+    {% include "partials/components/intro.njk" %}
+    <article>
+      <div class="wrapper grid-wrapper">
+        <div class="grid-item">
+        </div>
+        <div class="grid-item">
+          {{ content | safe }}
+        </div>
       </div>
+    </section>
     </article>
   </main>
 {% endblock %}
