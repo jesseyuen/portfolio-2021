@@ -10,6 +10,10 @@ intro: >-
 
 
   This design project was completed while I freelanced remotely for Studio Papa, a digital agency based in Western Australia. The budget was (very) tight yet we wanted to deliver something that would be flexible enough to allow our client to scale their online presence and offerings.
+testField: |-
+  # heading test
+
+  body test
 ---
 ## Test body
 
