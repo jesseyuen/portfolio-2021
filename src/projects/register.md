@@ -2,7 +2,7 @@
 layout: layouts/project.njk
 title: Register
 permalink: /register/index.html
-role: Design
+role: Design, test, test
 employer: Department for Education
 year: "202"
 intro: >-
