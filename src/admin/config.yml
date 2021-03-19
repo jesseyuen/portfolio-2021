@@ -52,8 +52,10 @@ collections:
       - {label: "Role/s", name: "role", widget: "string"}
       - {label: "Employer", name: "employer", widget: "string"}
       - {label: "Year", name: "year", widget: "string"}
-      - {label: "Intro", name: "intro", widget: "markdown"}
+      - {label: "Intro heading", name: "introHeading", widget: "string", required: false}
+      - {label: "Intro", name: "intro", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Outro heading", name: "outroHeading", widget: "string",required: false}
       - {label: "Outro", name: "outro", widget: "markdown", required: false}
   - name: "Thoughts"
     label: "Thoughts"

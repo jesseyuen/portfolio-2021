@@ -27,13 +27,17 @@
           {# empty #}
         </div>
         <div class="grid-item">
-          <section class="project-summary">
-            {{ intro | safe }}
-          </section>
+          {% if intro %}
+            <section class="project-summary">
+              <h3>{{ introHeading | safe }}</h3>
+              <p>{{ intro | safe }}</p>
+            </section>
+          {% endif %}
           {{ content | safe }}
           {% if outro %}
             <section class="project-summary">
-              {{ outro | safe }}
+              <h3>{{ outroHeading | safe }}</h3>
+              <p>{{ outro | safe }}</p>
             </section>
           {% endif %}
         </div>
