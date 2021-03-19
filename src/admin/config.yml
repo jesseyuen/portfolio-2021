@@ -56,7 +56,7 @@ collections:
       - {label: "Intro", name: "intro", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Outro heading", name: "outroHeading", widget: "string",required: false}
-      - {label: "Outro", name: "outro", widget: "markdown", required: false}
+      - {label: "Outro", name: "outro", widget: "text", required: false}
   - name: "Thoughts"
     label: "Thoughts"
     folder: "src/thoughts"
