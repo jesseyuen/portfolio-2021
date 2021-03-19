@@ -1,20 +1,16 @@
 ---
 layout: layouts/project.njk
-title: Register
-permalink: /register/index.html
-role: Design, test, test
+title: Project name
+permalink: /name/index.html
+role: test, test, test
 employer: Department for Education
-year: "202"
+year: "2020"
 intro: >-
   ## Test intro
-
-
-  This design project was completed while I freelanced remotely for Studio Papa, a digital agency based in Western Australia. The budget was (very) tight yet we wanted to deliver something that would be flexible enough to allow our client to scale their online presence and offerings.
-testField: |-
-  # heading test
-
-  body test
+  test content
+testField: >-
+  # Heading test
+  test content
 ---
-## Test body
-
-This design project was completed while I freelanced remotely for Studio Papa, a digital agency based in Western Australia. The budget was (very) tight yet we wanted to deliver something that would be flexible enough to allow our client to scale their online presence and offerings.
+## Test heading
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
