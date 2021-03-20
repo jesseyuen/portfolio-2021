@@ -50,9 +50,9 @@ collections:
       - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
       - {label: "Social Image", name: "socialImage", widget: "image", required: false}
       - {
-        label: "Role"
-            name: "items"
-            widget: "list"
+        label: "Role",
+            name: "items",
+            widget: "list",
             fields:
               - {label: "Item", name: "item", widget: "string"}
         }
