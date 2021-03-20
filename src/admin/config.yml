@@ -53,7 +53,7 @@ collections:
         name: "roles"
         widget: "list"
         fields:
-          - {name: "item", widget: "string"}
+          - {label: "Item", name: "item", widget: "string"}
       - {label: "Employer", name: "employer", widget: "string"}
       - {label: "Year", name: "year", widget: "string"}
       - {label: "Intro heading", name: "introHeading", widget: "string", required: false}
