@@ -25,6 +25,11 @@
         <div class="grid-item">
           <h2>Role</h2>
           {{role}}
+          <ul>
+          {% for item in items %}
+            <li>{{item}}</li>
+          {% endfor %}
+          </ul>
           <h2>{{employer}}</h2>
           {{year}}
         </div>
