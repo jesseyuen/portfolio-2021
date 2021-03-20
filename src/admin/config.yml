@@ -49,7 +49,11 @@ collections:
       - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
       - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
       - {label: "Social Image", name: "socialImage", widget: "image", required: false}
-      - {label: "Role/s", name: "role", widget: "text"}
+      - label: "Role"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: "Item", name: "item", widget: "string"}
       - {label: "Employer", name: "employer", widget: "string"}
       - {label: "Year", name: "year", widget: "string"}
       - {label: "Intro heading", name: "introHeading", widget: "string", required: false}
