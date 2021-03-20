@@ -13,18 +13,20 @@
           <h2 class="intro__heading">{{ introHeading }}</h2>
         </div>
         <div class="grid-item">
-          <h2>Role</h2>
+          {# <h2>Role</h2>
           {{role}}
           <h2>{{employer}}</h2>
-          {{year}}
+          {{year}} #}
         </div>
       </div>
     </section>
     <article>
       <div class="wrapper grid-wrapper">
         <div class="grid-item">
-          {{ testField | safe }}
-          {# empty #}
+          <h2>Role</h2>
+          {{role}}
+          <h2>{{employer}}</h2>
+          {{year}}
         </div>
         <div class="grid-item">
           {% if intro %}
