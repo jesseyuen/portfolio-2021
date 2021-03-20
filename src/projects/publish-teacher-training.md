@@ -2,7 +2,9 @@
 layout: layouts/project.njk
 title: Publish teacher training
 permalink: /publish-teacher-training/index.html
-role: Designer, digital service delivery
+role: |-
+  * Design
+  * digital service delivery
 employer: Department for Education
 year: "2022"
 introHeading: The challenge
