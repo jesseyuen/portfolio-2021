@@ -49,10 +49,10 @@ collections:
       - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
       - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
       - {label: "Social Image", name: "socialImage", widget: "image", required: false}
-      - label: "Navigation"
-        name: "nav"
-        delete: false
-        file: "src/_data/navigation.json"
+      - label: "Navigation",
+        name: "nav",
+        delete: false,
+        file: "src/_data/navigation.json",
         fields:
           - label: "Items"
             name: "items"
