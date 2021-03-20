@@ -52,7 +52,7 @@ collections:
       - {
         label: "Role",
         name: "items",
-        widget: "list",
+        widget: "list"
         fields:
           - {label: "Item", name: "item", widget: "string"}
         }
