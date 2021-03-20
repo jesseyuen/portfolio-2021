@@ -25,6 +25,10 @@ Working closely with a creative director I designed and then developed a libray 
 
 We prioritised accessibility and semantic meaning when developing the system and relied heavily on modern techniques like CSS Grid for layout and CSS Custom Properties for presentation.
 
+
+
+![](/images/demo-image-2.jpg "test caption")
+
 ### Heading
 
 Working closely with a creative director I designed and then developed a libray of components and patterns that is intended for an inhouse team of software engineers. We redesigned their entire collection of interface components as well as developed infrastructure and logic around how they could create new, responsive and accessible layouts.
