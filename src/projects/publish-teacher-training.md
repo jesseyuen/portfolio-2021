@@ -23,8 +23,6 @@ Working closely with a creative director I designed and then developed a libray 
 
 We prioritised accessibility and semantic meaning when developing the system and relied heavily on modern techniques like CSS Grid for layout and CSS Custom Properties for presentation.
 
-
-
 ![](/images/demo-image-2.jpg "test caption")
 
 ### Heading
