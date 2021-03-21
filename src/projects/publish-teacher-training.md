@@ -1,13 +1,10 @@
 ---
-items:
-  - item: Design
-  - item: Delivery
 layout: layouts/project.njk
 title: Publish teacher training
 permalink: /publish-teacher-training/index.html
 roles:
-  - item: role 1
-  - item: role 2
+  - items: role 1
+  - items: role 2
 employer: Department for Education
 year: "2022"
 introHeading: The challenge

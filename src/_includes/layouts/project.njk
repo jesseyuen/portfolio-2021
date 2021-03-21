@@ -24,10 +24,9 @@
       <div class="wrapper grid-wrapper">
         <div class="grid-item">
           <h2>Role</h2>
-          {{role}}
           <ul>
             {% for item in roles %}
-              <li>{{roles.item}}</li>
+              <li>{{items | safe}}</li>
             {% endfor %}
           </ul>
           <h2>{{employer}}</h2>
@@ -52,5 +51,3 @@
     </article>
   </main>
 {% endblock %}
-
-{{ content | safe }}
