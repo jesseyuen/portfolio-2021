@@ -3,8 +3,8 @@ layout: layouts/project.njk
 title: Publish teacher training
 permalink: /publish-teacher-training/index.html
 roles:
-  - items: role 1
-  - items: role 2
+  - itemText: test 1
+  - itemText: test 2
 employer: Department for Education
 year: "2022"
 introHeading: The challenge
