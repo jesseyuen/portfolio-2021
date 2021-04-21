@@ -2,3 +2,19 @@
   padding: var(--spacing-large);
   background: #f8f8f8;
 }
+
+.project-summary + * {
+  margin-top: var(--spacing-xx-large);
+}
+
+figure + * {
+  margin-top: var(--spacing-xx-large);
+}
+
+.project-content p + figure {
+  margin-top: var(--spacing-xx-large);
+}
+
+.project-summary:last-of-type {
+  margin-bottom: var(--spacing-xxx-large);
+}

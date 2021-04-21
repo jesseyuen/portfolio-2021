@@ -1,6 +1,7 @@
 {% extends 'layouts/base.njk' %}
 
-{% from "macros/feature-box/macro.njk"   import appFeatureBox %}
+{# Custom macros #}
+{# {% from "macros/project-item/macro.njk"   import appProjectList %} #}
 
 {# Intro content #}
 {% set introHeading = title %}
@@ -32,7 +33,7 @@
           <h2>{{employer}}</h2>
           {{year}}
         </div>
-        <div class="grid-item">
+        <div class="grid-item project-content">
           {% if intro %}
             <section class="project-summary">
               <h3>{{ introHeading | safe }}</h3>
@@ -52,13 +53,4 @@
   </main>
 {% endblock %}
 
-{{ appFeatureBox ({
-    items: [
-      {
-        text: '/publish-teacher-training'
-      },
-      {
-        text: '/link'
-      }
-    ]
-  }) }}
+

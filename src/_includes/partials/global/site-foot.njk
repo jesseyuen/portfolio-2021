@@ -1,24 +1,10 @@
-<footer role="contentinfo" class="">
-  <div class="wrapper">
-    <div class="">
-      {% if site.shortDesc %}
-        <div>
-          <article class="">
-            <h2 class="font-base text-600">{{ site.name }}</h2>
-            {{ site.shortDesc | markdownFilter | safe }}
-          </article>
-        </div>
-      {% endif %}
-      <div>
-        {% set ariaLabel = 'footer navigation' %}
-        {% include "partials/components/nav.njk" %}
-        <theme-toggle></theme-toggle>
-      </div>
+<footer class="site-foot" role="contentinfo">
+  <div class="wrapper grid-wrapper">
+    <div class="grid-item">
+      <h2>&copy; 2021 Jesse Yuen</h2>
     </div>
-    {% if site.showThemeCredit %}
-      <p class="">
-        Powered by the <a href="https://hylia.website" rel="external">Hylia Eleventy Starter Kit v{{ pkg.version }}</a>.
-      </p>
-    {% endif %}
+    <div class="grid-item">
+      <p>*This includes racism, xenophobia, homophobia, sexism and other forms of intolerance, violence, emotional abuse and bullying, capitalism over planet...</p>
+    </div>
   </div>
 </footer>

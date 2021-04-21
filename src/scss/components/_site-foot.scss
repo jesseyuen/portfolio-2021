@@ -1,18 +1,10 @@
 .site-foot {
-  // Reverse whatever the theme colors are
-  background: var(--color-bg-glare);
-  color: var(--color-text);
-  border-top: 1px solid var(--color-stroke);
+  padding: var(--spacing-large) 0;
+  font-size: var(--font-size-med);
+  color: var(--color-mid);
+  box-shadow: 0 -1px 0 0 var(--color-border);
 
-  a {
-    color: currentColor;
-
-    &:hover {
-      text-decoration: none;
-    }
-  }
-
-  &__credit {
-    text-align: center;
+  h2 {
+    color: var(--color-text-default);
   }
 }

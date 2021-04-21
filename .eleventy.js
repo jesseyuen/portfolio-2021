@@ -14,6 +14,30 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 // Import data files
 const site = require('./src/_data/site.json');
 
+// Markdown helpers 
+const markdownIt        = require("markdown-it");
+// const markdownItAnchor  = require("markdown-it-anchor");
+
+ // =============================================================================
+  // Markdown & slugs
+  // =============================================================================
+  // Markdown options
+  let markdownOptions = {
+    html: true,
+    typographer: true
+  };
+  let markdownLib = markdownIt(markdownOptions).disable('code');
+  // Anchor links
+  // const prettySlug = (s) => string(s).slugify().toString();
+  // let anchorOptions = {
+  //   permalink: true,
+  //   permalinkClass: "anchor-link",
+  //   permalinkSymbol: "#",
+  //   // permalinkBefore: true,
+  //   level: [2,3,4],
+  //   slugify: prettySlug
+  // };
+
 module.exports = function(config) {
   // Filters
   config.addFilter('dateFilter', dateFilter);
@@ -40,6 +64,9 @@ module.exports = function(config) {
    // trigger build when scss changes, don't use .gitignore
 	config.addWatchTarget("src/_includes/scss");
 	config.setUseGitIgnore(false);
+  
+  // from Ed
+  config.setLibrary("md", markdownLib);
 
   const now = new Date();
 
@@ -77,9 +104,14 @@ module.exports = function(config) {
   // });
 
   return {
+    templateFormats: ['njk', 'md'],
+    markdownTemplateEngine: 'njk',
+    dataTemplateEngine: 'njk',
+    htmlTemplateEngine: 'njk',
     dir: {
       input: 'src',
-      output: 'dist'
+      output: 'dist',
+      includes: '_includes'
     },
     passthroughFileCopy: true
   };
