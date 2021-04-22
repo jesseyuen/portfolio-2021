@@ -15,6 +15,32 @@ figure + * {
   margin-top: var(--spacing-xx-large);
 }
 
-.project-summary:last-of-type {
-  margin-bottom: var(--spacing-xxx-large);
+// .project-summary:last-of-type {
+//   margin-bottom: var(--spacing-xxx-large);
+// }
+
+.project__heading {
+  grid-column: 1 / span 6;
+}
+
+.project__content {
+  grid-column: 2 / span 3;
+}
+
+.project__meta {
+  grid-column: 5 / span 2;
+  padding-left: var(--spacing-xx-large);
+}
+
+.project__meta-inner {
+  position: sticky;
+  top: calc(var(--spacing-x-large) + 70px);
+}
+
+.project .intro__heading {
+  padding-bottom: var(--spacing-xx-large);
+}
+
+.project .intro {
+  padding-bottom: var(--spacing-xxxx-large);
 }
