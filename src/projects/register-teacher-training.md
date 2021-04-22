@@ -1,6 +1,7 @@
 ---
 layout: layouts/project.njk
-title: Publish teacher training
+title: Register teacher training
+blurb: Co-designing a new service from private to public beta
 permalink: /register-teacher-training/index.html
 roles:
   - itemText: test 1
@@ -10,8 +11,8 @@ year: "2022"
 introHeading: The challenge
 intro: This design project was completed while I freelanced remotely for Studio
   Papa, a digital agency based in Western Australia. The budget was (very) tight
-  yet we wanted to deliver something that would be flexible
-  enough to allow our client to scale their online presence and offerings.
+  yet we wanted to deliver something that would be flexible enough to allow our
+  client to scale their online presence and offerings.
 outroHeading: Outcome
 outro: This design project was [completed while](google.com) I freelanced
   remotely for Studio Papa, a digital agency based in Western Australia. The
