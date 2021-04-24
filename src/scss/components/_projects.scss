@@ -2,6 +2,14 @@
   padding: var(--spacing-xxxx-large) 0;
   box-shadow: 0 -1px 0 0 var(--color-border);
 
+  .grid-item:nth-child(1) {
+    grid-column: 1 / span 1;
+  }
+  
+  .grid-item:nth-child(2) {
+    grid-column: 2 / span 3;
+  }
+
   h2 {
     position: sticky;
     top: calc(var(--spacing-x-large) + 70px);
@@ -16,29 +24,29 @@
       transition: color var(--duration-quickly), 
       // box-shadow var(--duration-quickly),
       // text-shadow var(--duration-quickly),
-      background var(--duration-quickly);
+      // background var(--duration-quickly);
     }
 
     //When hover on the list item
     &:hover {
-      .projects__item-heading a,
-      .projects__item-desc {
-        background: #FCEABE;
-      }
+      // .projects__item-heading a,
+      // .projects__item-desc {
+      //   background: #FCEABE;
+      // }
 
-      .projects__item-heading {
-        text-shadow: none;
-        box-shadow: none;
-      }
+      // .projects__item-heading {
+      //   text-shadow: none;
+      //   box-shadow: none;
+      // }
 
-      .projects__item-heading:before {
-        opacity: 0;
-      }
+      // .projects__item-heading:before {
+      //   opacity: 0;
+      // }
 
-      .projects__item-desc,
-      .projects__item-details {
-        color: var(--color-text-default);
-      }
+      // .projects__item-desc,
+      // .projects__item-details {
+      //   color: var(--color-text-default);
+      // }
 
     }
   }
@@ -47,32 +55,34 @@
     margin: var(--spacing-xx-large) 0 0 0;
   }
   
-  &__item-heading {
-    display: inline-block;
-    line-height: 1.2;
-    text-shadow: 2px 2px 0 #fff, -2px 2px 0 #fff, 3px 0 0 #fff, -3px 0 0 #fff;
-    box-shadow: inset 0 -1px 0 0 #fff, inset 0 -4px 0 0 var(--color-highlight);
+  &__item-heading a {
   }
   
   &__item-heading a {
+    display: inline-block;
+    margin: 0 0 var(--spacing-medium) 0;
+    line-height: 1.2;
     color: var(--color-text-default);
     font-size: var(--font-size-x-large);
     font-family: var(--font-family-serif);
     font-weight: normal;
     text-decoration: none;
+    box-shadow: inset 0 -1px 0 0 #fff, inset 0 -4px 0 0 var(--color-mid);
+    text-shadow: 2px 2px 0 #fff, -2px 2px 0 #fff, 3px 0 0 #fff, -3px 0 0 #fff;
+    transition: box-shadow var(--duration-quickly);
 
-    &:after {
-      position: absolute;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      content: '';
-      cursor: pointer;
-    }
+    // &:after {
+    //   position: absolute;
+    //   top: 0;
+    //   right: 0;
+    //   bottom: 0;
+    //   left: 0;
+    //   content: '';
+    //   cursor: pointer;
+    // }
 
     &:hover {
-      text-decoration: none;
+      box-shadow: inset 0 -1px 0 0 #fff, inset 0 -4px 0 0 var(--color-highlight);
     }
   }
 

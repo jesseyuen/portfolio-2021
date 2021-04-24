@@ -1,19 +1,38 @@
 .intro {
-  padding: 8rem 0;
+  padding: 6rem 0;
+
+  .grid-item:nth-child(1) {
+    grid-column: 1 / span 4;
+  }
   
   &__heading {
     font-size: var(--font-size-xxx-large);
     font-family: var(--font-family-serif);
     line-height: 1;
+    font-weight: 700;
+      
+    @media (min-width: 1500px) {
+      // max-width: 90%;
+    }
+
+  }
+  
+  &__blurb {
+    grid-column: 1 / span 4;
+    font-size: var(--font-size-large);
+    font-family: var(--font-family-serif);
+    line-height: 1.2;
     font-weight: normal;
       
     @media (min-width: 1500px) {
-      max-width: 90%;
+      // max-width: 70%;
     }
 
   }
 
   .contact-list {
+    padding-left: var(--spacing-xx-large);
+    
     &__heading {
       font-size: var(--font-size-med);
     }

@@ -1,13 +1,13 @@
 ---
 layout: layouts/project.njk
 title: Register teacher training
-blurb: Co-designing a new service from private to public beta
+blurb: We redesigned their entire collection of interface components as well as developed infrastructure and logic around how they could create new, responsive and accessible layouts.
 permalink: /register-teacher-training/index.html
 roles:
-  - itemText: test 1
-  - itemText: test 2
+  - itemText: Digital service delivery
+  - itemText: Interaction design
 employer: Department for Education
-year: "2022"
+year: "2021"
 introHeading: The challenge
 intro: This design project was completed while I freelanced remotely for Studio
   Papa, a digital agency based in Western Australia. The budget was (very) tight
