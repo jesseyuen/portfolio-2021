@@ -59,7 +59,6 @@ collections:
           - {label: "Item text", name: "itemText", widget: "string"}
       - {label: "Employer", name: "employer", widget: "string"}
       - {label: "Year", name: "year", widget: "string"}
-      # - {label: "Lead image", name: "leadImage", widget: "image", required: false}
       - label: "Lead image"
         name: "leadImage"
         widget: "list"
