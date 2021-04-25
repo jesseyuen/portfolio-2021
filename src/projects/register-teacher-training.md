@@ -1,13 +1,16 @@
 ---
 layout: layouts/project.njk
 title: Register teacher training
-blurb: We redesigned their entire collection of interface components as well as developed infrastructure and logic around how they could create new, responsive and accessible layouts.
+blurb: We redesigned their entire collection of interface components as well as
+  developed infrastructure and logic around how they could create new,
+  responsive and accessible layouts.
 permalink: /register-teacher-training/index.html
 roles:
   - itemText: Digital service delivery
   - itemText: Interaction design
 employer: Department for Education
 year: "2021"
+leadImage: /images/demo-image-1.jpg
 introHeading: The challenge
 intro: This design project was completed while I freelanced remotely for Studio
   Papa, a digital agency based in Western Australia. The budget was (very) tight
