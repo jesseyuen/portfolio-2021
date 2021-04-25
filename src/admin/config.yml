@@ -60,14 +60,8 @@ collections:
       - {label: "Employer", name: "employer", widget: "string"}
       - {label: "Year", name: "year", widget: "string"}
       - {label: "Lead image", name: "leadImage", widget: "image", required: false}
-      # - label: "Lead image"
-      #   name: "leadImage"
-      #   widget: "list"
-      #   required: false
-      #   fields:
-      #     - {label: "Item image", name: "itemImage", widget: "image"}
-      #     - {label: "Item alt", name: "itemAlt", widget: "string"}
-      #     - {label: "Item caption", name: "itemCaption", widget: "string"}
+      - {label: "Lead image alt", name: "leadImageAlt", widget: "string", required: false}
+      - {label: "Lead image caption", name: "leadImageCaption", widget: "string", required: false}
       - {label: "Intro heading", name: "introHeading", widget: "string", required: false}
       - {label: "Intro", name: "intro", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}

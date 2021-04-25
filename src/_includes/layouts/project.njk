@@ -34,7 +34,10 @@
         <div class="project__content-wrapper">
           {% if intro %}
             <div class="intro__image">
-              <img src="{{ leadImage}}">
+              <figure>
+                <img src="{{leadImage}}" alt="{{leadImage}}">
+                <figpation>{{leadImageCaption}}</figpation>
+              </figure>
             </div>
           {% endif %}
           <div class="grid-item project__content">
