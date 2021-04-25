@@ -36,7 +36,8 @@ module.exports = function(value, outputPath) {
           const figure = document.createElement('figure');
           const figCaption = document.createElement('figcaption');
 
-          figCaption.innerHTML = image.getAttribute('title');
+          // figCaption.innerHTML = image.getAttribute('title');
+          figCaption.innerHTML = "<div class='figcaption__inner'>" + image.getAttribute('title') + "</div>";
 
           image.removeAttribute('title');
 

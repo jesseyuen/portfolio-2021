@@ -14,9 +14,6 @@
           <h2 class="intro__heading">{{ introHeading }}</h2>
         </div>
         <p class="intro__blurb">{{ blurb }}</p>
-        <div class="intro__image">
-          {{ leadImage}}
-        </div>
       </div>
     </section>
     <article>
@@ -34,21 +31,28 @@
             <a href="/">View more work</a>
           </div>
         </div>
-        <div class="grid-item project__content">
+        <div class="project__content-wrapper">
           {% if intro %}
-            <section class="project-summary">
-              <h3>{{ introHeading | safe }}</h3>
-              <p>{{ intro | safe }}</p>
-            </section>
+            <div class="intro__image">
+              <img src="{{ leadImage}}">
+            </div>
           {% endif %}
-          {{ content | safe }}
-          {% if outro %}
-            <section class="project-summary">
-              <h3>{{ outroHeading | safe }}</h3>
-              <p>{{ outro | safe }}</p>
-            </section>
-          {% endif %}
-        </div>
+          <div class="grid-item project__content">
+            {% if intro %}
+              <section class="project-summary">
+                <h3>{{ introHeading | safe }}</h3>
+                <p>{{ intro | safe }}</p>
+              </section>
+            {% endif %}
+            {{ content | safe }}
+            {% if outro %}
+              <section class="project-summary">
+                <h3>{{ outroHeading | safe }}</h3>
+                <p>{{ outro | safe }}</p>
+              </section>
+            {% endif %}
+          </div>
+        <div>
       </div>
     </article>
   </main>

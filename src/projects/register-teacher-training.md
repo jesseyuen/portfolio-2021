@@ -27,7 +27,7 @@ Working closely with a creative director I designed and then developed a libray 
 
 We prioritised accessibility and semantic meaning when developing the system and relied heavily on modern techniques like CSS Grid for layout and CSS Custom Properties for presentation.
 
-![](/images/demo-image-2.jpg "test caption")
+![](/images/demo-image-2.jpg "Working closely with a creative director I designed and then developed a libray of components.")
 
 ### Heading
 
@@ -37,7 +37,7 @@ We prioritised accessibility and semantic meaning when developing the system and
 
 test
 
-> ![](/images/demo-image-1.jpg "test caption")
+> ![](/images/demo-image-1.jpg "Working closely with a creative director I designed and then developed a libray of components.")
 
 test test
 

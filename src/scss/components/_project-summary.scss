@@ -9,12 +9,40 @@
 }
 
 figure {
+  display: flex;
+  flex-direction: row-reverse;
   margin-top: var(--spacing-xx-large);
-  margin-left: -250px;
+  margin-left: calc((-1600px/6) * 1);
+  // width: calc((100vw - 1600px)/)
+  // width: calc((1600px/6) * 4);
+  
+  img {
+    max-width: calc((1600px/6) * 3);
+    max-width: 768px;
+  }
+  
+  figcaption {
+    width: calc((1600px/6) * 1);
+    align-items: flex-start;
+    font-size: var(--font-size-default);
+    color: var(--color-mid);
+    padding-right: var(--spacing-large);
+  }
+  
+  .figcaption__inner {
+    position: sticky;
+    top: calc(var(--spacing-x-large) + 70px);
+  }
 }
 
 figure + * {
   margin-top: var(--spacing-xx-large);
+}
+
+.project__content-wrapper {
+  grid-column: 1 / span 4;
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
 }
 
 .project-content p + figure {

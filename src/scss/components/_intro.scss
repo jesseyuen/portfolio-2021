@@ -33,6 +33,7 @@
 
   &__image {
     grid-column: 1 / span 4;
+    margin-bottom: var(--spacing-xx-large);
   }
 
   .contact-list {
