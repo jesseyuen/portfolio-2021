@@ -12,7 +12,7 @@ employer: Department for Education
 year: "2021"
 leadImage: /images/demo-image-1.jpg
 leadImageAlt: test alt
-leadImageCaption: Test caprtion
+leadImageCaption: Test caption
 introHeading: The challenge
 intro: This design project was completed while I freelanced remotely for Studio
   Papa, a digital agency based in Western Australia. The budget was (very) tight

@@ -90,7 +90,12 @@ figure + * {
   
   p + a {
     display: inline-block;
-    margin-top: var(--spacing-medium);
+    margin-top: var(--spacing-xx-large);
+    text-decoration: none;
+
+    span {
+      text-decoration: underline;
+    }
   }
 
   ul {
@@ -105,9 +110,9 @@ figure + * {
   top: calc(var(--spacing-x-large) + 70px);
 }
 
-.project .intro__heading {
-  padding-bottom: var(--spacing-medium);
-}
+// .project .intro__heading {
+//   padding-bottom: var(--spacing-medium);
+// }
 
 .project .intro__blurb {
   color: var(--color-mid);

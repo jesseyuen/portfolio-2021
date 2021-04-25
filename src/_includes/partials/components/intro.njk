@@ -2,8 +2,11 @@
   <div class="wrapper grid-wrapper">
     <div class="grid-item">
       <h2 class="intro__heading">{{ introHeading }}</h2>
+      {% if blurb %}
+        <p class="intro__blurb">{{ blurb }}</p>
+      {% endif %}
     </div>
-    <div class="grid-item">
+    {# <div class="grid-item">
       <div class="contact-list">
         <h2 class="contact-list__heading">Contact <span class="visually-hidden">{{ site.name }}</span></h2> 
         <ul>
@@ -18,6 +21,6 @@
           </li>
         </ul>
       </div>
-    </div>
+    </div> #}
   </div>
 </section>

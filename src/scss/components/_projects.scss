@@ -1,5 +1,5 @@
 .projects {
-  padding: var(--spacing-xxxx-large) 0;
+  padding: var(--spacing-xxx-large) 0;
   box-shadow: 0 -1px 0 0 var(--color-border);
 
   .grid-item:nth-child(1) {
@@ -63,7 +63,7 @@
     margin: 0 0 var(--spacing-medium) 0;
     line-height: 1.2;
     color: var(--color-text-default);
-    font-size: var(--font-size-x-large);
+    font-size: var(--font-size-large);
     font-family: var(--font-family-serif);
     font-weight: normal;
     text-decoration: none;
@@ -88,8 +88,8 @@
 
   &__item-desc {
     display: inline-block;
-    font-size: var(--font-size-large);
-    color: var(--color-mid);
+    font-size: var(--font-size-medium);
+    // color: var(--color-mid);
     margin-bottom: var(--spacing-medium);
   }
 

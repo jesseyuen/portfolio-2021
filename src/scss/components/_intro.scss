@@ -1,5 +1,5 @@
 .intro {
-  padding: 6rem 0 0;
+  padding: var(--spacing-xxxx-large) 0;
 
   .grid-item:nth-child(1) {
     grid-column: 1 / span 4;
@@ -8,8 +8,13 @@
   &__heading {
     font-size: var(--font-size-xxx-large);
     font-family: var(--font-family-serif);
+    // margin-bottom: var(--spacing-medium);
     line-height: 1;
     font-weight: 700;
+    
+    .home & {
+      font-size: var(--font-size-xx-large);
+    }
       
     @media (min-width: 1500px) {
       // max-width: 90%;
@@ -23,7 +28,8 @@
     font-family: var(--font-family-serif);
     line-height: 1.2;
     font-weight: normal;
-    margin-bottom: var(--spacing-mega-large);
+    color: var(--color-mid);
+    margin-top: var(--spacing-x-large);
       
     @media (min-width: 1500px) {
       // max-width: 70%;
@@ -36,30 +42,4 @@
     margin-bottom: var(--spacing-xx-large);
   }
 
-  .contact-list {
-    padding-left: var(--spacing-xx-large);
-
-    &__heading {
-      font-size: var(--font-size-med);
-    }
-    
-    ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-
-    li {
-      padding: 0;
-    }
-
-    a {
-      color: var(--color-mid);
-      text-decoration: none;
-    }
-
-    a:hover {
-      color: var(--color-text-default);
-    }
-  }
 }
