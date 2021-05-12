@@ -68,7 +68,7 @@
     font-weight: normal;
     text-decoration: none;
     box-shadow: inset 0 -1px 0 0 #fff, inset 0 -4px 0 0 var(--color-mid);
-    text-shadow: 2px 2px 0 #fff, -2px 2px 0 #fff, 3px 0 0 #fff, -3px 0 0 #fff;
+    text-shadow: 2px 2px 0 var(--color-background-alt), -2px 2px 0 var(--color-background-alt), 3px 0 0 var(--color-background-alt), -3px 0 0 var(--color-background-alt);
     transition: box-shadow var(--duration-quickly);
 
     // &:after {
@@ -94,7 +94,7 @@
   }
 
   &__item-details {
-    font-size: var(--font-size-medium);
+    font-size: var(--font-size-default);
     padding-bottom: var(--spacing-small);
     color: var(--color-mid);
   }

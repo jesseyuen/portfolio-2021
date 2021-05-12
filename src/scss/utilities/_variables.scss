@@ -35,7 +35,8 @@
   --color-text-alt: #fff;
   
   --color-background: #fff;
-  --color-background-alt: #fbfaf7;
+  // --color-background-alt: #fbfaf7;
+  --color-background-alt: #fbf9f4;
   --color-background-selection: #f0f2f3;
   --color-base: #f8f8f8;
   --color-border: #e5e5e5;
@@ -69,6 +70,9 @@
     
   --grid-column-gap: 2vw;
   --grid-row-gap: 2vh;
+  
+  //600px
+  --width-800: 37.5rem;
   
   //800px
   --width-800: 50rem;

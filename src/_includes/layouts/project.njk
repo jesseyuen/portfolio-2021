@@ -20,23 +20,27 @@
       <div class="wrapper grid-wrapper grid-wrapper--reverse project__body">
         <div class="grid-item project__meta">
           <div class="project__meta-inner">
-            <h2>Role</h2>
-            <ul>
-              {% for item in roles %}
-                <li>{{item.itemText}}</li>
-              {% endfor %}
-            </ul>
-            <h2>{{employer}}</h2>
-            <p>{{year}}</p>
-            <a href="/">&#9702; <span>View more work</span></a>
+            <div>
+              <h2>Role</h2>
+              <ul>
+                {% for item in roles %}
+                  <li>{{item.itemText}}</li>
+                {% endfor %}
+              </ul>
+            </div>
+            <div>
+              <h2>{{employer}}</h2>
+              <p>{{year}}</p>
+              <a href="/"><span>View more work</span></a>
+            </div>
           </div>
         </div>
-        <div class="project__content-wrapper">
+        <div class="project__content-wrapper grid-item">
           {% if intro %}
             <div class="intro__image">
               <figure>
                 <img src="{{leadImage}}" alt="{{leadImage}}">
-                <figpation>{{leadImageCaption}}</figpation>
+                <figcaption>{{leadImageCaption}}</figcaption>
               </figure>
             </div>
           {% endif %}

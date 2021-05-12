@@ -41,9 +41,8 @@ test
 
 > ![](/images/demo-image-1.jpg "Working closely with a creative director I designed and then developed a libray of components.")
 
-test test
 
-{% import "macros/macros.njk" as macro %}
+<!-- {% import "macros/macros.njk" as macro %}
 
 {{ macro.appProjectList({
   items: [
@@ -60,5 +59,5 @@ test test
       details: 'tag name, tag name'
     }
   ]
-}) | safe }}
+}) | safe }} -->
 
