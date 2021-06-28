@@ -102,6 +102,12 @@
     color: var(--color-mid);
   }
 
+  @media (min-width: 37.5em) and (max-width: 75em) {
+    .grid-item:nth-child(2) {
+      padding-left: var(--spacing-large);
+    }
+  }
+
   @media (min-width: 37.5em){
     padding: var(--spacing-xxx-large) 0;
 

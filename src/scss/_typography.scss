@@ -41,4 +41,12 @@ h2 {
 
 a {
   transition: color var(--duration-quickly);
+
+  &:focus {
+    outline: 3px solid transparent;
+    color: var(--color-text-default) !important;
+    background-color: var(--color-highlight);;
+    // box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c;
+    text-decoration: none !important;
+  }
 }
