@@ -1,12 +1,16 @@
 .intro {
-  padding: var(--spacing-xxxx-large) 0;
+  padding: var(--spacing-x-large) 0;
 
   .grid-item:nth-child(1) {
     grid-column: 2 / span 4;
   }
+
+  * + * {
+    margin-top: var(--spacing-x-large);
+  }
   
   &__heading {
-    font-size: var(--font-size-xxx-large);
+    font-size: var(--font-size-xx-large);
     font-family: var(--font-family-serif);
     // margin-bottom: var(--spacing-medium);
     line-height: 1;
@@ -29,10 +33,9 @@
     line-height: 1.2;
     font-weight: normal;
     color: var(--color-mid);
-    margin-top: var(--spacing-x-large);
       
     @media (max-width: 1200px) {
-      grid-column: 2 / span 4;
+      grid-column: 2 / span 5;
     }
 
   }
@@ -44,6 +47,10 @@
     img {
       margin-bottom: var(--spacing-medium);
     }
+  }
+
+  @media (min-width: 37.5em){
+    padding: var(--spacing-xxxx-large) 0;
   }
 
   @media (max-width: 1200px) {

@@ -63,11 +63,16 @@ figcaption {
 }
 
 .project__content-wrapper {
-  grid-column: 1 / span 4;
-  display: grid;
-  grid-template-columns: repeat(4,1fr);
+  padding: 0;
+  // margin: 0 -20px;
   
-  @media (max-width: 1200px){
+  @media (min-width: 37.5em) { 
+    display: grid;
+    grid-column: 1 / span 4;
+    grid-template-columns: repeat(4,1fr);
+  }
+  
+  @media (max-width: 75em){
     grid-template-columns: repeat(6, 1fr);
     grid-column: 1 / span 6;
   }
@@ -151,7 +156,7 @@ figcaption {
   margin-bottom: var(--spacing-medium);
   font-family: var(--font-family-serif);
   font-size: var(--font-size-large);
-  font-weight: 400;
+  font-weight: 700;
 
   .heading-permalink {
     display: none;

@@ -1,4 +1,6 @@
 .site-nav {
+  font-size: var(--font-size-medium);
+
   ul {
     display: flex;
     list-style: none;
@@ -12,4 +14,18 @@
   a {
      padding: 30px 10px;
   }
+  
+  @media (min-width: 37.5em) and (max-width: 75em) {
+    ul {
+      justify-content: flex-end;
+    }
+  }
+
+  @media (max-width: 37.5em) {
+    ul {
+      margin-left: -20px;
+    }
+
+  }
+
 }
