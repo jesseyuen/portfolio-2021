@@ -4,7 +4,7 @@ title: Register teacher training
 blurb: We redesigned their entire collection of interface components as well as
   developed infrastructure and logic around how they could create new,
   responsive and accessible layouts.
-permalink: /register-teacher-training/index.html
+permalink: /projects/register-teacher-training/index.html
 roles:
   - itemText: Digital service delivery
   - itemText: Interaction design

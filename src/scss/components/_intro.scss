@@ -29,7 +29,7 @@
   &__blurb {
     grid-column: 2 / span 4;
     font-size: var(--font-size-large);
-    font-family: var(--font-family-serif);
+    // font-family: var(--font-family-serif);
     line-height: 1.2;
     font-weight: normal;
     color: var(--color-mid);
@@ -65,4 +65,29 @@
 
   }
 
+}
+
+.page2 {
+  
+  h2 {
+    margin-bottom: var(--spacing-medium);
+  }
+  
+  p + p {
+    margin-top: var(--spacing-medium);
+  }
+  
+  p + h2 {
+    margin-top: var(--spacing-large);
+  }
+  
+  .grid-item:nth-child(2) {
+    grid-column: 2 / span 3;
+  }
+
+  @media (max-width: 1200px) {
+    .grid-item:nth-child(2) {
+      grid-column: 1 / span 5;
+    }
+  }
 }
