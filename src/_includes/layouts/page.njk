@@ -4,7 +4,7 @@
 {% set introHeading = title %}
 
 {% block content %}
-  <main id="main-content">
+  <main id="main-content" class="page">
     <section class="intro">
       <div class="wrapper grid-wrapper grid-wrapper--reverse">
         <div class="grid-item">
@@ -18,7 +18,7 @@
     <article>
       <div class="wrapper grid-wrapper">
         <div class="grid-item">
-          page template
+          {# page template #}
         </div>
         <div class="grid-item">
           {{ content | safe }}
@@ -28,5 +28,3 @@
     </article>
   </main>
 {% endblock %}
-
-{{ content | safe }}
