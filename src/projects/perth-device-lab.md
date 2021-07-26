@@ -1,7 +1,8 @@
 ---
 layout: layouts/project.njk
 title: Perth Device Lab
-blurb: It was an open source project which centered around face-to-face human interaction rather than the impersonal act of forking someones repo.
+blurb: It was an open source project which centered around face-to-face human
+  interaction rather than the impersonal act of forking someones repo.
 permalink: /projects/perth-device-lab/index.html
 roles:
   - itemText: Community facilitation
@@ -13,6 +14,8 @@ year: "2016"
 leadImage: /images/device-lab-1.jpg
 leadImageAlt: test alt
 leadImageCaption: Opening week of the Perth Device lab in February 2016. So neat and tidy!
+introHeading: Intro
+intro: Test
 outroHeading: Outcome
 outro: Content here
 ---
