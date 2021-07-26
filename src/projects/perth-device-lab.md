@@ -14,8 +14,8 @@ year: "2016"
 leadImage: /images/device-lab-1.jpg
 leadImageAlt: test alt
 leadImageCaption: Opening week of the Perth Device lab in February 2016. So neat and tidy!
-introHeading: Intro
-intro: Test
+introHeading: ""
+intro: ""
 outroHeading: Outcome
 outro: Content here
 ---
