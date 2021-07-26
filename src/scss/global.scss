@@ -63,6 +63,16 @@ ol[class] {
 /* A elements that don't have a class get default styles */
 a:not([class]) {
   text-decoration-skip-ink: auto;
+  color: #fff;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.1em;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.1em;
+  text-decoration-color: var(--color-highlight);
+  
+  &:hover {
+    color: var(--color-highlight);
+  }
 }
 
 /* Make images easier to work with */

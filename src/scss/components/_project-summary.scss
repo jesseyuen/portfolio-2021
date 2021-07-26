@@ -1,7 +1,8 @@
 .project-summary {
   padding: var(--spacing-large);
-  background: var(--color-background);
-  border: 1px solid var(--color-border);
+  // background: var(--color-background);
+  background: var(--color-background-breakout);
+  // border: 1px solid var(--color-border);
 }
 
 .project-summary + * {
@@ -152,11 +153,12 @@ figcaption {
   color: var(--color-mid);
 }
 
-.project h3 {
+.project h3,
+.page2 h2:not(.intro__heading) {
   margin-bottom: var(--spacing-medium);
   font-family: var(--font-family-serif);
-  font-size: var(--font-size-large);
-  font-weight: 700;
+  font-size: var(--font-size-x-large);
+  font-weight: 400;
 
   .heading-permalink {
     display: none;

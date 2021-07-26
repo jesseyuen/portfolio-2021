@@ -13,8 +13,8 @@
   // TODO fluid type!
   --font-size-xxx-large: 4rem;
   --font-size-xx-large: 3rem;
-  --font-size-x-large: 2.4rem;
-  --font-size-large: 1.8rem;
+  --font-size-x-large: 2.2rem;
+  --font-size-large: 1.7rem;
   --font-size-medium: 1.4rem;
   --font-size-default: 1rem;
 
@@ -24,7 +24,7 @@
     // 64px  
     --font-size-xx-large: 3.998rem;
     // 45px
-    --font-size-x-large: 2.827rem;
+    --font-size-x-large: 2.6rem;
     // 32px
     --font-size-large: 1.99rem;
     //22px
@@ -42,17 +42,22 @@
   
   --color-highlight: #F9B60C;
   
-  --color-text-default: #3A3A3A;
+  // --color-text-default: #3A3A3A;
+  --color-text-default: #fff;
   --color-text-alt: #fff;
   
   --color-background: #fff;
   // --color-background-alt: #fbfaf7;
-  --color-background-alt: #fbf9f4;
+  // --color-background-alt: #fbf9f4;
+  --color-background-alt: #1d1d1d;
+  --color-background-breakout: #363636;
   --color-background-selection: #f0f2f3;
   --color-base: #f8f8f8;
-  --color-border: #e5e5e5;
+  // --color-border: #e5e5e5;
+  --color-border: #3f3f3f;
   --color-light: #fff;
-  --color-mid: #6E6E6E;
+  // --color-mid: #6E6E6E;
+  --color-mid: #a3a3a3;
   // --color-dark: #494957;
   // --color-darkest: #292935;
   

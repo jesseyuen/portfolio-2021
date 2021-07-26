@@ -41,12 +41,16 @@ h2 {
 
 a {
   transition: color var(--duration-quickly);
-
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.1em;
+  
   &:focus {
     outline: 3px solid transparent;
     color: var(--color-text-default) !important;
     background-color: var(--color-highlight);;
     // box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c;
+    // text-decoration-thickness: 2px;
     text-decoration: none !important;
+    color: var(--color-background-alt) !important;
   }
 }
