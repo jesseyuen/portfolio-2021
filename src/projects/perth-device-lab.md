@@ -1,8 +1,8 @@
 ---
 layout: layouts/project.njk
 title: Perth Device Lab
-blurb: It was an open source project which centered around face-to-face human
-  interaction rather than the impersonal act of forking someones repo.
+blurb: An open source project which involved face-to-face human interaction
+  rather than the impersonal act of forking someones repo.
 permalink: /projects/perth-device-lab/index.html
 roles:
   - itemText: Community facilitation
@@ -24,8 +24,6 @@ The Device Lab was my passion project while working for [Humaan](http://humaan.
 ![](/images/device-lab-2.jpg "A welcoming and vibrant space to test your website or perhaps hot desk for a while.")
 
 The lab is probably much like many other testing environments you might find in the web development industry. A collection of devices in a room. What make this lab different is that the doors are open to the public!
-
-### Converasational
 
 Before opened we dubbed the lab the *Device Lounge*. This reflected our intention for the space to be warm and welcoming for visitors. Somewhere you felt relaxed. Casual, conversational copy and a vibrant colour palette helped convey this online.
 
