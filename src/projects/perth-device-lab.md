@@ -44,6 +44,6 @@ We wanted the online and onsite experience to remain consistent (and positive) f
 
 ## A performance budget you say?
 
-Typically you might start a design project with some rough sketches or a moodboard. This project begun with a performance budget. On first load the site needed to weigh < 1mb on the common mobile viewport and < 2mb for common desktop viewport.
+Typically you might start a design project with some rough sketches or a moodboard. This project begun with a performance budget. On first load the site needed to weigh less than 1mb on the common mobile viewport and less 2mb for common desktop viewport.
 
 To help achieve this the design remained lean, css written mobile first, we lazy loaded assets like large images and google maps and webpack bundle optimisation.
