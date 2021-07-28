@@ -170,10 +170,10 @@ figcaption {
   }
 }
 
-.project * + h3 {
+.project__content * + h3 {
   margin-top: var(--spacing-x-large);
 }
 
-.project * + p {
+.project__content * + p {
   margin-top: var(--spacing-medium);
 }
