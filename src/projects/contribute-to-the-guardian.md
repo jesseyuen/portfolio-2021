@@ -33,15 +33,21 @@ How did I convince steak holders?
 
 ### Usability review
 
-What did I find?
-
-Consistency issues
-
+What did I find?\
+Consistency issues\
 Tab patterns bing used incorrectly
 
+![](/images/breakdown.png "Detail of the original design highlighting four areas of focus from the usability review.")
 
+1. Tabs "let users navigate between related sections of content, displaying one section at a time." (GOV UK Design system). These look like tabs but are they really? Under the hood they are radio buttons. \[more here] 
+2. More radios! Though these look totally different to the previous (faux-tabs) set. Why? They also are significantly less prominent to the Frequency row above. My hunch was they we should be visually placing both frequency and contribution amount options at equal importance.
+3. The form fields were very busy. Was it necessary to mark each as *required*? Did we need leading icons to help identify rather generic form fields?
 
-### Piloting components from the design system 
+### What we did
+
+\[more here]
+
+### Piloting components from the design system
 
 This work aligned with the development of the Guardians design system. \
 Choice card ideation and development.
