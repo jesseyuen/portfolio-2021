@@ -1,7 +1,10 @@
 ---
 layout: layouts/project.njk
 title: Contribute to the Guardian
-blurb: test
+blurb: A key project whilst working on The Guardians Revenue and Subscriptions
+  team was around optimising the contribution journey. Stakeholders
+  understandably wanted to maximise profit, though I felt our users deserved
+  more too.
 permalink: /projects/contribute/index.html
 roles:
   - itemText: UX design
@@ -35,6 +38,8 @@ What did I find?
 Consistency issues
 
 Tab patterns bing used incorrectly
+
+
 
 ### Piloting components from the design system 
 
