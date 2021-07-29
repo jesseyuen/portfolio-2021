@@ -13,6 +13,7 @@ roles:
 employer: The Guardian
 year: "2019"
 leadImage: /images/contribute2.png
+leadImageAlt: test
 leadImageCaption: Bold typography and considered UI ensured the new contribution
   journey felt 'Guardian' whilst also making it a far more inclusive experience.
 outroHeading: Outcome
