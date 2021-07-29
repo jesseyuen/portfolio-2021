@@ -42,6 +42,7 @@ Tab patterns bing used incorrectly
 1. Tabs "let users navigate between related sections of content, displaying one section at a time." (GOV UK Design system). These look like tabs but are they really? Under the hood they are radio buttons. \[more here] 
 2. More radios! Though these look totally different to the previous (faux-tabs) set. Why? They also are significantly less prominent to the Frequency row above. My hunch was they we should be visually placing both frequency and contribution amount options at equal importance.
 3. The form fields were very busy. Was it necessary to mark each as *required*? Did we need leading icons to help identify rather generic form fields?
+4. Our third set of radio buttons, again with unique styling. As far as a more traditional style radio appearance, these are still somewhat unconventional and have low contrast.
 
 ### What we did
 
