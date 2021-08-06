@@ -61,21 +61,23 @@
   &__item-heading {
   }
   
-  &__item-heading a {
-    display: inline-block;
+  &__item-heading {
+    display: block;
     margin: 0 0 var(--spacing-medium) 0;
     line-height: 1.2;
     color: var(--color-text-default);
     font-size: var(--font-size-x-large);
     font-family: var(--font-family-serif);
     font-weight: normal;
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 0.1em;
-    text-decoration-color: var(--color-highlight);
-    // color: var(--color-highlight);
     
-    &:hover {
+    a {
+      text-decoration: underline;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 0.1em;
+      text-decoration-color: var(--color-highlight);
+    }
+    
+    a:hover {
       color: var(--color-highlight);
     }
   }
