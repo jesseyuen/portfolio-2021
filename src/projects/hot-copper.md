@@ -1,7 +1,10 @@
 ---
 layout: layouts/project.njk
 title: Hot Copper
-blurb: A research, strategy and design project I worked on at Humaan. The multidisicplary project spanned months (and months), it was a proper big job.
+blurb: a research, strategy and design project I worked on at Humaan. The
+  project spanned months (and months) and involved several members of our team
+  (creative director, user researcher and myself in UX and design) over this
+  period.
 permalink: /projects/hot-copper/index.html
 roles:
   - itemText: Experience design
@@ -10,11 +13,13 @@ employer: Humaan
 year: "2018"
 leadImage: /images/hc-hero.png
 leadImageCaption: "Redesigning Australia’s most popular share market forum,
-  HotCopper, was a big job!"
+  HotCopper, was a big job. "
 outroHeading: Outcome
 outro: |-
-  <p>The designs were handed over to the clients in-house developers with the intention of releasing beta access to a smaller user base for evaluation.</p>
-  <p>Unfortiualtey we weren't involved in the implimentation or pilot release. If I could have done something differently I would have encouraged a mor user centered design approach including usability testing after launch.</p> 
+  <h2>test</h2>
+  ## test
+
+  What would I have done differently?
 ---
 
 [add hero image]
