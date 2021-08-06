@@ -21,9 +21,6 @@ outro: |-
 
   What would I have done differently?
 ---
-
-[add hero image]
-
 ### Information architecture and UX review
 
 We began with a comprehensive site-wide audit. Many questions were asked. 
