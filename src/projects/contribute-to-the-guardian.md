@@ -67,10 +67,10 @@ Sets of radios were also now clearly signposted by accessible labels.
 
 Though much of this design process involved simplification we also wanted to accomodate bespoke marketing events at The Guardian. The updated design had a generous enough amount of realstate to offer bespoke opportunities within contrsatints.
 
-### Measuring success   
-
-This team was obsessed with multi-varient AB testing. Like proper obsessed. I'm more a 'let's stick thi sin  fonr of users' type designer buty I recognise the place AB testing can play, espcially when the key success metric is revenue. This design didnt equiate to a radical uplift in contributions but the trend was positive and tat was enough.  
-
 ![](/images/earth.jpg "Concept design with placeholder illustration.")
 
 ![](/images/free.jpg "Concept design with placeholder illustration. I've forgotten where I found this one now 😬")
+
+### Measuring success   
+
+This team was obsessed with multi-varient AB testing. Like proper obsessed. I'm more a 'let's stick this in  front of users' type designer but I recognise the role AB testing can play, espcially when the key success metric is revenue. This design didn't radical shift in contributions but the trend was positive and that was enough for us at the time.

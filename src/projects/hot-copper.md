@@ -1,9 +1,7 @@
 ---
 layout: layouts/project.njk
 title: Hot Copper
-blurb: We redesigned their entire collection of interface components as well as
-  developed infrastructure and logic around how they could create new,
-  responsive and accessible layouts.
+blurb: A research, strategy and design project I worked on at Humaan. The multidisicplary project spanned months (and months), it was a proper big job.
 permalink: /projects/hot-copper/index.html
 roles:
   - itemText: Experience design
@@ -15,10 +13,8 @@ leadImageCaption: "Redesigning Australia’s most popular share market forum,
   HotCopper, was a big job!"
 outroHeading: Outcome
 outro: |-
-  <h2>test</h2>
-  ## test
-
-  What would I have done differently?
+  <p>The designs were handed over to the clients in-house developers with the intention of releasing beta access to a smaller user base for evaluation.</p>
+  <p>Unfortiualtey we weren't involved in the implimentation or pilot release. If I could have done something differently I would have encouraged a mor user centered design approach including usability testing after launch.</p> 
 ---
 
 [add hero image]
