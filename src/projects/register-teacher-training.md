@@ -8,7 +8,7 @@ roles:
   - itemText: Interaction design
 employer: Department for Education
 year: "2021"
-leadImage: /images/demo-image-1.jpg
+leadImage: /images/register-hero.png
 leadImageAlt: test alt
 leadImageCaption: Test caption
 introHeading: The challenge
