@@ -1,23 +1,21 @@
 ---
 layout: layouts/project.njk
 title: Register teacher training
-blurb: We redesigned their entire collection of interface components as well as
-  developed infrastructure and logic around how they could create new,
-  responsive and accessible layouts.
+blurb: "Co-designing a digital service from private through to public beta "
 permalink: /projects/register-teacher-training/index.html
 roles:
   - itemText: Digital service delivery
   - itemText: Interaction design
 employer: Department for Education
 year: "2021"
-leadImage: /images/demo-image-1.jpg
+leadImage: /images/register-hero.png
 leadImageAlt: test alt
 leadImageCaption: Test caption
 introHeading: The challenge
-intro: This design project was completed while I freelanced remotely for Studio
-  Papa, a digital agency based in Western Australia. The budget was (very) tight
-  yet we wanted to deliver something that would be flexible enough to allow our
-  client to scale their online presence and offerings.
+intro: |-
+  What is co-designing?
+  Why is it good?
+  What are some challenges?
 outroHeading: Outcome
 outro: This design project was [completed while](google.com) I freelanced
   remotely for Studio Papa, a digital agency based in Western Australia. The
@@ -25,27 +23,46 @@ outro: This design project was [completed while](google.com) I freelanced
   flexible enough to allow our client to scale their online presence and
   offerings.
 ---
-Working closely with a creative director I designed and then developed a libray of components and patterns that is intended for an inhouse team of software engineers. We redesigned their entire collection of interface components as well as developed infrastructure and logic around how they could create new, responsive and accessible layouts.
+Intro about the mission, BAT teams etc
 
-We prioritised accessibility and semantic meaning when developing the system and relied heavily on modern techniques like CSS Grid for layout and CSS Custom Properties for presentation.
+### User centred design
 
-![](/images/demo-image-2.jpg "Working closely with a creative director I designed and then developed a libray of components.")
+Gov focus is very strong. Cross discipline teams, working with UR and CD, sharing UX.
 
-### Heading
+![](/images/screenshot-2021-08-06-at-15.52.57.png "Title here about UR analysis")
 
-Working closely with a creative director I designed and then developed a libray of components and patterns that is intended for an inhouse team of software engineers. We redesigned their entire collection of interface components as well as developed infrastructure and logic around how they could create new, responsive and accessible layouts.
+### Designing in code
 
-We prioritised accessibility and semantic meaning when developing the system and relied heavily on modern techniques like CSS Grid for layout and CSS Custom Properties for presentation.
+Working with the prototyping kit here...
 
-test
+benefits, drawbacks
 
-> ![](/images/demo-image-1.jpg "Working closely with a creative director I designed and then developed a libray of components.")
+![](/images/screenshot-2021-08-06-at-16.00.34.png)
 
+### Working agile and iteratively
+
+Content here...
+
+![](/images/localhost_3000_home-10-.png "Iteration 1  Too homepagey")
+
+![](/images/118094581-d26a2400-b3c6-11eb-95d8-48bbd460935c.png "Iteration 2 more dashboardy")
+
+### Documenting design
+
+Design history here
+
+![](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png)
+
+### Team culture and celebrating successes
+
+Mission patch stuff here
+
+![](/images/register-trainee-teachers-private-beta.png)
 
 <!-- {% import "macros/macros.njk" as macro %}
 
 {{ macro.appProjectList({
-  items: [
+  items: \[
     {
       href: '/link',
       heading: 'Test title',
@@ -60,4 +77,3 @@ test
     }
   ]
 }) | safe }} -->
-
