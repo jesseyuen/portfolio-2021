@@ -1,5 +1,5 @@
 .project-summary {
-  padding: var(--spacing-large);
+  padding: var(--spacing-x-large) var(--spacing-large);
   margin-top: var(--spacing-xx-large);
   margin-top: var(--spacing-x-large);
   // background: var(--color-background);
@@ -14,8 +14,8 @@
 .project__content figure {
   // display: flex;
   // flex-direction: row-reverse;
-  margin-top: var(--spacing-xx-large);
-  margin-bottom: var(--spacing-xx-large);
+  margin-top: var(--spacing-xxx-large);
+  margin-bottom: var(--spacing-xxx-large);
   // margin-left: calc( ( (-1600px/6) * 1) + 10px);
   
   img {
@@ -171,7 +171,7 @@ figcaption {
 }
 
 .project__content * + h3 {
-  margin-top: var(--spacing-x-large);
+  margin-top: var(--spacing-xxx-large);
 }
 
 .project__content * + p {
