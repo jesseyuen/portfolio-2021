@@ -1,8 +1,7 @@
 ---
 layout: layouts/project.njk
 title: Perth Device Lab
-blurb: An open source project which involved face-to-face human interaction
-  rather than the impersonal act of forking someones repo.
+blurb: An open source project with a difference by opening our doors to local developers, startups, students, educators, government agencies, suits, thieves and other curious visitors.
 permalink: /projects/perth-device-lab/index.html
 roles:
   - itemText: Community facilitation
@@ -11,19 +10,22 @@ roles:
   - itemText: Frontend development
 employer: Humaan
 year: "2016"
-leadImage: /images/device-lab-1.jpg
+leadImage: /images/perth-device-lab-hero.png
 leadImageAlt: test alt
-leadImageCaption: Opening week of the Perth Device lab in February 2016. So neat and tidy!
+leadImageCaption: The Perth Device Lab is an open community space for testing web products on a range of devices and operating systems.
 introHeading: ""
 intro: ""
 outroHeading: Outcome
-outro: Content here
+outro: <p>This was an altruistic excerise for our agancy. It was a greater good project.</p> <p>We made a bunch of friends, perhaps enouraged a culture of best practice and certainaly helped countlesss others in their quest for improved mobile experinces. In 2016 we were added to the Smashing Magazines <a href="https://www.smashingmagazine.com/2016/11/worlds-best-open-device-labs/" target="_blank">"Where Are The World’s Best Open Device Labs?"</a> list which was a bit of a buzz too.</p> <p>The device lab, as many others around the world, has sadly closed.</p> 
 ---
+
 The Device Lab was my passion project while working for [Humaan](http://humaan.com/ "Visit Humaan") and it was a great experience opening our doors to local developers, startups, students, educators, government agencies, suits, thieves and other curious visitors in my time as coordinator.
 
 ![](/images/device-lab-2.jpg "A welcoming and vibrant space to test your website or perhaps hot desk for a while.")
 
 The lab is probably much like many other testing environments you might find in the web development industry. A collection of devices in a room. What make this lab different is that the doors are open to the public!
+
+![](/images/device-lab-1.jpg "Opening week of the Perth Device lab in February 2016. So neat and tidy!")
 
 ### Design considerations
 

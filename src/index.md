@@ -1,9 +1,9 @@
 ---
 layout: 'layouts/page2.njk'
-title: Hey you, beware!
+title: Hey you, please beware.
 archiveButtonText: See all posts
 shortDesc: Civic minded Pragmatic design of products & services for good, not evil*
-blurb: Before you go any further I want to warn you that I'm designing and building this site in the open.<br><br>Why? Because I want to to share it with you, and if I wait until I'm finished you'll never see it! Tread wearily my friend and don't mind the less polished and buggy bits.
+blurb: Before you go any further I want to warn you that I'm designing and building this site in the open.<br><br>Why? Because I want to to share it with you, and if I wait until I'm finished you'll never see it! In the spirit of iterative design, tread wearily my friend and don't mind the typos, bugs and less polished bits.
 metaDesc: text here
 postsHeading: Latest posts
 socialImage: ""

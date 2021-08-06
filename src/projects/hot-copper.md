@@ -10,6 +10,9 @@ roles:
   - itemText: Interface design
 employer: Humaan
 year: "2018"
+leadImage: /images/hc-hero.png
+leadImageCaption: "Redesigning Australia’s most popular share market forum,
+  HotCopper, was a big job!"
 outroHeading: Outcome
 outro: |-
   <h2>test</h2>
