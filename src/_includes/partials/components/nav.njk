@@ -1,7 +1,7 @@
 {% if navigation.items %}
   <nav class="site-nav" aria-label="{{ariaLabel}}">
     <ul class="">
-      {% for item in navigation.items %}
+      {# {% for item in navigation.items %}
         {% set relAttribute = '' %}
         {% set currentAttribute = '' %}
 
@@ -16,7 +16,10 @@
         <li class="">
           <a href="{{ item.url }}"{{ relAttribute | safe }}{{ currentAttribute | safe }}>{{ item.text }}</a>
         </li>
-      {% endfor %}
+      {% endfor %} #}
+      <li><a href="/" {% if activeNav == "home" %}aria-current="page"{% endif %}>Home</a></li>
+      <li><a href="/projects" {% if activeNav == "projects" %}aria-current="page"{% endif %}>Projects</a></li>
+      <li><a href="/resume" {% if activeNav == "resume" %}aria-current="page"{% endif %}>Resume</a></li></ul>
     </ul>
   </nav>
 {% endif %}

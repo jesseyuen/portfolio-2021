@@ -31,19 +31,29 @@ Gov focus is very strong. Cross discipline teams, working with UR and CD, sharin
 
 ![](/images/ucd.png "Title here about UR analysis")
 
+### Planning in flows
+
+Working with the prototyping kit here...
+
+![](/images/flows.jpeg  "Title here about UR analysis")
+
 ### Designing in code
 
 Working with the prototyping kit here...
 
 benefits, drawbacks
 
-![](/images/code.png)
+![](/images/code.png "Title here about UR analysis")
 
 ### Working agile and iteratively
 
 Content here...
 
 ![](/images/iteration.jpg "Iteration 1  Too homepagey")
+
+![](/images/filters.png "Iteration 1  Too homepagey")
+
+![](/images/disabilities.png "Iteration 1  Too homepagey")
 
 ### Documenting design
 
@@ -55,4 +65,4 @@ Design history here
 
 Mission patch stuff here
 
-![](/images/register-trainee-teachers-private-beta.png)
+![](/images/mission-patches.png)

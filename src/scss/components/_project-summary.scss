@@ -1,7 +1,7 @@
 .project-summary {
   padding: var(--spacing-x-large) var(--spacing-large);
   margin-top: var(--spacing-xx-large);
-  margin-top: var(--spacing-xxx-large);
+  margin-top: var(--spacing-xxxx-large);
   // background: var(--color-background);
   background: var(--color-background-breakout);
   // border: 1px solid var(--color-border);
@@ -14,8 +14,8 @@
 .project__content figure {
   // display: flex;
   // flex-direction: row-reverse;
-  margin-top: var(--spacing-xxx-large);
-  margin-bottom: var(--spacing-xxx-large);
+  margin-top: var(--spacing-xxxx-large);
+  margin-bottom: var(--spacing-xcxxx-large);
   // margin-left: calc( ( (-1600px/6) * 1) + 10px);
   
   img {
@@ -37,16 +37,17 @@
   @media (min-width: 1600px) {
     display: flex;
     flex-direction: row-reverse;
-    margin-left: calc( ( (-1600px/6) * 1) + 10px);
+    width: calc((1600px/6) * 4.95);
+    margin-left: calc( ( (-1600px/6) * 1.55));
 
     img {
       max-width: calc((1600px/6) * 3);
-      max-width: 768px;
+      max-width: 904px;
       margin-bottom: 0;
     }
     
     figcaption {
-      width: calc((1600px/6) * 1);
+      width: calc((1600px/6) * 1.15);
       align-items: flex-start;
       padding-right: var(--spacing-large);
     }
@@ -73,8 +74,9 @@ figcaption {
   
   @media (min-width: 37.5em) { 
     display: grid;
-    grid-column: 1 / span 4;
+    grid-column: 1 / span 5;
     grid-template-columns: repeat(4,1fr);
+    padding-right: 45px;
   }
   
   @media (max-width: 75em){
@@ -132,8 +134,8 @@ figcaption {
   }
 
   @media (min-width: 75em) {
-    grid-column: 5 / span 2;
-    padding-left: var(--spacing-xx-large);
+    grid-column: 6 / span 1;
+    // padding-left: var(--spacing-xx-large);
 
     div + a {
       display: inline-block;
@@ -171,9 +173,13 @@ figcaption {
 }
 
 .project__content * + h3 {
-  margin-top: var(--spacing-xxx-large);
+  margin-top: var(--spacing-xxxx-large);
 }
 
 .project__content * + p {
   margin-top: var(--spacing-medium);
+}
+
+.project__content figure + p:empty + p  {
+  margin-top: var(--spacing-xxxx-large);
 }

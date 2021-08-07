@@ -27,7 +27,7 @@
   }
   
   &__blurb {
-    grid-column: 2 / span 3;
+    grid-column: 2 / span 4;
     font-size: var(--font-size-large);
     // font-family: var(--font-family-serif);
     line-height: 1.2;
@@ -41,7 +41,7 @@
   }
 
   &__image {
-    grid-column: 1 / span 4;
+    grid-column: 1 / span 5;
     margin-bottom: var(--spacing-xx-large);
     
     img {
@@ -51,6 +51,10 @@
 
   @media (min-width: 37.5em){
     padding: var(--spacing-xxxx-large) 0;
+
+    &__blurb {
+      padding-right: 45px;
+    }
   }
 
   @media (max-width: 1200px) {
