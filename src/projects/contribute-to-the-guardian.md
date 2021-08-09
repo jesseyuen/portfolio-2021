@@ -70,7 +70,7 @@ Though much of this design process was focused on simplification we also wanted 
 
 ![](/images/earth.jpg "A proof of concept to road test the new layout.")
 
-![](/images/free.jpg "A proof of concept with placeholder illustration by unknown illustrator. I've forgotten where I found this one now 😬 Is it yours?")
+![](/images/free2.jpg "A proof of concept with placeholder illustration by unknown illustrator. I've forgotten where I found this one now 😬 Is it yours?")
 
 ### Measuring success
 
