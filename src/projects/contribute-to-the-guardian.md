@@ -74,4 +74,4 @@ Though much of this design process was focused on simplification we also wanted 
 
 ### Measuring success
 
-This team was very big on multivariate AB testing. I’m more a ‘let’s stick this in front of users’ and see what they say kind of designer but I recognise the role AB testing can play, especially when the success metric is something easy to measure like revenue. This design contributed to a positive shift in contributions. The knowledge that we’d significantly improved the experience for more users was a key personal success metric.
+This team was very big on multivariate AB testing. I’m more a ‘let’s stick this in front of users’ and see what they say kind of designer but I recognise the role AB testing can play, especially when the success metric is something easy to measure like revenue. The design contributed to a positive shift in contributions and the knowledge that we’d significantly improved the experience for more users was a key personal success metric.
