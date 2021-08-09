@@ -2,13 +2,13 @@
 layout: layouts/project.njk
 title: Contribute to The Guardian
 blurb: Stakeholders wanted to maximise revenue, though I felt our users deserved
-  more too. A case study of balancing both business and user needs on The
+  more too. A case study of design balancing both business and user needs on The
   Guardians contributions team.
 permalink: /projects/contribute/index.html
 roles:
   - itemText: UX design
   - itemText: UI design
-  - itemText: Accessibility champion
+  - itemText: Accessibility audit
 employer: The Guardian
 year: "2019"
 leadImage: /images/contribute2.png
@@ -31,13 +31,13 @@ Often user needs and business needs are complementary and in this project I felt
 
 ### Accessibility audit
 
-My initial piece of work involved an accessibility audit which included:
+My initial piece of work involved running an accessibility audit across the journey which included:
 
 1. Manually testing the journey with keyboard navigation
-2. Manually testing of the journey with a screen reader (Voice Over)
+2. Manually testing of the journey with a screen reader
 3. Automated testing for WCAG and validation errors
 
-This was a new process for the team and having never run an accessibility audit, interesting results were quickly uncovered.
+This was a new process for the team and with them having never run an accessibility audit, plenty of interesting results were uncovered.
 
 It turns out the journey was impossible to complete when using either keyboard or screen reader. Multiple form elements were keyboard traps, trapping focus so the user can’t progress. Other form elements were completely hidden from keyboard and assistive technology users.
 
@@ -74,4 +74,4 @@ Though much of this design process was focused on simplification we also wanted 
 
 ### Measuring success
 
-This team was very big on multivariate AB testing. I’m more a ‘let’s stick this in front of users’ and see what they say kind of designer but I recognise the role AB testing can play, especially when the success metric is something easy to measure like revenue.
+This team was very big on multivariate AB testing. I’m more a ‘let’s stick this in front of users’ and see what they say kind of designer but I recognise the role AB testing can play, especially when the success metric is something easy to measure like revenue. The design contributed to a positive shift in contributions and the knowledge that we’d significantly improved the experience for more users was a key personal success metric.
