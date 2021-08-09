@@ -17,13 +17,11 @@ leadImageCaption: Bold typography and considered UI ensured the new contribution
   journey still felt 'Guardian' whilst also making it a far more inclusive
   experience.
 outroHeading: Outcome
-outro: >-
-  We covered a lot of ground in this piece of work including fixing fundamental
-  accessabiliy and usability issues, piloting new design sytem components and
-  visually evolving our contrubution journey.
-
-
-  The stakeholders were happing with postive revenue gains and our users were given a significatnly improved experince.
+outro: We covered a lot of ground in this piece of work including fixing
+  fundamental accessibility and usability issues, piloting new design system
+  components and visually evolving our contribution journey. The stakeholders
+  were happy with positive revenue gains and our users were given a
+  significantly improved experience.
 ---
 The Guardian does not have a paywall and instead relies on readers' contributions and subscriptions as a large part of its funding model. The Contributions team's roadmap understandably revolved around maximising revenue for the Guardian. 
 
@@ -60,20 +58,20 @@ Following was a usability review. For such a small amount of screen real estate,
 
 I consolidated the three random radio button styles into one consistent pattern, a UI pattern that was eventually called <a href="https://guardian.github.io/source/?path=/story/choicecard--single-state-light" target="_blank">choice cards</a>.
 
-I consolidated the three random radio button styles into one consistent pattern, a UI pattern that was eventaully called <a href="https://guardian.github.io/source/?path=/story/choicecard--single-state-light" target="_blank">choice cards</a>. At this time the Guradian Design System was in its infamacy and we used this project to publicly pilot the new component and also experiment with the workflow bewteen the product and design sytsem teams.
+At this time the Guardian Design System was in its infancy and we used this project to publicly pilot the new component and also experiment with the workflow between the product and design system teams.
 
-Sets of radios were also now clearly signposted by accessible labels.
+All three sets of radios, now masked as ‘choice cards’ where also now clearly signposted with accessible labels.
 
-![](/images/choice-cards.png "Increased consistancy within the UI with a focus on accessability.")
+![](/images/choice-cards.png "Increased consistency within the UI with a focus on accessibility.")
 
-### Opportunities within contrsatints
+### Opportunities for design within constraints
 
-Though much of this design process involved simplification we also wanted to accomodate bespoke marketing events at The Guardian. The updated design had a generous enough amount of realstate to offer bespoke opportunities within contrsatints.
+Though much of this design process was focused on simplification we also wanted to accommodate bespoke marketing events at The Guardian. We needed to be able to easily *theme* the page based on marketing campaigns. The updated design had a generous enough amount of real estate that was flexible in allowing bespoke design opportunities.
 
-![](/images/earth.jpg "Concept design with placeholder illustration.")
+![](/images/earth.jpg "A proof of concept to road test the new layout.")
 
-![](/images/free.jpg "Concept design with placeholder illustration. I've forgotten where I found this one now 😬")
+![](/images/free.jpg "A proof of concept with placeholder illustration by unknown illustrator. I've forgotten where I found this one now 😬 Is it yours?")
 
 ### Measuring success
 
-This team was obsessed with multi-varient AB testing. Like proper obsessed. I'm more a 'let's stick this in  front of users' type designer but I recognise the role AB testing can play, espcially when the key success metric is revenue. This design didn't radical shift in contributions but the trend was positive and that was enough for us at the time.
+This team was very big on multivariate AB testing. I’m more a ‘let’s stick this in front of users’ and see what they say kind of designer but I recognise the role AB testing can play, especially when the success metric is something easy to measure like revenue. This design contributed to a positive shift in contributions. The knowledge that we’d significantly improved the experience for more users was a key personal success metric.
