@@ -49,9 +49,7 @@ I've not experienced user centered design done as well as it is within governmen
 
 Some digital services are more transactional, with a relatively liner user journey. This service was far more complicated, where once created, a trainee record may exist in the system fir a number of years, with our users returning at various points though-out a trainee teachers progress to update data and complete tasks.
 
-User flows were created to map complex processes and communicate business rules to the team before way before any visual design was done.
-
-![](/images/flows.jpeg  "Title here about UR analysis")
+![A user flow diagram](/images/flows.jpeg  "User flows were created to map complex processes and communicate business rules to the team before way before any visual design was done.")
 
 ### Designing in code
 
