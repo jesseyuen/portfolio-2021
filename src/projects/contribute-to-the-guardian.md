@@ -27,8 +27,6 @@ The Guardian does not have a paywall and instead relies on readers' contribution
 
 Often user needs and business needs are complementary and in this project I felt there was a need to advocate for user focused work too.
 
-![](/images/the-before.png "What the Contribution page looked like when I joined the team.")
-
 ### Accessibility audit
 
 My initial piece of work involved running an accessibility audit across the journey which included:
@@ -43,7 +41,7 @@ It turns out the journey was impossible to complete when using either keyboard o
 
 Playing this back to the team, it wasn't hard to convince stakeholders to prioritise fixing these issues. When a product's primary purpose is to generate revenue, it’s helpful if your user base is as large as possible. Profits aside, I wanted to convey that as creators we have an ethical duty to make the web a positive experience for all users.
 
-![](/images/breakdown.png "Detail of the original design highlighting four areas of focus from the usability review.")
+![](/images/the-before.png "What the Contribution page looked like when I joined the team. Numbered are four areas of focus from the usability review.")
 
 ### Usability review
 
