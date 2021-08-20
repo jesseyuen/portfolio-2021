@@ -1,7 +1,8 @@
 ---
 layout: layouts/project.njk
-title: Register teacher training
-blurb: "Co-designing a digital service from private through to public beta. More here...."
+title: Register Teacher Training
+blurb: Co-designing an accessible and lean digital service from private through
+  to public beta.
 permalink: /projects/register-teacher-training/index.html
 roles:
   - itemText: Digital service delivery
@@ -11,19 +12,33 @@ year: "2021"
 leadImage: /images/register-hero.png
 leadImageAlt: test alt
 leadImageCaption: Test caption
-introHeading: The challenge
-intro:
-  What is co-designing?
-  Why is it good?
-  What are some challenges?
+introHeading: Co-designing?
+intro: "This project had two senior designers. "
 outroHeading: Outcome
-outro: This design project was [completed while](google.com) I freelanced
-  remotely for Studio Papa, a digital agency based in Western Australia. The
-  budget was (very) tight yet we wanted to deliver something that would be
-  flexible enough to allow our client to scale their online presence and
-  offerings.
+outro: Time 20mins > 6-7min
 ---
-Intro about the mission, BAT teams etc
+Register Trainee Teachers does what is says on the tin, register trainees with the Department for Education and record the outcome of their training. Teachers across England will have their progress tracked using this service. 
+
+### Where we started
+
+We were replacing a legacy product which was relatively new but not at all designed or developed with users in mind. The existing product was inaccessible, and users complained of usability issues.
+
+![The original dashboard](/images/dashboard-example.png "The dashboard or the original product we redesigned. Users struggled with the tasks they needed to complete..")
+
+The product is essential a CRM for trainee teachers, with user interaction largely focused on inputting data in forms. The original product had a number of issues:
+
+* users were constantly being timed out
+* a users progress wasn't being saved
+* iconography, language and error messaging was confusing 
+* forms were embedded within modals that presented significant accessibility challenges
+
+![An example of the original forms.](/images/exit-information.png "The regisyr")
+
+### Co-designing?
+
+This project had two senior designers. A great opportunity, what are the challanges?
+
+### Defining MVP
 
 ### User centred design
 
