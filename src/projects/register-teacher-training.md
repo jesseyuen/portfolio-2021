@@ -59,11 +59,11 @@ A browser based prototype that looks, feels and most importantly works like the 
 
 ![A screenshot of a code editor.](/images/code.png "The service was designed with HTML, CSS, Nunjucks and Express JS with not a Figma art-board in sight.")
 
-### Working agile and iteratively
+### Working iteratively in an agile team
 
 Content here...
 
-![](/images/iteration.jpg "Iteration 1  Too homepagey")
+![](/images/register-prototype.herokuapp.com_new-record_overview.png "Task list")
 
 ![](/images/filters.png "Iteration 1  Too homepagey")
 
