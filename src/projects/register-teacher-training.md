@@ -37,7 +37,7 @@ The product is essential a CRM for trainee teachers, with user interaction large
 
 This project had two senior designers. A bit of a treat to be honest, with ongoing opportunity for peer feedback and someone always there to bounce ideas off who knew the project intimately. Seeking and giving feedback are both challenging things to do well, yet get easier with practice and allow for better design. 
 
-Designing collaboratively can be a rewarding experience but requires the people involved to strong communicators, 
+Designing collaboratively can be a rewarding experience but requires the people involved to strong be low on ego and strong communicators.
 
 what are the challanges?
 
