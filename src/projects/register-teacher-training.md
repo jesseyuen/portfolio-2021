@@ -1,8 +1,7 @@
 ---
 layout: layouts/project.njk
 title: Register Teacher Training
-blurb: Co-designing an accessible and lean digital service from private through
-  to public beta.
+blurb: Co-designing an accessible digital service from private through to public beta.
 permalink: /projects/register-teacher-training/index.html
 roles:
   - itemText: Digital service delivery
@@ -32,11 +31,15 @@ The product is essential a CRM for trainee teachers, with user interaction large
 * iconography, language and error messaging was confusing 
 * forms were embedded within modals that presented significant accessibility challenges
 
-![An example of the original forms.](/images/exit-information.png "The regisyr")
+![An example of the original forms.](/images/exit-information.png "There was no way to know how 'complete' a registration was nor what was left to complete.")
 
-### Co-designing?
+### Co-designing
 
-This project had two senior designers. A great opportunity, what are the challanges?
+This project had two senior designers. A bit of a treat to be honest, with ongoing opportunity for peer feedback and someone always there to bounce ideas off who knew the project intimately. Seeking and giving feedback are both challenging things to do well, yet get easier with practice and allow for better design. 
+
+Designing collaboratively can be a rewarding experience but requires the people involved to strong communicators, 
+
+what are the challanges?
 
 ### Defining MVP
 
