@@ -69,8 +69,6 @@ Content here...
 
 ![](/images/filters.png "Iteration 1  Too homepagey")
 
-![](/images/disabilities.png "Iteration 1  Too homepagey")
-
 ### Testing with users
 
 regular usability testing
