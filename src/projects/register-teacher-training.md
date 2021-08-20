@@ -53,11 +53,11 @@ Some digital services are more transactional, with a relatively liner user journ
 
 ### Designing in code
 
-Working with the prototyping kit here...
+We designed this service exclusively in code, building a functional prototype using the [GOV.UK Prototype Kit](https://govuk-prototype-kit.herokuapp.com/docs), and using components from the [GOV.UK design system](https://design-system.service.gov.uk/). 
 
-benefits, drawbacks
+A browser based prototype that looks, feels and most importantly works like the real thing allowed us to conduct detailed usability testing as well as provided a valuable resource for the development team to follow when moving our design into production. 
 
-![](/images/code.png "Title here about UR analysis")
+![A screenshot of a code editor.](/images/code.png "The service was designed with HTML, CSS, Nunjucks and Express JS with not a Figma art-board in sight.")
 
 ### Working agile and iteratively
 
