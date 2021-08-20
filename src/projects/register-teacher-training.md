@@ -43,11 +43,13 @@ Designing collaboratively can be a rewarding experience but requires the people 
 
 I've not experienced user centered design done as well as it is within government design teams. UCD is respected by stakeholders and forms the core principles of how products are designed. There are no UX designers on the team and its refreshing! Instead we recognise that user experience is everybody's responsibility. The core UCD team is made up of user researchers, content and interaction designers with front end developers often helping to complete the group responsible for *UX,* and by sharing it we remove unintentional bias and bring our own individual experiences and knowledge to the product.
 
-![A screenshot with post it notes from user research attached.](/images/ucd.png "UX is a team sport. After rounds of usability testing the UCD team analysed research data together, ensuring we all have a common understanding of the data and next steps.  ")
+![A screenshot with post it notes from user research attached.](/images/ucd.png "UX is a team sport! After rounds of usability testing the UCD team analysed research data together, ensuring we all have a common understanding of the data and next steps.  ")
 
 ### Planning in flows
 
-Working with the prototyping kit here...
+Some digital services are more transactional, with a relatively liner user journey. This service was far more complicated, where once created, a trainee record may exist in the system fir a number of years, with our users returning at various points though-out a trainee teachers progress to update data and complete tasks.
+
+Flows were created to map complex processes and communicate business rules to the team before way before any visual design was done.     
 
 ![](/images/flows.jpeg  "Title here about UR analysis")
 
@@ -68,6 +70,10 @@ Content here...
 ![](/images/filters.png "Iteration 1  Too homepagey")
 
 ![](/images/disabilities.png "Iteration 1  Too homepagey")
+
+### Testing with users
+
+regular usability testing
 
 ### Documenting design
 
