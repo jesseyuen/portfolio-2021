@@ -45,11 +45,11 @@ I've not experienced user centered design done as well as it is within governmen
 
 ![A screenshot with post it notes from user research attached.](/images/ucd.png "UX is a team sport! After rounds of usability testing the UCD team analysed research data together, ensuring we all have a common understanding of the data and next steps.  ")
 
-### Planning in flows
+### Designing in flows
 
 Some digital services are more transactional, with a relatively liner user journey. This service was far more complicated, where once created, a trainee record may exist in the system fir a number of years, with our users returning at various points though-out a trainee teachers progress to update data and complete tasks.
 
-Flows were created to map complex processes and communicate business rules to the team before way before any visual design was done.     
+User flows were created to map complex processes and communicate business rules to the team before way before any visual design was done.
 
 ![](/images/flows.jpeg  "Title here about UR analysis")
 
