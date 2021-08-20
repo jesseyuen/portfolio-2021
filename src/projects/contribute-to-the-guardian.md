@@ -2,7 +2,7 @@
 layout: layouts/project.njk
 title: Contribute to The Guardian
 blurb: Stakeholders wanted to maximise revenue, though I felt our users deserved
-  more too. A case study of design balancing both business and user needs on The
+  more too. A case study balancing both business goals and user needs on The
   Guardians contributions team.
 permalink: /projects/contribute/index.html
 roles:
