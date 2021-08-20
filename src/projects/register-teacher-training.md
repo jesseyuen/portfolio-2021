@@ -39,15 +39,11 @@ This project had two senior designers. A bit of a treat to be honest, with ongoi
 
 Designing collaboratively can be a rewarding experience but requires the people involved to strong be low on ego and strong communicators.
 
-what are the challanges?
-
-### Defining MVP
-
 ### User centred design
 
-Gov focus is very strong. Cross discipline teams, working with UR and CD, sharing UX.
+I've not experienced user centered design done as well as it is within government design teams. UCD is respected by stakeholders and forms the core principles of how products are designed. There are no UX designers on the team and its refreshing! Instead we recognise that user experience is everybody's responsibility. The core UCD team is made up of user researchers, content and interaction designers with front end developers often helping to complete the group responsible for *UX,* and by sharing it we remove unintentional bias and bring our own individual experiences and knowledge to the product.
 
-![](/images/ucd.png "Title here about UR analysis")
+![A screenshot with post it notes from user research attached.](/images/ucd.png "UX is a team sport. After rounds of usability testing the UCD team analysed research data together, ensuring we all have a common understanding of the data and next steps.  ")
 
 ### Planning in flows
 
