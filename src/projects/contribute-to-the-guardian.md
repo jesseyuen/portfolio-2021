@@ -52,9 +52,9 @@ Following was a usability review. For such a small amount of screen real estate,
 3. The three text fields were very busy. Was it really necessary to mark each as required? Did we need leading icons to help identify rather generic form fields? Probably not.
 4. A third set of radio buttons, again with unique styling, although somewhat more traditional. The accessibility audit highlighted that these performed poorly in terms of contrast and also other colour checks.
 
-### Design updates
+### Designing and piloting design system components
 
-I consolidated the three random radio button styles into one consistent pattern, a UI pattern that was eventually called <a href="https://guardian.github.io/source/?path=/story/choicecard--single-state-light" target="_blank">choice cards</a>.
+I consolidated the three random radio button styles into one consistent pattern, a UI pattern which we started calling <a href="https://guardian.github.io/source/?path=/story/choicecard--single-state-light" target="_blank">choice cards</a>.
 
 At this time the Guardian Design System was in its infancy and we used this project to publicly pilot the new component and also experiment with the workflow between the product and design system teams.
 
