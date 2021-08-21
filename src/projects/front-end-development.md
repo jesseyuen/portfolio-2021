@@ -42,4 +42,6 @@ Onia are specialist orthodontists. This site has a tonne of playful animation wh
 
 ### Paris American Academy
 
-Built at my time at Humman
+Paris American Academy is a fashion design school in Paris. This site features a fullscreen editorial style with really interesting grid layouts.
+
+[View Paris American Academy](https://www.parisamericanacademy.fr/)
