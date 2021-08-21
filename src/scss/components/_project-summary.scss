@@ -38,16 +38,16 @@
     display: flex;
     flex-direction: row-reverse;
     width: calc((1600px/6) * 4.95);
-    margin-left: calc( ( (-1600px/6) * 1.55));
+    margin-left: calc( ( (-1600px/6) * 1.43));
 
     img {
       max-width: calc((1600px/6) * 3);
-      max-width: 904px;
+      max-width: 940px;
       margin-bottom: 0;
     }
     
     figcaption {
-      width: calc((1600px/6) * 1.15);
+      width: calc((1600px/6) * 1);
       align-items: flex-start;
       padding-right: var(--spacing-large);
     }
@@ -75,7 +75,8 @@ figcaption {
   @media (min-width: 37.5em) { 
     display: grid;
     grid-column: 1 / span 5;
-    grid-template-columns: repeat(4,1fr);
+    // grid-template-columns: repeat(4,1fr);
+    grid-template-columns: repeat(5,1fr);
     padding-right: 45px;
   }
   
@@ -90,7 +91,8 @@ figcaption {
 }
 
 .project__content {
-  grid-column: 2 / span 3;
+  grid-column: 2 / span 4;
+  padding-left: 25px;
 
   @media (max-width: 1200px){
     grid-column: 1 / span 5;
