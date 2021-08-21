@@ -55,7 +55,7 @@ User needs define what we prioritise in design and what we ship first.
 
 Some digital services are more transactional, with a relatively liner user journey. This service was far more complicated, where a trainee record may exist in the system for a number of years, meaning our users were required to return at multiple times to update data and complete tasks.
 
-We mapped out complex parts of the user journey, allowing us to document the nuances around business rules.  
+We mapped out complex parts of the user journey, allowing us to document the nuances around business rules.
 
 ![A user flow diagram](/images/flows.jpeg  "User flows were created to map complex processes and communicate business rules to the team before way before any visual design was done.")
 
@@ -63,7 +63,7 @@ We mapped out complex parts of the user journey, allowing us to document the nua
 
 We designed this service exclusively in code, building a functional prototype using the [GOV.UK Prototype Kit](https://govuk-prototype-kit.herokuapp.com/docs), and using components from the [GOV.UK design system](https://design-system.service.gov.uk/). 
 
-A browser based prototype that looks, feels and most importantly works like the real thing allowed us to conduct detailed usability testing as well as provided a valuable resource for the development team to follow when moving our designs into production. 
+We produced a browser based prototype that looked, felt and most importantly worked like the real thing which allowed us to conduct detailed usability testing as well as provide a valuable resource for the development team to follow when moving our designs into production. 
 
 ![A screenshot of a code editor.](/images/code.png "The service was designed with HTML, CSS, Nunjucks and Express JS with not a Figma art-board in sight.")
 
