@@ -12,7 +12,7 @@ year: 2020 to 2021
 leadImage: /images/register-hero.png
 leadImageAlt: "Screenshots from the Register service "
 leadImageCaption: A functional prototype of the digital service meant it felt
-  and worked like the real thing in user reserach.
+  and worked like the real thing in user research.
 introHeading: ""
 intro: ""
 outroHeading: Outcome
@@ -51,7 +51,7 @@ The core UCD team is made up of user researchers, content and interaction design
 
 ### Designing in flows
 
-Some digital services are more transactional, with a relatively liner user journey. This service was far more complicated, where once created, a trainee record may exist in the system fir a number of years, with our users returning at various points though-out a trainee teachers progress to update data and complete tasks.
+Some digital services are more transactional, with a relatively liner user journey. This service was far more complicated, where a trainee record may exist in the system for a number of years, meaning our users were required to return at multiple times to update data and complete tasks.
 
 ![A user flow diagram](/images/flows.jpeg  "User flows were created to map complex processes and communicate business rules to the team before way before any visual design was done.")
 
