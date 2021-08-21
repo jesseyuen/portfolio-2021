@@ -46,6 +46,8 @@ Paris American Academy is a fashion design school in Paris. This site features a
 
 [View Paris American Academy](https://www.parisamericanacademy.fr/)
 
+![](/images/landscapeelements.com.au_.png)
+
 ### Landscape Elements
 
 Landscape Elements Pty Ltd are specialist landscapers. This was a freelance project of mine and although it contains plenty of smooth animation, at the core is a considered accessible experience. 
