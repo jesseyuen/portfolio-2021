@@ -67,9 +67,13 @@ We produced a browser based prototype that looked, felt and most importantly wor
 
 ![A screenshot of a code editor.](/images/code.png "The service was designed with HTML, CSS, Nunjucks and Express JS with not a Figma art-board in sight.")
 
-### Working iteratively in an agile team
+### Design updates
 
-Content here...
+> As a user\
+> I need to be able to track my progress\
+> So that I know what I have completed and what is still incomplete 
+
+A significant issue with the existing tool was that users struggled to follow their progress when creating a record. The GOV.UK task list pattern helps "Task list pages help users understand: the tasks involved in completing a transaction, the order they should complete tasks in and when they have completed tasks"
 
 ![](/images/register-prototype.herokuapp.com_new-record_overview.png "Task list")
 
