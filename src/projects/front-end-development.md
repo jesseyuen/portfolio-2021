@@ -14,6 +14,8 @@ outro: |-
   Content here
   What would I have done differently?
 ---
+Im an experinced (front of the) front end developer who enjoys bridging the gap between design and development and ensuring the products I help build are semantic, accessible and robust.
+
 ### Design principles
 
 The client was very clear with their brief. The site must appeal to a socially and geographically diverse audience, it must be accessible and also respectful of local indigenous culture. These key points outlined our design principles throughout the project.
@@ -22,7 +24,7 @@ The client was very clear with their brief. The site must appeal to a socially a
 
 ### Accessible and inclusive design
 
-[hero banner acknowedgmet thingo]
+\[hero banner acknowedgmet thingo]
 
 • acessability benefits
 • culteral benefits
