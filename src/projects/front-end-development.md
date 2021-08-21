@@ -1,13 +1,12 @@
 ---
 layout: layouts/project.njk
 title: "(Front of the) front end development "
-blurb: As a (front of the) front end developer I enjoy bridging the gap between
-  design and development and ensuring the products I help build are semantic,
-  accessible and robust yet also have beautiful interactive experiences. Most of
-  these were built while I was working at Humaan.
+blurb: I enjoy bridging the gap between design and development and ensuring the
+  products I help build are semantic, accessible and robust yet also have
+  beautiful interactive experiences. Most of these were built while I was
+  working at Humaan.
 permalink: /projects/front-end-development/index.html
-roles:
-  - itemText: Front end development
+roles: []
 employer: null
 year: null
 leadImage: ""
