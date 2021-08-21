@@ -8,7 +8,7 @@ permalink: /projects/contribute/index.html
 roles:
   - itemText: UX design
   - itemText: UI design
-  - itemText: Accessibility audit
+  - itemText: Accessibility advocacy
 employer: The Guardian
 year: "2019"
 leadImage: /images/contribute2.png
