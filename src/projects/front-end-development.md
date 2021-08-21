@@ -18,9 +18,13 @@ Im an experinced (front of the) front end developer who enjoys bridging the gap 
 
 ![A screenshot of the Sodashi homepage](/images/www.sodashi.co.uk_-1-.png "An elegant e-commerce site.")
 
-### [Sodashi](https://www.sodashi.co.uk/)
+### Sodashi
 
-Built in my time at Humaan, Sodashi is a elegant e-comerce site with subtle and buttery animation.
+Built in my time at Humaan, Sodashi is an elegant e-commerce site with subtle and buttery-smooth animation. \
+\
+[View Sodashi](https://www.sodashi.co.uk/)
+
+
 
 ### Tight budgets and scaling design with modular components
 
