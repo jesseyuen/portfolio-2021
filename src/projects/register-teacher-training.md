@@ -7,12 +7,13 @@ roles:
   - itemText: Digital service delivery
   - itemText: Interaction design
 employer: Department for Education
-year: "2021"
+year: 2020 to 2021
 leadImage: /images/register-hero.png
-leadImageAlt: test alt
-leadImageCaption: Test caption
-introHeading: Co-designing?
-intro: "This project had two senior designers. "
+leadImageAlt: "Screenshots from the Register service "
+leadImageCaption: A functional prototype of the digital service meant it felt
+  and worked like the real thing in user reserach.
+introHeading: ""
+intro: ""
 outroHeading: Outcome
 outro: Time 20mins > 6-7min
 ---
@@ -33,7 +34,7 @@ The product is essential a CRM for trainee teachers, with user interaction large
 
 ![An example of the original forms.](/images/exit-information.png "There was no way to know how 'complete' a registration was nor what was left to complete.")
 
-### Co-design for the win 
+### Co-design for the win
 
 This project had two senior designers. A bit of a treat to be honest, with ongoing opportunity for peer feedback and someone always there to bounce ideas off who knew the project intimately. Seeking and giving feedback are both challenging things to do well, yet get easier with practice and allow for better design. 
 
@@ -79,7 +80,7 @@ Design history here
 
 ![](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png)
 
-### Team culture and celebrating successes
+### Celebrating milestones
 
 Mission patch stuff here
 
