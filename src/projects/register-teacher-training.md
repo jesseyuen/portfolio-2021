@@ -7,10 +7,11 @@ roles:
   - itemText: Digital service delivery
   - itemText: Interaction design
 employer: Department for Education
-year: "2021"
+year: 2020 to 2021
 leadImage: /images/register-hero.png
-leadImageAlt: test alt
-leadImageCaption: Test caption
+leadImageAlt: "Screenshots from the Register service "
+leadImageCaption: A functional prototype of the digital service meant it felt
+  and worked like the real thing in user reserach.
 introHeading: ""
 intro: ""
 outroHeading: Outcome
