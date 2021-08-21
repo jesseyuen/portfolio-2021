@@ -1,7 +1,10 @@
 ---
 layout: layouts/project.njk
 title: "(Front of the) front end development "
-blurb: A collection of my favourite semantic, accessible and engaging frontend work
+blurb: As a (front of the) front end developer I enjoy bridging the gap between
+  design and development and ensuring the products I help build are semantic,
+  accessible and robust yet also have beautiful interactive experiences. Most of
+  these were built while I was working at Humaan.
 permalink: /projects/front-end-development/index.html
 roles:
   - itemText: Front end development
@@ -12,8 +15,6 @@ leadImageCaption: ""
 outroHeading: ""
 outro: ""
 ---
-As a (front of the) front end developer I enjoy bridging the gap between design and development and ensuring the products I help build are semantic, accessible and robust yet also have beautiful interactive experiences. Most of these were built while I was working at Humaan.
-
 ### Sodashi
 
 ![A screenshot of the Sodashi homepage](/images/www.sodashi.co.uk_-1-.png "An elegant e-commerce site built on the Magento platform")
