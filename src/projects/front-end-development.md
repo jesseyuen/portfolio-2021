@@ -5,8 +5,8 @@ blurb: A collection of my favourite semantic, accessible and engaging frontend w
 permalink: /projects/front-end-development/index.html
 roles:
   - itemText: Front end development
-employer: Various
-year: Ongoing
+employer: 
+year: 
 leadImage: ""
 leadImageCaption: ""
 outroHeading: ""
@@ -18,8 +18,8 @@ I'm an experinced (front of the) front end developer who enjoys bridging the gap
 
 ### Sodashi
 
-Sodashi is an elegant e-commerce site with subtle and buttery-smooth animation. These kinds of sites take ages to build!\
-\
+Sodashi is an elegant e-commerce site with subtle and buttery-smooth animation. These kinds of sites take ages to build!
+
 [View Sodashi](https://www.sodashi.co.uk/)
 
 ![](/images/radio.mideastunes.com_-1-.png)
@@ -36,7 +36,7 @@ Mideast Tunes Radio is a hub for podcasts created by Mideast Tunes, a platform t
 
 Onia are specialist orthodontists. This site has a tonne of playful animation which made for a fun and challenging build.
 
-[View Onia](https://www.onia.com.au/)
+[Visit Onia](https://www.onia.com.au/)
 
 ![](/images/www.parisamericanacademy.fr_.png)
 
@@ -44,7 +44,7 @@ Onia are specialist orthodontists. This site has a tonne of playful animation wh
 
 Paris American Academy is a fashion design school in Paris. This site features a fullscreen editorial style with really interesting grid layouts.
 
-[View Paris American Academy](https://www.parisamericanacademy.fr/)
+[Visit Paris American Academy](https://www.parisamericanacademy.fr/)
 
 ![](/images/landscapeelements.com.au_.png)
 
@@ -52,4 +52,4 @@ Paris American Academy is a fashion design school in Paris. This site features a
 
 Landscape Elements Pty Ltd are specialist landscapers. This was a freelance project of mine and although it contains plenty of smooth animation, at the core is a considered accessible experience. 
 
-[View Landscape Elements](https://landscapeelements.com.au/)
+[Visit Landscape Elements](https://landscapeelements.com.au/)
