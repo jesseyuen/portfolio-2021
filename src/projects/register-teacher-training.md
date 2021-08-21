@@ -86,22 +86,22 @@ This pattern addressed the user need thought grouping related tasks and clearly 
 
 ![A screen shot of a page listing the tasks needed to be done](/images/register-prototype.herokuapp.com_new-record_overview.png "We ensured it was clear to users which tasks they’ve completed and which still need their attention.")
 
+User needed to track multiple trainees over a number of years. Trainee records can exist in multiple states and there was a need to provide a clear classification system and advanced filtering.
 
-
-![](/images/filters.png "Iteration 1  Too homepagey")
+![A screen shot of trainee records screen](/images/filters.png "Advanced filtering allowed our users to maintain large numbers of trainees in various states.")
 
 ### Testing with users
 
-regular usability testing
+Working closely with user researches on the team meant we could get into a rhythm of regular usability testing sessions, collaborative analysis, insight generation and iterative updates. When building empathy with out users, there is no substitute for talking to actual users and observing them use the service. 
 
 ### Documenting design
 
-Design history here
+We frequently documented our design using a [design history](https://bat-design-history.netlify.app/register-trainee-teachers/). The design history looks forwards and backwards, new posts show the team where the service is going and old posts tell us how we got to where we are now. It it allowed us to share what we learn with others and it ensures we’re being transparent and designing in the open.
 
 ![](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png)
 
-### Celebrating milestones
+### Celebrating milestones as a team
 
-Mission patch stuff here
+Some government digital service teams celebrate milestones with mission patches, a tradition that comes from the early astronautical missions. I led our team in a team workshop to decide on our spirit animal and design
 
 ![](/images/mission-patches.png)
