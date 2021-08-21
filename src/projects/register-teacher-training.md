@@ -16,7 +16,13 @@ leadImageCaption: A functional prototype of the digital service meant it felt
 introHeading: ""
 intro: ""
 outroHeading: Outcome
-outro: Time 20mins > 6-7min
+outro: >-
+  I saw this project from initial prototype design, through the private beta
+  which involved piloting the service with a sample group of live users to
+  public beta where the service was officially public. 
+
+
+  In contrast to the legacy product, our service had insignificantly more usable. A useful metric  to this was
 ---
 Register Trainee Teachers does what is says on the tin, register trainees with the Department for Education and record the outcome of their training. Teachers across England will have their progress tracked using this service. 
 
