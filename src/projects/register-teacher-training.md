@@ -49,7 +49,7 @@ Designing collaboratively can be a rewarding experience but requires the people 
 
 ### User centred design
 
-I've not experienced user centered design done as well as it is within government design teams. UCD is respected by stakeholders and forms the core principles of how products are designed. There are no UX designers on the team and its refreshing! Instead we recognise that user experience is everybody's responsibility. 
+I've not experienced user centered design done as well as it is within government design teams. UCD is respected by stakeholders and forms the core principles of how products are designed. There is no single person responsible for UX on the team and its refreshing! Instead we recognise that user experience is everybody's responsibility. 
 
 The core UCD team is made up of user researchers, content and interaction designers with front end developers often helping to complete the group responsible for *UX,* and by sharing it we remove unintentional bias and bring our own individual experiences and knowledge to the product.
 
@@ -81,10 +81,6 @@ A simplified dashboard provided:
 * links to critical guidance and task that needed attention
 
 ![](/images/localhost_3000_home-10-.png)
-
-> As a user\
-> I need to be able to track my progress\
-> So that I know what I have completed and what is still incomplete 
 
 A significant issue with the existing tool was that users struggled to follow their progress when creating a record. The GOV.UK task list pattern helps "Task list pages help users understand: ...the order they should complete tasks in and when they have completed tasks".\
 \
