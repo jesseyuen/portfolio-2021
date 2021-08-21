@@ -22,7 +22,7 @@ outro: >-
   public beta where the service was officially public. 
 
 
-  In contrast to the legacy product, our service had insignificantly more usable. A useful metric  to this was
+  In contrast to the legacy product, our service was insignificantly more usable and accessible. A metric we used to measure success was time to create a record. In the original product a record would take up to 20 minutes to create while we observed first time uses creating records in 6-7 minutes.
 ---
 Register Trainee Teachers does what is says on the tin, register trainees with the Department for Education and record the outcome of their training. Teachers across England will have their progress tracked using this service. 
 
