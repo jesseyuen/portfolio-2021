@@ -2,7 +2,7 @@
 layout: layouts/project.njk
 title: Register Teacher Training
 blurb: Co-designing a digital service that supports teachers across England from
-  private through to public beta.
+  initial prototype through to public beta.
 permalink: /projects/register-teacher-training/index.html
 roles:
   - itemText: Digital service delivery
@@ -96,7 +96,7 @@ User needed to track multiple trainees over a number of years. Trainee records c
 
 ![A screen shot of trainee records screen](/images/filters.png "Advanced filtering allowed our users to maintain large numbers of trainees in various states.")
 
-### Testing with users
+### Building empathy though user research
 
 Working closely with user researches on the team meant we could get into a rhythm of regular usability testing sessions, collaborative analysis, insight generation and iterative updates. When building empathy with out users, there is no substitute for talking to actual users and observing them use the service. 
 
