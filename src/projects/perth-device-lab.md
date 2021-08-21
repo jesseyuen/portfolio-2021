@@ -35,8 +35,6 @@ It was an open community space for testing web products on a range of devices an
 
 The lab is probably much like many other testing environments you might find in the web development industry. A collection of devices in a room. What make this lab different is that the doors are open to the public!
 
-![](/images/device-lab-1.jpg)
-
 ### Design considerations
 
 Before opened we dubbed the lab the *Device Lounge*. This reflected our intention for the space to be warm and welcoming for visitors. Somewhere you felt relaxed. Casual, conversational copy and a vibrant colour palette helped convey this online.
