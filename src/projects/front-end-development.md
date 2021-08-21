@@ -6,8 +6,7 @@ blurb: I enjoy bridging the gap between design and development and ensuring the
   beautiful interactive experiences. Most of these were built while I was
   working at Humaan.
 permalink: /projects/front-end-development/index.html
-roles:
-  - itemText: Front end development
+roles: []
 employer: null
 year: null
 leadImage: ""
