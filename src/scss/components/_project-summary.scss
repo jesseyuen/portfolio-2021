@@ -50,6 +50,7 @@
       width: calc((1600px/6) * 1);
       align-items: flex-start;
       padding-right: var(--spacing-large);
+      padding-left: var(--spacing-large);
     }
     
     .figcaption__inner {
@@ -92,7 +93,7 @@ figcaption {
 
 .project__content {
   grid-column: 2 / span 4;
-  padding-left: 25px;
+  // padding-left: 25px;
 
   @media (max-width: 1200px){
     grid-column: 1 / span 5;
