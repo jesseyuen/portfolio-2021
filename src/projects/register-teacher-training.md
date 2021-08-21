@@ -1,7 +1,8 @@
 ---
 layout: layouts/project.njk
 title: Register Teacher Training
-blurb: Co-designing an accessible digital service from private through to public beta.
+blurb: Co-designing a digital service that supports teachers across England from
+  private through to public beta.
 permalink: /projects/register-teacher-training/index.html
 roles:
   - itemText: Digital service delivery
