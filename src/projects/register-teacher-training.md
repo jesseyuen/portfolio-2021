@@ -73,7 +73,9 @@ We produced a browser based prototype that looked, felt and most importantly wor
 > I need to be able to track my progress\
 > So that I know what I have completed and what is still incomplete 
 
-A significant issue with the existing tool was that users struggled to follow their progress when creating a record. The GOV.UK task list pattern helps "Task list pages help users understand: the tasks involved in completing a transaction, the order they should complete tasks in and when they have completed tasks"
+A significant issue with the existing tool was that users struggled to follow their progress when creating a record. The GOV.UK task list pattern helps "Task list pages help users understand: ...the order they should complete tasks in and when they have completed tasks".\
+\
+This pattern addressed the user need thought grouping related tasks and clearly signposting progress. 
 
 ![](/images/register-prototype.herokuapp.com_new-record_overview.png "Task list")
 
