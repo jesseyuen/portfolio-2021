@@ -34,7 +34,7 @@ The product is essential a CRM for trainee teachers, with user interaction large
 
 ![An example of the original forms.](/images/exit-information.png "There was no way to know how 'complete' a registration was nor what was left to complete.")
 
-### Co-design for the win 
+### Co-design for the win
 
 This project had two senior designers. A bit of a treat to be honest, with ongoing opportunity for peer feedback and someone always there to bounce ideas off who knew the project intimately. Seeking and giving feedback are both challenging things to do well, yet get easier with practice and allow for better design. 
 
@@ -80,7 +80,7 @@ Design history here
 
 ![](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png)
 
-### Team culture and celebrating successes
+### Celebrating milestones
 
 Mission patch stuff here
 
