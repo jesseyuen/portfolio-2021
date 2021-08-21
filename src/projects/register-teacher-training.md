@@ -79,6 +79,8 @@ This pattern addressed the user need thought grouping related tasks and clearly 
 
 ![A screen shot of a page listing the tasks needed to be done](/images/register-prototype.herokuapp.com_new-record_overview.png "We ensured it was clear to users which tasks they’ve completed and which still need their attention.")
 
+
+
 ![](/images/filters.png "Iteration 1  Too homepagey")
 
 ### Testing with users
