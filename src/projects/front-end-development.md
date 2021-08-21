@@ -9,10 +9,8 @@ employer: Various
 year: Ongoing
 leadImage: ""
 leadImageCaption: ""
-outroHeading: Outcome
-outro: |-
-  Content here
-  What would I have done differently?
+outroHeading: ""
+outro: ""
 ---
 I'm an experinced (front of the) front end developer who enjoys bridging the gap between design and development and ensuring the products I help build are semantic, accessible and robust. Most of these were built while I was working at Humaan.
 
@@ -40,8 +38,16 @@ Onia are specialist orthodontists. This site has a tonne of playful animation wh
 
 [View Onia](https://www.onia.com.au/)
 
+![](/images/www.parisamericanacademy.fr_.png)
+
 ### Paris American Academy
 
 Paris American Academy is a fashion design school in Paris. This site features a fullscreen editorial style with really interesting grid layouts.
 
 [View Paris American Academy](https://www.parisamericanacademy.fr/)
+
+### Landscape Elements
+
+Landscape Elements Pty Ltd are specialist landscapers. This was a freelance project of mine and although it contains plenty of smooth animation, at the core is a considered accessible experience. 
+
+[View Landscape Elements](https://landscapeelements.com.au/)
