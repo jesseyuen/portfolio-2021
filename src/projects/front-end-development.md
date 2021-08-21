@@ -16,18 +16,11 @@ outro: |-
 ---
 Im an experinced (front of the) front end developer who enjoys bridging the gap between design and development and ensuring the products I help build are semantic, accessible and robust.
 
-### Design principles
+![A screenshot of the Sodashi homepage](/images/www.sodashi.co.uk_-1-.png "An elegant e-commerce site.")
 
-The client was very clear with their brief. The site must appeal to a socially and geographically diverse audience, it must be accessible and also respectful of local indigenous culture. These key points outlined our design principles throughout the project.
+### [Sodashi](https://www.sodashi.co.uk/)
 
-![](/images/aotm-home2.jpg "The homepage highlighting key functions of the arts organisation.")
-
-### Accessible and inclusive design
-
-\[hero banner acknowedgmet thingo]
-
-• acessability benefits
-• culteral benefits
+Built in my time at Humaan, Sodashi is a elegant e-comerce site with subtle and buttery animation.
 
 ### Tight budgets and scaling design with modular components
 
