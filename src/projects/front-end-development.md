@@ -12,13 +12,13 @@ leadImageCaption: ""
 outroHeading: ""
 outro: ""
 ---
-I'm an experinced (front of the) front end developer who enjoys bridging the gap between design and development and ensuring the products I help build are semantic, accessible and robust. Most of these were built while I was working at Humaan.
+I'm an experinced (front of the) front end developer who enjoys bridging the gap between design and development and ensuring the products I help build are semantic, accessible and robust but also have beautiful interactive experiences. Most of these were built while I was working at Humaan.
 
 ![A screenshot of the Sodashi homepage](/images/www.sodashi.co.uk_-1-.png "An elegant e-commerce site")
 
 ### Sodashi
 
-Sodashi is an elegant e-commerce site with subtle and buttery-smooth animation. \
+Sodashi is an elegant e-commerce site with subtle and buttery-smooth animation. These kinds of sites take ages to build!\
 \
 [View Sodashi](https://www.sodashi.co.uk/)
 
