@@ -49,7 +49,7 @@ Designing collaboratively can be a rewarding experience but requires the people 
 
 ### User centred design
 
-I've not experienced user centered design done as well as it is within government design teams. UCD is respected by stakeholders and forms the core principles of how products are designed. There are no UX designers on the team and its refreshing! Instead we recognise that user experience is everybody's responsibility. 
+I've not experienced user centered design done as well as it is within government design teams. UCD is respected by stakeholders and forms the core principles of how products are designed. There is no single person responsible for UX on the team and its refreshing! Instead we recognise that user experience is everybody's responsibility. 
 
 The core UCD team is made up of user researchers, content and interaction designers with front end developers often helping to complete the group responsible for *UX,* and by sharing it we remove unintentional bias and bring our own individual experiences and knowledge to the product.
 
