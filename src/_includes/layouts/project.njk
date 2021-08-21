@@ -22,12 +22,14 @@
         <div class="grid-item project__meta">
           <div class="project__meta-inner">
             <div>
-              <h2>Role</h2>
-              <ul>
-                {% for item in roles %}
-                  <li>{{item.itemText}}</li>
-                {% endfor %}
-              </ul>
+              {% if roles %}
+                <h2>Role</h2>
+                <ul>
+                  {% for item in roles %}
+                    <li>{{item.itemText}}</li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
             </div>
             <div>
               <h2>{{employer}}</h2>
