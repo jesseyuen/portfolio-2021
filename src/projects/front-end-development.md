@@ -1,7 +1,7 @@
 ---
 layout: layouts/project.njk
 title: Front end development
-blurb: A collection of my favourite semantic, accessible and performant frontend work
+blurb: A collection of my favourite semantic, accessible and engaging frontend work
 permalink: /projects/front-end-development/index.html
 roles:
   - itemText: Front end development
