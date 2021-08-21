@@ -67,7 +67,14 @@ We produced a browser based prototype that looked, felt and most importantly wor
 
 ![A screenshot of a code editor.](/images/code.png "The service was designed with HTML, CSS, Nunjucks and Express JS with not a Figma art-board in sight.")
 
-### Design updates
+### What we did
+
+A simplified dashboard provided:
+
+* a focus on the key data a user needed to know 
+* links to critical guidance and task that needed attention
+
+![](/images/localhost_3000_home-10-.png)
 
 > As a user\
 > I need to be able to track my progress\
