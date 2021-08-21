@@ -18,10 +18,10 @@ leadImageCaption: Opening week of the Perth Device lab in February 2016. So neat
 introHeading: ""
 intro: ""
 outroHeading: Outcome
-outro: <p>This was an altruistic excerise for our agancy. It was a greater good
-  project.</p> <p>We made a bunch of friends, perhaps enouraged a culture of
-  best practice and certainaly helped countlesss others in their quest for
-  improved mobile experinces. In 2016 we were added to the Smashing Magazine <a
+outro: <p>This was an altruistic exercise for our agency, a greater good
+  project.</p> <p>We made a bunch of friends, hopefully encouraged a culture of
+  best practice and certainly helped countless others in their quest for
+  improved mobile experiences. In 2016 we were added to the Smashing Magazine <a
   href="https://www.smashingmagazine.com/2016/11/worlds-best-open-device-labs/"
   target="_blank">"Where Are The World’s Best Open Device Labs?"</a> list which
   was a bit of a buzz too.</p> <p>The device lab, as many others around the
