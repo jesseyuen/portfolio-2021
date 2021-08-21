@@ -24,7 +24,11 @@ Built in my time at Humaan, Sodashi is an elegant e-commerce site with subtle an
 \
 [View Sodashi](https://www.sodashi.co.uk/)
 
+### Mideast Tunes Radio
 
+Built in my time at Humaan, Mideast Tunes Radio is a hub for podcasts created by Mideast Tunes, a platform to discover underground musicians in the Middle East and North Africa. Being bi-lingual (Arabic and English) meant I needed to accomadate for both left-to-right and right-to-left layouts.
+
+[View Mideast Tunes Radio](https://radio.mideastunes.com/)
 
 ### Tight budgets and scaling design with modular components
 
