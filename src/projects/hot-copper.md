@@ -69,7 +69,7 @@ The client hoped to start generating editorial content. We designed a series of 
 
 ![](/images/hc-editorial.jpg "Extensions of the final design included an editorial section.")
 
-### A consistent style to rule them all
+### Component library
 
 Part of the brief from the client was to establish a consistent and appropriate visual language for UI used within the site. A comprehensive list of components were designed with the intention that an in-house development team could follow our direction when building bespoke features in the future.
 
