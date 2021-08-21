@@ -11,8 +11,8 @@ year: "2021"
 leadImage: /images/register-hero.png
 leadImageAlt: test alt
 leadImageCaption: Test caption
-introHeading: Co-designing?
-intro: "This project had two senior designers. "
+introHeading: ""
+intro: ""
 outroHeading: Outcome
 outro: Time 20mins > 6-7min
 ---
