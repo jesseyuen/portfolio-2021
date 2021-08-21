@@ -53,4 +53,4 @@ We wanted the online and onsite experience to remain consistent (and positive) f
 
 Typically you might start a design project with some rough sketches or a moodboard. This project begun with a performance budget. On first load the site needed to weigh less than 1mb on the common mobile viewport and less 2mb for common desktop viewport.
 
-To help achieve this the design remained lean, css written mobile first and we lazy loaded assets like large images and google maps
+To help achieve this the design remained lean, css was written mobile first and we lazy loaded assets like large images and google maps
