@@ -82,10 +82,6 @@ A simplified dashboard provided:
 
 ![](/images/localhost_3000_home-10-.png)
 
-> As a user\
-> I need to be able to track my progress\
-> So that I know what I have completed and what is still incomplete 
-
 A significant issue with the existing tool was that users struggled to follow their progress when creating a record. The GOV.UK task list pattern helps "Task list pages help users understand: ...the order they should complete tasks in and when they have completed tasks".\
 \
 This pattern addressed the user need thought grouping related tasks and clearly signposting progress. 
