@@ -24,7 +24,7 @@ outro: <p>This was an altruistic exercise for our agency, a greater good
   improved mobile experiences. In 2016 we were added to the Smashing Magazine <a
   href="https://www.smashingmagazine.com/2016/11/worlds-best-open-device-labs/"
   target="_blank">"Where Are The World’s Best Open Device Labs?"</a> list which
-  was a bit of a buzz too.</p> <p>The device lab, as many others around the
+  was a bit of a buzz too.</p> <p>The device lab, like many others around the
   world, has sadly closed.</p>
 ---
 The Device Lab was my passion project while working for [Humaan](http://humaan.com/ "Visit Humaan") and it was a great experience opening our doors to local developers, startups, students, educators, government agencies, suits, thieves and other curious visitors in my time as coordinator. 
