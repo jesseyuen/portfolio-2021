@@ -5,8 +5,8 @@ blurb: A collection of my favourite semantic, accessible and performant frontend
 permalink: /projects/front-end-development/index.html
 roles:
   - itemText: Front end development
-employer: Studio Papa
-year: "2018"
+employer: Various
+year: Ongoing
 leadImage: ""
 leadImageCaption: ""
 outroHeading: Outcome
@@ -14,30 +14,32 @@ outro: |-
   Content here
   What would I have done differently?
 ---
-Im an experinced (front of the) front end developer who enjoys bridging the gap between design and development and ensuring the products I help build are semantic, accessible and robust.
+I'm an experinced (front of the) front end developer who enjoys bridging the gap between design and development and ensuring the products I help build are semantic, accessible and robust. Most of these were built while I was working at Humaan.
 
-![A screenshot of the Sodashi homepage](/images/www.sodashi.co.uk_-1-.png "An elegant e-commerce site.")
+![A screenshot of the Sodashi homepage](/images/www.sodashi.co.uk_-1-.png "An elegant e-commerce site")
 
 ### Sodashi
 
-Built in my time at Humaan, Sodashi is an elegant e-commerce site with subtle and buttery-smooth animation. \
+Sodashi is an elegant e-commerce site with subtle and buttery-smooth animation. \
 \
 [View Sodashi](https://www.sodashi.co.uk/)
 
+![](/images/radio.mideastunes.com_-1-.png)
+
 ### Mideast Tunes Radio
 
-Built in my time at Humaan, Mideast Tunes Radio is a hub for podcasts created by Mideast Tunes, a platform to discover underground musicians in the Middle East and North Africa. Being bi-lingual (Arabic and English) meant I needed to accomadate for both left-to-right and right-to-left layouts.
+Mideast Tunes Radio is a hub for podcasts created by Mideast Tunes, a platform to discover underground musicians in the Middle East and North Africa. Being bi-lingual (Arabic and English) meant I needed to accomadate for both left-to-right and right-to-left layouts.
 
 [View Mideast Tunes Radio](https://radio.mideastunes.com/)
 
-### Tight budgets and scaling design with modular components
+![](/images/www.onia.com.au_.png)
 
-How do you design a site for a multi-faceted organisation with a budget that allowed for only 3 page templates? I proposed a collection of modular components that the client could use to *curate* their own layouts using a site building interface in the CMS.
+### Onia
 
-![](/images/aotm-modular2.jpg "Examples from the collection of modular components")
+Onia are specialist orthodontists. This site has a tonne of playful animation which made for a fun and challenging build.
 
-I designed complementary components as well as the logic of how interface items should relate to each other when added to a page. This system facilitated the clients page layout needs on a page per page basis.
+[View Onia](https://www.onia.com.au/)
 
-![](/images/aotm-training.jpg "An example of a page created with modular components")
+### Paris American Academy
 
-![](/images/aotm-venues.jpg "An example of a page created with modular components")
+Built at my time at Humman
