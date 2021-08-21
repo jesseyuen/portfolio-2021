@@ -55,6 +55,8 @@ User needs define what we prioritise in design and what we ship first.
 
 Some digital services are more transactional, with a relatively liner user journey. This service was far more complicated, where a trainee record may exist in the system for a number of years, meaning our users were required to return at multiple times to update data and complete tasks.
 
+We mapped out complex parts of the user journey, allowing us to document the nuances around business rules.  
+
 ![A user flow diagram](/images/flows.jpeg  "User flows were created to map complex processes and communicate business rules to the team before way before any visual design was done.")
 
 ### Designing in code
