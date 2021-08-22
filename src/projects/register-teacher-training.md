@@ -104,6 +104,6 @@ We frequently documented our design using a [design history](https://bat-design-
 
 ### Celebrating milestones as a team
 
-Some government digital service teams celebrate milestones with mission patches, a tradition that comes from the early astronautical missions. I led our team in a team workshop to decide on our spirit animal and designed our mission patches. These were printed and then, as we are all remote, mailed across the country to the team. 
+Some government digital service teams celebrate milestones with mission patches, a tradition that comes from the early space missions. I led our team in a team workshop to decide on our spirit animal and designed our mission patches. These were printed and then, as we are all remote, mailed across the country to the team. 
 
 ![A collection of mission patch designs](/images/mission-patches.png "A collection of mission patches I designed while working on the team. Each on represents a team achievement.. ")
