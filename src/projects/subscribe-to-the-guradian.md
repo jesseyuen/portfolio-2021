@@ -9,6 +9,11 @@ roles:
 employer: The Guardian
 year: "2019"
 leadImage: /images/subscribe.png
+outroHeading: Outcome
+outro: |-
+  Mature rebrand
+  More accessible
+  AB testing
 ---
 Content here
 
@@ -37,3 +42,12 @@ Updated subscription landing page
 Product page updates
 
 ![](/images/dp-baseline-desktop.png)
+
+Emotional connection with our users
+
+![](/images/windrush.png)
+
+### Measuring success
+
+AB testing\
+Usability testing
