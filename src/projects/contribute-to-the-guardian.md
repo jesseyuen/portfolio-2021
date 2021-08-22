@@ -8,7 +8,7 @@ permalink: /projects/contribute/index.html
 roles:
   - itemText: UX design
   - itemText: UI design
-  - itemText: Accessibility audit
+  - itemText: Accessibility advocacy
 employer: The Guardian
 year: "2019"
 leadImage: /images/contribute2.png
@@ -17,11 +17,28 @@ leadImageCaption: Bold typography and considered UI ensured the new contribution
   journey still felt 'Guardian' whilst also making it a far more inclusive
   experience.
 outroHeading: Outcome
-outro: We covered a lot of ground in this piece of work including fixing
-  fundamental accessibility and usability issues, piloting new design system
-  components and visually evolving our contribution journey. The stakeholders
-  were happy with positive revenue gains and our users were given a
-  significantly improved experience.
+outro: >-
+  We covered a lot of ground in this piece of work including fixing fundamental
+  accessibility and usability issues, piloting new design system components and
+  visually evolving our contribution journey. The stakeholders were happy with
+  positive revenue gains and our users were given a significantly more usable
+  and accessible experience.
+
+
+  I would have loved the opportunity to look further along the journey: 
+
+
+  <ul>
+
+  <li>What does the thank you page look like?</li>
+
+  <li>What do the confirmation emails say?</li>
+
+  <li>How can we encourage uses to contribute again?</li>
+
+  </ul>
+
+  Sadly, this was out of scope for this piece of work.
 ---
 The Guardian does not have a paywall and instead relies on readers' contributions and subscriptions as a large part of its funding model. The Contributions team's roadmap understandably revolved around maximising revenue for the Guardian. 
 
@@ -52,13 +69,13 @@ Following was a usability review. For such a small amount of screen real estate,
 3. The three text fields were very busy. Was it really necessary to mark each as required? Did we need leading icons to help identify rather generic form fields? Probably not.
 4. A third set of radio buttons, again with unique styling, although somewhat more traditional. The accessibility audit highlighted that these performed poorly in terms of contrast and also other colour checks.
 
-### Design updates
+### Designing and piloting design system components
 
-I consolidated the three random radio button styles into one consistent pattern, a UI pattern that was eventually called <a href="https://guardian.github.io/source/?path=/story/choicecard--single-state-light" target="_blank">choice cards</a>.
+I consolidated the three random radio button styles into one consistent pattern, a UI pattern which we started calling <a href="https://guardian.github.io/source/?path=/story/choicecard--single-state-light" target="_blank">choice cards</a>.
 
 At this time the Guardian Design System was in its infancy and we used this project to publicly pilot the new component and also experiment with the workflow between the product and design system teams.
 
-All three sets of radios, now masked as ‘choice cards’ where also now clearly signposted with accessible labels.
+All three sets of radios, now styled as ‘choice cards’ where also clearly signposted with accessible form labels.
 
 ![](/images/choice-cards.png "Increased consistency within the UI with a focus on accessibility.")
 
@@ -72,4 +89,6 @@ Though much of this design process was focused on simplification we also wanted 
 
 ### Measuring success
 
-This team was very big on multivariate AB testing. I’m more a ‘let’s stick this in front of users’ and see what they say kind of designer but I recognise the role AB testing can play, especially when the success metric is something easy to measure like revenue. The design contributed to a positive shift in contributions and the knowledge that we’d significantly improved the experience for more users was a key personal success metric.
+This team was very big on multivariate AB testing. I’m more a ‘let’s stick this in front of users’ and see what they say kind of designer but I recognise the role AB testing can play, especially when the success metric is something easy to measure like revenue. The design contributed to a positive shift in contributions.
+
+More holistic metrics like user experience are much harder to measure and this presents a challenge when getting buy-in from stakeholders for inclusive design.
