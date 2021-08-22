@@ -58,7 +58,7 @@ I consolidated the three random radio button styles into one consistent pattern,
 
 At this time the Guardian Design System was in its infancy and we used this project to publicly pilot the new component and also experiment with the workflow between the product and design system teams.
 
-All three sets of radios, now masked as ‘choice cards’ where also now clearly signposted with accessible labels.
+All three sets of radios, now styled as ‘choice cards’ where also clearly signposted with accessible form labels.
 
 ![](/images/choice-cards.png "Increased consistency within the UI with a focus on accessibility.")
 
@@ -72,4 +72,6 @@ Though much of this design process was focused on simplification we also wanted 
 
 ### Measuring success
 
-This team was very big on multivariate AB testing. I’m more a ‘let’s stick this in front of users’ and see what they say kind of designer but I recognise the role AB testing can play, especially when the success metric is something easy to measure like revenue. The design contributed to a positive shift in contributions and the knowledge that we’d significantly improved the experience for more users was a key personal success metric.
+This team was very big on multivariate AB testing. I’m more a ‘let’s stick this in front of users’ and see what they say kind of designer but I recognise the role AB testing can play, especially when the success metric is something easy to measure like revenue. The design contributed to a positive shift in contributions.
+
+More holistic metrics like user experience are much harder to measure and this presents a challenge when getting buy-in from stakeholders for inclusive design.
