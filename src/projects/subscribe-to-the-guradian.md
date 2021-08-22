@@ -51,7 +51,7 @@ Emotional connection with our users
 
 ### Highs and lows
 
-Big enterprise can be a challenging ecosystem to work within. Advocating for the users experience and needs over business needs often feels like an uphill battle. Sometimes you loose the battle and end up with a scenario like this which I regrettably had a hand in designing. A shitty revenue hungry experience on the HOMEPAGE of The Guardian. Needless to say it was one of the lowest points in my career and still regret not fighting harder to stop it happening. \
+Big enterprise can be a challenging ecosystem to work within. Advocating for the users experience and needs over business needs often feels like an uphill battle. Sometimes you loose the battle and things go pear shaped, like this, a horrible, revenue hungry experience on the HOME PAGE of The Guardian. Needless to say it was one of the lowest points in my career and still regret not fighting harder to stop it happening. \
 \
 Was this the hill I was prepared to die on at the time? No. If I had the chance again? Perhaps, yes.
 
