@@ -15,3 +15,9 @@ Content here
 ### Test heading
 
 ![Alt text](/images/wireframes.png "Caption")
+
+### Iterative exploration
+
+Content here
+
+![](/images/exploration.png)
