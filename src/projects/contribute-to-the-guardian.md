@@ -17,11 +17,28 @@ leadImageCaption: Bold typography and considered UI ensured the new contribution
   journey still felt 'Guardian' whilst also making it a far more inclusive
   experience.
 outroHeading: Outcome
-outro: We covered a lot of ground in this piece of work including fixing
-  fundamental accessibility and usability issues, piloting new design system
-  components and visually evolving our contribution journey. The stakeholders
-  were happy with positive revenue gains and our users were given a
-  significantly improved experience.
+outro: >-
+  We covered a lot of ground in this piece of work including fixing fundamental
+  accessibility and usability issues, piloting new design system components and
+  visually evolving our contribution journey. The stakeholders were happy with
+  positive revenue gains and our users were given a significantly more usable
+  and accessible experience.
+
+
+  I would have loved the opportunity to look further along the journey: 
+
+
+  <ul>
+
+  <li>What does the thank you page look like?</li>
+
+  <li>What do the confirmation emails say?</li>
+
+  <li>How can we encourage uses to contribute again?</li>
+
+  </ul>
+
+  Sadly, this was out of scope for this piece of work.
 ---
 The Guardian does not have a paywall and instead relies on readers' contributions and subscriptions as a large part of its funding model. The Contributions team's roadmap understandably revolved around maximising revenue for the Guardian. 
 
