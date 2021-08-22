@@ -1,6 +1,6 @@
 ---
 layout: layouts/project.njk
-title: Subscribe to the Guradian
+title: Subscribe to The Guardian
 blurb: Content here
 permalink: /projects/subscribe/index.html
 roles:
