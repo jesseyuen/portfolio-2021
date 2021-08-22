@@ -6,8 +6,8 @@ permalink: /projects/subscribe-to-the-guardian/index.html
 roles:
   - itemText: UI design
   - itemText: UX design
-employer: Studio Papa
-year: "2018"
+employer: The Guardian
+year: "2019"
 leadImage: ""
 leadImageCaption: ""
 outroHeading: Outcome
