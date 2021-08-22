@@ -18,7 +18,7 @@ Content here
 
 ### Iterative exploration
 
-Content here
+Content here about cards and modular patterns
 
 ![](/images/exploration.png)
 
@@ -27,3 +27,7 @@ Content here
 Content here
 
 ![](/images/_volumes_seagate_guardian_grid-20demo_index.html-1-.png)
+
+### A modular approach
+
+Content here
