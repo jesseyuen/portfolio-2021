@@ -9,6 +9,8 @@ roles:
 employer: The Guardian
 year: "2019"
 leadImage: /images/subscribe.png
+leadImageAlt: Alt
+leadImageCaption: Copy
 outroHeading: Outcome
 outro: |-
   Mature rebrand
@@ -25,7 +27,7 @@ Content here
 
 Content here about cards and modular patterns
 
-![](/images/exploration.png)
+![alt](/images/exploration.png "Copy")
 
 ### Prototyping in code
 
@@ -37,11 +39,11 @@ Content here
 
 Updated subscription landing page
 
-![](/images/subs-landing-evoluton-desktop.png)
+![alt](/images/subs-landing-evoluton-desktop.png "Copy")
 
 Product page updates
 
-![](/images/dp-baseline-desktop.png)
+![alt](/images/dp-baseline-desktop.png "Copy")
 
 Emotional connection with our users
 
@@ -51,9 +53,9 @@ Emotional connection with our users
 
 Big enterprise can be a challenging ecosystem to work within. Advocating for the users experience and needs over business needs often feels like an uphill battle. Sometimes you loose the battle and end up with a scenario like this which I regrettably had a hand in designing. A shitty revenue hungry experience on the HOMEPAGE of The Guardian. Needless to say it was one of the lowest points in my career and still regret not fighting harder to stop it happening. \
 \
-Was this the hill I was prepared to die on at the time? No. But now? Perhaps, yes.
+Was this the hill I was prepared to die on at the time? No. If I had the chance again? Perhaps, yes.
 
-![](/images/banner-hell.jpeg)
+![Alt](/images/banner-hell.jpeg "Copy")
 
 ### Measuring success
 
