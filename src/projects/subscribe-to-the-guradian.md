@@ -13,7 +13,7 @@ outroHeading: Outcome
 outro: |-
   Mature rebrand
   More accessible
-  AB testing
+  Templated and modular approach to design
 ---
 Content here
 
@@ -46,6 +46,12 @@ Product page updates
 Emotional connection with our users
 
 ![](/images/windrush.png)
+
+### High points and low points
+
+Big enterprise can be a challenging ecosystem to work within. Advocating for the users experience over business needs sometimes feels like an uphill battle. Ask yourself "Which hill am I be prepared to die on" and maintain that decision as a self preservation strategy. Sometimes you loose the battle and end up with scenarios like this.
+
+![](/images/banner-hell.jpeg)
 
 ### Measuring success
 
