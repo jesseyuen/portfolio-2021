@@ -21,3 +21,9 @@ Content here
 Content here
 
 ![](/images/exploration.png)
+
+### Prototyping in code
+
+Content here
+
+![](/images/_volumes_seagate_guardian_grid-20demo_index.html-1-.png)
