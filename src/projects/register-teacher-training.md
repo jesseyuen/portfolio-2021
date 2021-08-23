@@ -80,7 +80,7 @@ A simplified dashboard provided:
 * a focus on the key data a user needed to know 
 * links to critical guidance and task that needed attention
 
-![](/images/localhost_3000_home-10-.png)
+![A screenshot of a dashboard](/images/localhost_3000_home-10-.png "A caption goes here")
 
 A significant issue with the existing tool was that users struggled to follow their progress when creating a record. The GOV.UK task list pattern helps "Task list pages help users understand: ...the order they should complete tasks in and when they have completed tasks".\
 \
@@ -100,10 +100,10 @@ Working closely with user researches on the team meant we could get into a rhyth
 
 We frequently documented our design using a [design history](https://bat-design-history.netlify.app/register-trainee-teachers/). The design history looks forwards and backwards, new posts show the team where the service is going and old posts tell us how we got to where we are now. It it allowed us to share what we learn with others and it ensures we’re being transparent and designing in the open.
 
-![](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png)
+![A screenshot of the design history](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png "A caption goes here")
 
 ### Celebrating milestones as a team
 
-Some government digital service teams celebrate milestones with mission patches, a tradition that comes from the early astronautical missions. I led our team in a team workshop to decide on our spirit animal and designed our mission patches. These were printed and then, as we are all remote, mailed across the country to the team. 
+Some government digital service teams celebrate milestones with mission patches, a tradition that comes from the early space missions. I led our team in a team workshop to decide on our spirit animal and designed our mission patches. These were printed and then, as we are all remote, mailed across the country to the team. 
 
 ![A collection of mission patch designs](/images/mission-patches.png "A collection of mission patches I designed while working on the team. Each on represents a team achievement.. ")
