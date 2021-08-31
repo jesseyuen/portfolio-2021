@@ -18,11 +18,11 @@ outro: |-
   More accessible
   Templated and modular approach to design
 ---
-Content here
+Working across multiple agile teams means I had a lot of projects in play at any one time. Some moved slow, others moved very quickly. Some stopped and never started again. Big enterprise can be a challenging ecosystem to work within.
 
 ### Where we started
 
-Circles. Circles everywhere. The visual aesthetic of the subscription site had had veered towards colourful, playful circles of all sizes. It had suited The Guardian at the time but there was a desire to move towards a more mature, modular and unified design language.
+Circles... everywhere. The visual aesthetic of the subscription site had had drifted towards a colourful and playful tone. It had suited The Guardian at an earlier time but there was a desire to move towards a more mature, modular and unified design language.
 
 ![Screen shots from the Subscription site featuring lots of colourful circles.](/images/circles-1.png "We were going around in circles when I started The Guardian. There was a lack of consistency across the subscription site and a visual language that was not align with how we wanted to present the brand. ")
 
