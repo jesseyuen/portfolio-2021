@@ -1,12 +1,12 @@
 ---
 layout: layouts/project.njk
 title: Subscribe to The Guardian
-blurb: Content here
+blurb: Leading the creative redesign of The Guardians online subscription journey.
 permalink: /projects/subscribe/index.html
 roles:
   - itemText: UX design
-  - itemText: UI design
   - itemText: Protoyping
+  - itemText: UI design
 employer: The Guardian
 year: "2019"
 leadImage: /images/subscribe.png
@@ -20,7 +20,15 @@ outro: |-
 ---
 Content here
 
-### Test heading
+### Where we started
+
+Circles. Circles everywhere. The visual aesthetic of the subscription site had had veered towards colourful, playful circles of all sizes. It had suited The Guardian at the time but there was a desire to move towards a more mature, modular and unified design language.
+
+![Screen shots from the Subscription site featuring lots of colourful circles.](/images/circles-1.png "We were going around in circles when I started The Guardian. There was a lack of consistency across the subscription site and a visual language that was not align with how we wanted to present the brand. ")
+
+
+
+### Wire framing
 
 ![Alt text](/images/wireframes.png "Caption")
 
