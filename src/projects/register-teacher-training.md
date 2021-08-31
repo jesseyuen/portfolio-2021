@@ -5,7 +5,7 @@ blurb: Co-designing a digital service that supports teachers across England from
   prototype through to public beta.
 permalink: /projects/register-teacher-training/index.html
 roles:
-  - itemText: Digital service delivery
+  - itemText: Digital service design
   - itemText: Interaction design
 employer: Department for Education
 year: 2020 to 2021
@@ -86,7 +86,7 @@ A significant issue with the existing tool was that users struggled to follow th
 \
 This pattern addressed the user need thought grouping related tasks and clearly signposting progress. 
 
-![A screen shot of a page listing the tasks needed to be done](/images/register-prototype.herokuapp.com_new-record_overview.png "We ensured it was clear to users which tasks they’ve completed and which still need their attention.")
+![A screen shot of a page listing the tasks needed to be done](/images/localhost_3000_new-record_overview-1-.png "We ensured it was clear to users which tasks they’ve completed and which still need their attention.")
 
 User needed to track multiple trainees over a number of years. Trainee records can exist in multiple states and there was a need to provide a clear classification system and advanced filtering.
 
