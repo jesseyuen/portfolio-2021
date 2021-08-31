@@ -6,6 +6,7 @@ permalink: /projects/subscribe/index.html
 roles:
   - itemText: UX design
   - itemText: UI design
+  - itemText: Protoyping
 employer: The Guardian
 year: "2019"
 leadImage: /images/subscribe.png
