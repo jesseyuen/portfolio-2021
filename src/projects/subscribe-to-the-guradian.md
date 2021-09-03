@@ -61,13 +61,15 @@ Part of The Guardians strategy is emotional engagement with their audience. A se
 
 ![A screenshot of editorial designed layout](/images/windrush.png "Content in this section was customised based on your region. The UK saw Windrush, the US had to put up with Trump and Australian viewers were served environmental content.")
 
-### Highs and lows
+### Money talks, and good experiences walk
 
-Big enterprise can be a challenging ecosystem to work within. Advocating for the users experience and needs over business needs often feels like an uphill battle. Sometimes you loose the battle and things go pear shaped, like this, a horrible, revenue hungry experience on the HOME PAGE of The Guardian. Needless to say it was one of the lowest points in my career and still regret not fighting harder to stop it happening. \
+Big enterprise can be a challenging ecosystem to work within. There is an ongoing tension between advocating for the users experience and satisfying business needs, often feeling like an uphill battle.
+
+Sometimes you loose the battle and things go pear shaped, and you end up with a less than ideal experience on the HOME PAGE of The Guardian. A pay per click campaign ad pushing site content down and an overlay I designed obscuring the bottom half of the page. It made enough money for the users experience to be knowingly compromised.\
 \
-Was this the hill I was prepared to die on at the time? No. If I had the chance again? Perhaps, yes.
+Needless to say it was a low points in my career and still regret not fighting harder to stop it happening. Was this the hill I was prepared to die on at the time? No. If I had the chance again? Perhaps, yes.
 
-![Alt](/images/banner-hell.jpeg "Copy")
+![A screenshot of the Guardian homepage obscured by advertisement. ](/images/banner-hell.jpeg "You win some, you lose some. It's safe to say the designers advocating for good UX lost this one 😔")
 
 ### Measuring success
 
