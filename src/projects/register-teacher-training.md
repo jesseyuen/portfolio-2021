@@ -100,6 +100,8 @@ Working closely with user researches on the team meant we could get into a rhyth
 
 We frequently documented our design using a [design history](https://bat-design-history.netlify.app/register-trainee-teachers/). The design history looks forwards and backwards, new posts show the team where the service is going and old posts tell us how we got to where we are now. It it allowed us to share what we learn with others and it ensures we’re being transparent and designing in the open.
 
+The task reminds me that writing is hard and objectively documenting your own work is REALLY hard but it's worth it.
+
 ![A screenshot of the design history](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png "A caption goes here")
 
 ### Celebrating milestones as a team
