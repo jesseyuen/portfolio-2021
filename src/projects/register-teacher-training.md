@@ -5,7 +5,7 @@ blurb: Co-designing a digital service that supports teachers across England from
   prototype through to public beta.
 permalink: /projects/register-teacher-training/index.html
 roles:
-  - itemText: Digital service delivery
+  - itemText: Digital service design
   - itemText: Interaction design
 employer: Department for Education
 year: 2020 to 2021
@@ -22,7 +22,7 @@ outro: >-
   public beta where the service was officially public. 
 
 
-  In contrast to the legacy product, our service was insignificantly more usable and accessible. A metric we used to measure success was time to create a record. In the original product a record would take up to 20 minutes to create while we observed first time uses creating records in 6-7 minutes.
+  <br><br>In contrast to the legacy product, our service was insignificantly more usable and accessible. A metric we used to measure success was time to create a record. In the original product a record would take up to 20 minutes to create while we observed first time uses creating records in 6-7 minutes.
 ---
 Register Trainee Teachers does what is says on the tin, register trainees with the Department for Education and record the outcome of their training. Teachers across England will have their progress tracked using this service. 
 
@@ -86,7 +86,7 @@ A significant issue with the existing tool was that users struggled to follow th
 \
 This pattern addressed the user need thought grouping related tasks and clearly signposting progress. 
 
-![A screen shot of a page listing the tasks needed to be done](/images/register-prototype.herokuapp.com_new-record_overview.png "We ensured it was clear to users which tasks they’ve completed and which still need their attention.")
+![A screen shot of a page listing the tasks needed to be done](/images/localhost_3000_new-record_overview-1-.png "We ensured it was clear to users which tasks they’ve completed and which still need their attention.")
 
 User needed to track multiple trainees over a number of years. Trainee records can exist in multiple states and there was a need to provide a clear classification system and advanced filtering.
 
@@ -100,7 +100,7 @@ Working closely with user researches on the team meant we could get into a rhyth
 
 We frequently documented our design using a [design history](https://bat-design-history.netlify.app/register-trainee-teachers/). The design history looks forwards and backwards, new posts show the team where the service is going and old posts tell us how we got to where we are now. It it allowed us to share what we learn with others and it ensures we’re being transparent and designing in the open.
 
-![A screenshot of the design history](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png "A caption goes here")
+![A screenshot of the design history](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png "The task reminds me that writing is hard and objectively documenting your own work is REALLY hard but it's worth it.")
 
 ### Celebrating milestones as a team
 
