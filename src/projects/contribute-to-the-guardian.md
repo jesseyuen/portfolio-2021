@@ -34,7 +34,7 @@ outro: >-
 
   <li>What do the confirmation emails say?</li>
 
-  <li>How can we encourage uses to contribute again?</li>
+  <li>How can we encourage users to contribute again?</li>
 
   </ul>
 
