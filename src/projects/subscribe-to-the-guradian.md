@@ -49,11 +49,11 @@ Communicating responsive layout behaviour to the development team is a challenge
 
 ### A modular approach
 
-Updated subscription landing page
+The modular landing page meant we could show/hide and highlight different products based on region. 
 
-![alt](/images/subs-landing-evoluton-desktop.png "Copy")
+![A screenshot of the updated landing page.](/images/subs-landing-evoluton-desktop.png "Copy")
 
-Product page updates
+I designed a product page template that we could use across our entire product range.
 
 ![alt](/images/dp-baseline-desktop.png "Copy")
 
