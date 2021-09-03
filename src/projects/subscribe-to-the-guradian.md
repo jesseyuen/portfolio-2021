@@ -14,10 +14,7 @@ leadImage: /images/subscribe.png
 leadImageAlt: A screenshot of The Guardians subscription page
 leadImageCaption: The intention was to increase the visual maturity of the subscription platform.
 outroHeading: Outcome
-outro: |-
-  Mature rebrand
-  More accessible
-  Templated and modular approach to design
+outro: TBC
 ---
 The intention of this work was to increase the visual maturity of the subscription platform. We revisited the entire journey from customer engagement, to 'storefront', checkout and beyond.
 
