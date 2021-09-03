@@ -37,9 +37,9 @@ Designing at varying levels of fidelity allowed us to quickly explore and commun
 
 We had a consistency problem. Each page in the subscription site was unique, we had no shared components, no visual or structural commonality that could both unify the browsing experience or allow the product team to quickly assemble new pages and update existing ones.
 
-We wanted to design a collection of modular components that were flexible enough to accommodate all of our products. The components combined would form patterns patterns that would be the basis of consistent page templates across the site.
+We wanted to design a collection of modular components that were flexible enough to accommodate all of our products. The components combined would form patterns that would be the basis of consistent page templates across the site.
 
-![alt](/images/exploration.png "Copy")
+![Examples of design exploration for our card components. ](/images/exploration.png "I started with an iterative approach to page design, by beginning with the modular components.")
 
 ### Prototyping in code
 
