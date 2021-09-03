@@ -49,13 +49,13 @@ Communicating responsive layout behaviour to the development team is a challenge
 
 ### A modular approach
 
-The modular landing page meant we could show/hide and highlight different products based on region. 
+The modular landing page meant we could show/hide and highlight different products based on region.
 
-![A screenshot of the updated landing page.](/images/subs-landing-evoluton-desktop.png "Copy")
+![A screenshot of the updated landing page.](/images/subs-landing-evoluton-desktop.png "A modular approach meant we could be smarter in how we built our pages.")
 
-I designed a product page template that we could use across our entire product range.
+I designed a product page template that we could use across our entire product range. The product card itself was versatile and as it was brand new, we had the chance to bake more accessible goodies into it.
 
-![alt](/images/dp-baseline-desktop.png "Copy")
+![A screenshot of a product page template](/images/dp-baseline-desktop.png "A modular approach meant we could be faster when we built new pages.")
 
 Emotional connection with our users
 
