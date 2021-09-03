@@ -1,7 +1,7 @@
 ---
 layout: layouts/project.njk
 title: Register Teacher Training
-blurb: Co-designing a digital service that supports teachers across England from
+blurb: Designing a digital service that supports teachers across England from
   prototype through to public beta.
 permalink: /projects/register-teacher-training/index.html
 roles:
@@ -22,7 +22,7 @@ outro: >-
   public beta where the service was officially public. 
 
 
-  <br><br>In contrast to the legacy product, our service was insignificantly more usable and accessible. A metric we used to measure success was time to create a record. In the original product a record would take up to 20 minutes to create while we observed first time uses creating records in 6-7 minutes.
+  <br><br>In contrast to the legacy product, our service was insignificantly more usable and accessible. A metric we used to measure success was time to create a record. In the original product a record would take up to 20 minutes to create while we observed first time users creating records in 6-7 minutes.
 ---
 Register Trainee Teachers does what is says on the tin, register trainees with the Department for Education and record the outcome of their training. Teachers across England will have their progress tracked using this service. 
 
@@ -32,7 +32,7 @@ We were replacing a legacy product which was relatively new but not at all desig
 
 ![The original dashboard](/images/dashboard-example.png "The dashboard or the original product we redesigned. Users struggled with the tasks they needed to complete..")
 
-The product is essential a CRM for trainee teachers, with user interaction largely focused on inputting data in forms. The original product had a number of issues:
+The product is essentially a CRM for trainee teachers, with user interaction largely focused on inputting data in forms. The original product had a number of issues:
 
 * users were constantly being timed out
 * a users progress wasn't being saved
@@ -59,11 +59,11 @@ User needs define what we prioritise in design and what we ship first.
 
 ### Designing in flows
 
-Some digital services are more transactional, with a relatively liner user journey. This service was far more complicated, where a trainee record may exist in the system for a number of years, meaning our users were required to return at multiple times to update data and complete tasks.
+Some digital services are more transactional, with a relatively linear user journey. This service was far more complicated, where a trainee record may exist in the system for a number of years, meaning our users were required to return at multiple times to update data and complete tasks.
 
 We mapped out complex parts of the user journey, allowing us to document the nuances around business rules.
 
-![A user flow diagram](/images/flows.jpeg  "User flows were created to map complex processes and communicate business rules to the team before way before any visual design was done.")
+![A user flow diagram](/images/flows.jpeg  "User flows were created to map complex processes and communicate business rules to the team before any visual design was done.")
 
 ### Designing in code
 
@@ -84,21 +84,21 @@ A simplified dashboard provided:
 
 A significant issue with the existing tool was that users struggled to follow their progress when creating a record. The GOV.UK task list pattern helps "Task list pages help users understand: ...the order they should complete tasks in and when they have completed tasks".\
 \
-This pattern addressed the user need thought grouping related tasks and clearly signposting progress. 
+This pattern addressed the user's need for grouping related tasks and clearly signposting progress.
 
-![A screen shot of a page listing the tasks needed to be done](/images/localhost_3000_new-record_overview-1-.png "We ensured it was clear to users which tasks they’ve completed and which still need their attention.")
+![A screenshot of a page listing the tasks needed to be done](/images/localhost_3000_new-record_overview-1-.png "We ensured it was clear to users which tasks they’ve completed and which still need their attention.")
 
 User needed to track multiple trainees over a number of years. Trainee records can exist in multiple states and there was a need to provide a clear classification system and advanced filtering.
 
 ![A screen shot of trainee records screen](/images/filters.png "Advanced filtering allowed our users to maintain large numbers of trainees in various states.")
 
-### Building empathy though user research
+### Building empathy through user research
 
-Working closely with user researches on the team meant we could get into a rhythm of regular usability testing sessions, collaborative analysis, insight generation and iterative updates. When building empathy with out users, there is no substitute for talking to actual users and observing them use the service. 
+Working closely with user researchers on the team meant we could get into a rhythm of regular usability testing sessions, collaborative analysis, insight generation and iterative updates. When building empathy without users, there is no substitute for talking to actual users and observing them use the service. 
 
 ### Documenting design
 
-We frequently documented our design using a [design history](https://bat-design-history.netlify.app/register-trainee-teachers/). The design history looks forwards and backwards, new posts show the team where the service is going and old posts tell us how we got to where we are now. It it allowed us to share what we learn with others and it ensures we’re being transparent and designing in the open.
+We frequently documented our design using a [design history](https://bat-design-history.netlify.app/register-trainee-teachers/). The design history looks forwards and backwards, new posts show the team where the service is going and old posts tell us how we got to where we are now. It allows us to share what we learn with others and it ensures we’re being transparent and designing in the open.
 
 ![A screenshot of the design history](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png "The task reminds me that writing is hard and objectively documenting your own work is REALLY hard but it's worth it.")
 
@@ -106,4 +106,4 @@ We frequently documented our design using a [design history](https://bat-design-
 
 Some government digital service teams celebrate milestones with mission patches, a tradition that comes from the early space missions. I led our team in a team workshop to decide on our spirit animal and designed our mission patches. These were printed and then, as we are all remote, mailed across the country to the team. 
 
-![A collection of mission patch designs](/images/mission-patches.png "A collection of mission patches I designed while working on the team. Each on represents a team achievement.. ")
+![A collection of mission patch designs](/images/mission-patches.png "A collection of mission patches I designed while working on the team. Each one represents a team achievement.. ")
