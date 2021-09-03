@@ -57,9 +57,9 @@ I designed a product page template that we could use across our entire product r
 
 ![A screenshot of a product page template](/images/dp-baseline-desktop.png "A modular approach meant we could be faster when we built new pages.")
 
-Emotional connection with our users
+Part of The Guardians strategy is emotional engagement with their audience. A section of the subscription site was there purely for good old-fashioned emotional manipulation in an editorial style. 
 
-![](/images/windrush.png)
+![A screenshot of editorial designed layout](/images/windrush.png "Content in this section was customised based on your region. The UK saw Windrush, the US had to put up with Trump and Australian viewers were served environmental content.")
 
 ### Highs and lows
 
