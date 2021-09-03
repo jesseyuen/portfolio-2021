@@ -1,7 +1,8 @@
 ---
 layout: layouts/project.njk
 title: Subscribe to The Guardian
-blurb: Leading the redesign of The Guardians online subscription journey.
+blurb: Adventures in leading the redesign of The Guardians online subscription
+  journey.
 permalink: /projects/subscribe/index.html
 roles:
   - itemText: UX design
@@ -32,9 +33,11 @@ Designing at varying levels of fidelity allowed us to quickly explore and commun
 
 ![Examples of wireframes from the project. ](/images/wireframes.png "Designing at varying levels of fidelity allowed us to quickly explore and communicate ideas.")
 
-### Iterative exploration
+### Component + Component = Pattern 
 
-Content here about cards and modular patterns
+We had a consistency problem. Each page in the subscription site was unique, we had no shared components, no visual or structural commonality that could both unify the browsing experience or allow the product team to quickly assemble new pages and update existing ones.
+
+We wanted to design a collection of modular components that were flexible enough to accommodate all of our products. The components combined would form patterns patterns that would be the basis of consistent page templates across the site.
 
 ![alt](/images/exploration.png "Copy")
 
