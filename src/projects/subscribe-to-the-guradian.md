@@ -43,7 +43,7 @@ We wanted to design a collection of modular components that were flexible enough
 
 ### Prototyping in code
 
-Communicating responsive layout behaviour to the development team is a challenge when working with static Figma assets. I prototyped a grid system to help communicate the requirements for our new pages. 
+Communicating responsive layout behaviour to the development team is a challenge when working with static Figma assets. I prototyped a grid system to help communicate the requirements for our new pages. This particular grid system utilised `grid` with `flexbox` fallback for older browsers. [Visit the prototype](https://relaxed-gates-aefba9.netlify.app/).
 
 ![](/images/_volumes_seagate_guardian_grid-20demo_index.html-1-.png)
 
