@@ -30,7 +30,7 @@ Designing at varying levels of fidelity allowed us to quickly explore and commun
 
 ![Examples of wireframes from the project. ](/images/wireframes.png "Designing at varying levels of fidelity allowed us to quickly explore and communicate ideas.")
 
-### Component + Component = Pattern 
+### Component + Component = Pattern
 
 We had a consistency problem. Each page in the subscription site was unique, we had no shared components, no visual or structural commonality that could both unify the browsing experience or allow the product team to quickly assemble new pages and update existing ones.
 
@@ -58,7 +58,7 @@ Part of The Guardians strategy is emotional engagement with their audience. A se
 
 ![A screenshot of editorial designed layout](/images/windrush.png "Content in this section was customised based on your region. The UK saw Windrush, the US had to put up with Trump and Australian viewers were served environmental content.")
 
-### Money talks, and good experiences walk
+### Money talks, and good experience walks
 
 Big enterprise can be a challenging ecosystem to work within. There is an ongoing tension between advocating for the users experience and satisfying business needs, often feeling like an uphill battle.
 
@@ -70,6 +70,6 @@ Needless to say it was a low points in my career and still regret not fighting h
 
 ### Measuring success
 
-We conducted usability testing on Axure prototypes of the user journey, as well as with screenreader uses users in the user research lab. I [tweeted about some of this](https://twitter.com/jesseyuen/status/1111191991738687488) at the time.  
+We conducted usability testing on Axure prototypes of the user journey, as well as with screenreader uses users in the user research lab. I [tweeted about](https://twitter.com/jesseyuen/status/1111191991738687488) [some of this](https://twitter.com/jesseyuen/status/1107671336560807936) at the time.
 
 AB tests were also conducted with updated designs against the original controls, with new pages all performing better, though not dramatically and thats ok. There were no critical usability issues that we were trying to fix, more so lots (and lots) of niggling issues to be addressed up and a need to reset the landscape to allow for further iteration.
