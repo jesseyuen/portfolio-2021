@@ -1,36 +1,36 @@
 ---
 layout: layouts/project.njk
 title: Subscribe to The Guardian
-blurb: Leading the creative redesign of The Guardians online subscription journey.
+blurb: Leading the redesign of The Guardians online subscription journey.
 permalink: /projects/subscribe/index.html
 roles:
   - itemText: UX design
-  - itemText: Protoyping
   - itemText: UI design
+  - itemText: Protoyping
 employer: The Guardian
 year: "2019"
 leadImage: /images/subscribe.png
-leadImageAlt: Alt
-leadImageCaption: Copy
+leadImageAlt: A screenshot of The Guardians subscription page
+leadImageCaption: The intention was to increase the visual maturity of the subscription platform.
 outroHeading: Outcome
 outro: |-
   Mature rebrand
   More accessible
   Templated and modular approach to design
 ---
-Working across multiple agile teams means I had a lot of projects in play at any one time. Some moved slow, others moved very quickly. Some stopped and never started again. Big enterprise can be a challenging ecosystem to work within.
+The intention of this work was to increase the visual maturity of the subscription platform. We revisited the entire journey from customer engagement, to 'storefront', checkout and beyond.
 
 ### Where we started
 
-Circles... everywhere. The visual aesthetic of the subscription site had had drifted towards a colourful and playful tone. It had suited The Guardian at an earlier time but there was a desire to move towards a more mature, modular and unified design language.
+Circles... everywhere. The visual aesthetic of the subscription platform had had drifted towards a colourful and playful tone. It had suited The Guardian at an earlier time but there was a desire to move towards a more mature, modular and unified design language across our products.
 
-![Screen shots from the Subscription site featuring lots of colourful circles.](/images/circles-1.png "We were going around in circles when I started The Guardian. There was a lack of consistency across the subscription site and a visual language that was not align with how we wanted to present the brand. ")
-
-
+![Screen shots from the Subscription site featuring lots of colourful circles.](/images/circles-1.png "We were going around in circles when I started The Guardian. There was a lack of consistency across the subscription site and a visual language that was not aligned with how we wanted to present the brand. ")
 
 ### Wire framing
 
-![Alt text](/images/wireframes.png "Caption")
+Designing at varying levels of fidelity allowed us to quickly explore and communicate ideas within the team and with our stakeholders. I'll confess I can't find many of the wireframes from this projects but believe we there were loads. 
+
+![Examples of wireframes from the project. ](/images/wireframes.png "Designing at varying levels of fidelity allowed us to quickly explore and communicate ideas.")
 
 ### Iterative exploration
 
