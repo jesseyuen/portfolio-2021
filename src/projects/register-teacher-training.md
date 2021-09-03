@@ -22,7 +22,7 @@ outro: >-
   public beta where the service was officially public. 
 
 
-  In contrast to the legacy product, our service was insignificantly more usable and accessible. A metric we used to measure success was time to create a record. In the original product a record would take up to 20 minutes to create while we observed first time uses creating records in 6-7 minutes.
+  <br><br>In contrast to the legacy product, our service was insignificantly more usable and accessible. A metric we used to measure success was time to create a record. In the original product a record would take up to 20 minutes to create while we observed first time uses creating records in 6-7 minutes.
 ---
 Register Trainee Teachers does what is says on the tin, register trainees with the Department for Education and record the outcome of their training. Teachers across England will have their progress tracked using this service. 
 
@@ -100,7 +100,7 @@ Working closely with user researches on the team meant we could get into a rhyth
 
 We frequently documented our design using a [design history](https://bat-design-history.netlify.app/register-trainee-teachers/). The design history looks forwards and backwards, new posts show the team where the service is going and old posts tell us how we got to where we are now. It it allowed us to share what we learn with others and it ensures we’re being transparent and designing in the open.
 
-![A screenshot of the design history](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png "A caption goes here")
+![A screenshot of the design history](/images/bat-design-history.netlify.app_register-trainee-teachers_recording-training-outcomes-iteration-2_.png "The task reminds me that writing is hard and objectively documenting your own work is REALLY hard but it's worth it.")
 
 ### Celebrating milestones as a team
 
