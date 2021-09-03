@@ -65,13 +65,14 @@ Part of The Guardians strategy is emotional engagement with their audience. A se
 
 Big enterprise can be a challenging ecosystem to work within. There is an ongoing tension between advocating for the users experience and satisfying business needs, often feeling like an uphill battle.
 
-Sometimes you loose the battle and things go pear shaped, and you end up with a less than ideal experience on the HOME PAGE of The Guardian. A pay per click campaign ad pushing site content down and an overlay I designed obscuring the bottom half of the page. It made enough money for the users experience to be knowingly compromised.\
-\
+Sometimes you loose the battle and things go pear shaped, and you end up with a less than ideal experience on the HOME PAGE of The Guardian. A pay per click campaign ad pushing site content down and an overlay I designed obscuring the bottom half of the page. It made enough money for the users experience to be knowingly compromised.
+
 Needless to say it was a low points in my career and still regret not fighting harder to stop it happening. Was this the hill I was prepared to die on at the time? No. If I had the chance again? Perhaps, yes.
 
 ![A screenshot of the Guardian homepage obscured by advertisement. ](/images/banner-hell.jpeg "You win some, you lose some. It's safe to say the designers advocating for good UX lost this one 😔")
 
 ### Measuring success
 
-AB testing\
-Usability testing
+We conducted usability testing on Axure prototypes of the user journey, as well as with screenreader uses users in the user research lab. I [tweeted about some of this](https://twitter.com/jesseyuen/status/1111191991738687488) at the time.  
+
+AB tests were also conducted with updated designs against the original controls, with new pages all performing better, though not dramatically and thats ok. There were no critical usability issues that we were trying to fix, more so lots (and lots) of niggling issues to be addressed up and a need to reset the landscape to allow for further iteration.
