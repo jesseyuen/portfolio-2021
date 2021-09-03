@@ -74,6 +74,6 @@ Needless to say it was a low point in my career and I still regret working harde
 
 ### Measuring success
 
-We conducted usability testing on Axure prototypes of the user journey, as well as with screen reader uses users in the user research lab. I [tweeted about](https://twitter.com/jesseyuen/status/1111191991738687488) [some of this](https://twitter.com/jesseyuen/status/1107671336560807936) at the time.
+We conducted usability testing on Axure prototypes of the user journey, as well as with assistive technology users (screen readers and magnifiers etc) in the research lab. I [tweeted about](https://twitter.com/jesseyuen/status/1111191991738687488) [some of this](https://twitter.com/jesseyuen/status/1107671336560807936) at the time.
 
 AB tests were also conducted with updated designs against the original controls, with new pages all performing better, though not dramatically and that's ok. There were no critical usability issues that we were trying to fix, more so lots (and lots) of niggling issues to be addressed up and a need to reset the landscape to allow for further iteration.
