@@ -30,7 +30,7 @@ Designing at varying levels of fidelity allowed us to quickly explore and commun
 
 ![Examples of wireframes from the project. ](/images/wireframes.png "Designing at varying levels of fidelity allowed us to quickly explore and communicate ideas.")
 
-### Component + Component = Pattern
+### Components, patterns and templates
 
 We had a consistency problem. Each page in the subscription site was unique, we had no shared components, no visual or structural commonality that could both unify the browsing experience or allow the product team to quickly assemble new pages and update existing ones.
 
