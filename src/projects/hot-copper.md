@@ -17,8 +17,6 @@ outro: |-
   <p>Unfortiualtey we weren't involved in the implimentation or pilot release. If I could have done something differently I would have encouraged a mor user centered design approach including usability testing after launch.</p> 
 ---
 
-[add hero image]
-
 ### Information architecture and UX review
 
 We began with a comprehensive site-wide audit. Many questions were asked. 
