@@ -1,7 +1,10 @@
 ---
 layout: layouts/project.njk
 title: Hot Copper
-blurb: A research, strategy and design project I worked on at Humaan. The multidisicplary project spanned months (and months), it was a proper big job.
+blurb: a research, strategy and design project I worked on at Humaan. The
+  project spanned months (and months) and involved several members of our team
+  (creative director, user researcher and myself in UX and design) over this
+  period.
 permalink: /projects/hot-copper/index.html
 roles:
   - itemText: Experience design
@@ -10,15 +13,16 @@ employer: Humaan
 year: "2018"
 leadImage: /images/hc-hero.png
 leadImageCaption: "Redesigning Australia’s most popular share market forum,
-  HotCopper, was a big job!"
+  HotCopper, was a big job. "
 outroHeading: Outcome
-outro: |-
-  <p>The designs were handed over to the clients in-house developers with the intention of releasing beta access to a smaller user base for evaluation.</p>
-  <p>Unfortiualtey we weren't involved in the implimentation or pilot release. If I could have done something differently I would have encouraged a mor user centered design approach including usability testing after launch.</p> 
+outro: >-
+  The designs were handed over to the clients in-house developers with the
+  intention of releasing beta access to a smaller user base for evaluation.
+  Unfortunately we weren't involved in the implementation or pilot release
+
+
+  If I could have done something differently I would have encouraged a more user centered design approach to this work, including usability testing post launch. Sadly, this isn't always possible in an agency setting.
 ---
-
-[add hero image]
-
 ### Information architecture and UX review
 
 We began with a comprehensive site-wide audit. Many questions were asked. 
@@ -67,7 +71,7 @@ The client hoped to start generating editorial content. We designed a series of 
 
 ![](/images/hc-editorial.jpg "Extensions of the final design included an editorial section.")
 
-### A consistent style to rule them all
+### Component library
 
 Part of the brief from the client was to establish a consistent and appropriate visual language for UI used within the site. A comprehensive list of components were designed with the intention that an in-house development team could follow our direction when building bespoke features in the future.
 
