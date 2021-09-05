@@ -16,12 +16,12 @@ leadImageCaption: "Redesigning Australia’s most popular share market forum,
   HotCopper, was a big job. "
 outroHeading: Outcome
 outro: >-
-  The designs were handed over to the clients in-house developers with the
+  <p>The designs were handed over to the clients in-house developers with the
   intention of releasing beta access to a smaller user base for evaluation.
-  Unfortunately we weren't involved in the implementation or pilot release
+  Unfortunately we weren't involved in the implementation or pilot release.</p>
 
 
-  If I could have done something differently I would have encouraged a more user centered design approach to this work, including usability testing post launch. Sadly, this isn't always possible in an agency setting.
+  <p>If I could have done something differently I would have encouraged a more user centered design approach to this work, including usability testing post launch. Sadly, this isn't always possible in an agency context.</p>
 ---
 ### Information architecture and UX review
 
