@@ -1,6 +1,6 @@
 ---
 layout: layouts/page2.njk
-title: Tread warily my friend.
+title: Hi! Tread warily, ok?
 archiveButtonText: See all posts
 shortDesc: Civic minded Pragmatic design of products & services for good, not evil*
 blurb: Before you go any further please know I'm designing and building this
