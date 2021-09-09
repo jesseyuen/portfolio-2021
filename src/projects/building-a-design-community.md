@@ -11,15 +11,13 @@ year: 2020 to 2021
 ---
 I'm driving by a sense of collectiveness. I like the feeling of being part of something. I was one of the original permanent designers at the DfE. When I started, there was no design community.
 
-\
-\
 **Starting small**
 
-How does a community start? Designers from a a few teams met monthly.  
+How does a community start? Humble and awkward beginnings
 
 **Beginning to grow**
 
-How to keep people engaged?
+Expanding the scope and gong national. How to get people interested? How to keep people engaged? How to build trust and a create space for people to feel safe.
 
 ### Workshop formats
 
@@ -35,14 +33,18 @@ An ongoing conversation to ensure the needs of the community are being met...
 
 ![A screenshot of a collection of card components](/images/screenshot-2021-09-09-at-20.57.22.png "We collaboratively surveyed the DfE landscape to collect and collate user interface elements (components and patterns) that weren't in the GOV.UK Design System.")
 
-**Show and tells**
+**Show the thing**
 
-Teams present what they are up to, tell the stories of their service. talk about challenges, opportunities and 
+Teams present what they are up to, tell the stories of their service. Hearing colleagues talk about challenges, opportunities and outcomes is beneficial to all. Breaks down the silos, shares the knowledge, designers get to receive feedback.
+
+\[image here from a show and tell]
 
 ### Connecting others
 
-Community can grow at various layers within a design team. Large public ceremonies like meet ups are god for...
+Community growth can happen at various layers within the design space. 
 
-Smaller groups connecting in more intimate settings allows...
+Large public ceremonies like meet ups are good for...
 
-Identifying good matches and connecting them. Pairing senior and junior designers
+Smaller groups connecting in more intimate settings allow...
+
+Identifying good matches and connecting them. Pairing senior and junior designers, creating mentoring opportunities,
