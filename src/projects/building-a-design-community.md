@@ -19,6 +19,8 @@ I'm driving by a sense of collectiveness. I like the feeling of being part of so
 
 ### Workshops
 
+![A screenshot of a collection of card components](/images/screenshot-2021-09-09-at-20.57.22.png "We collaboratively surveyed the DfE landscape to collect and collate user interface elements (components and patterns) that weren't in the GOV.UK Design System.")
+
 ### Show and tells
 
 ### Training
