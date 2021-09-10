@@ -7,6 +7,8 @@ roles:
   - itemText: Interaction design
 employer: Department for Education
 year: 2020 to 2021
+outroHeading: Outcome
+outro: Content here...
 ---
 I'm driving by a sense of collectiveness. I like the feeling of being part of something. I was one of the original permanent designers at the DfE. When I started, there was no design community.
 
@@ -34,11 +36,15 @@ Do we need a design system? A pattern library? A frequently asked question in bi
 
 ![A screenshot of a collection of card components](/images/screenshot-2021-09-09-at-20.57.22.png "We collaboratively surveyed the DfE landscape to collect and collate user interface elements (components and patterns) that weren't in the GOV.UK Design System.")
 
-**Show the thing**
+### **Show the thing**
 
 Teams present what they are up to, tell the stories of their service. Hearing colleagues talk about challenges, opportunities and outcomes is beneficial to all. Breaks down the silos, share knowledge, designers get to receive feedback, designers get comfortable with sharing work.
 
 \[image here from a show and tell]
+
+### Knowledge shares
+
+Content here
 
 ### Connecting others
 
@@ -49,3 +55,7 @@ Large public ceremonies like meet ups are good for...
 Smaller groups connecting in more intimate settings allow...
 
 Identifying good matches and connecting them. Pairing senior and junior designers, creating mentoring opportunities,
+
+### Why do I do it?
+
+Content here
