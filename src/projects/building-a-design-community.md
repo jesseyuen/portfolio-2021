@@ -26,7 +26,7 @@ Running regular workshops to engage the community.
 
 An ongoing conversation to ensure the needs of the community are being met...
 
-![](/images/screenshot-2021-09-09-at-21.15.03.png)
+![A slide from a workshop asking participants what they would you like to happen at future community catch ups. ](/images/screenshot-2021-09-09-at-21.15.03.png "The communities wants and needs change over time so we revisit them often. ")
 
 ![A slide from a workshop asking participants what they would you like to happen at future community catch ups. ](/images/screenshot-2021-09-09-at-21.15.03.png "Caption goes here")
 
