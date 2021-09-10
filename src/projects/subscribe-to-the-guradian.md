@@ -42,7 +42,7 @@ We wanted to design a collection of modular components that were flexible enough
 
 Communicating responsive layout behaviour to the development team is a challenge when working with static Figma assets. I prototyped a grid system to help communicate the requirements for our new pages. This particular grid system utilised css `grid` with `flexbox` fallback for older browsers. [Visit the prototype](https://relaxed-gates-aefba9.netlify.app/).
 
-![](/images/_volumes_seagate_guardian_grid-20demo_index.html-1-.png)
+![A screenshot of the grid system prototype](/images/_volumes_seagate_guardian_grid-20demo_index.html-1-.png "I'm all for collaborating with and supporting developers when it comes to implementation.")
 
 ### A modular approach
 
