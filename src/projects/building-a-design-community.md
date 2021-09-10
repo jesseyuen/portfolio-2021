@@ -30,11 +30,13 @@ An ongoing conversation to ensure the needs of the community are being met...
 
 **Identifying common user interface elements**
 
+Do we need a design system? A pattern library? A frequently asked question in big orgs. 
+
 ![A screenshot of a collection of card components](/images/screenshot-2021-09-09-at-20.57.22.png "We collaboratively surveyed the DfE landscape to collect and collate user interface elements (components and patterns) that weren't in the GOV.UK Design System.")
 
 **Show the thing**
 
-Teams present what they are up to, tell the stories of their service. Hearing colleagues talk about challenges, opportunities and outcomes is beneficial to all. Breaks down the silos, shares the knowledge, designers get to receive feedback.
+Teams present what they are up to, tell the stories of their service. Hearing colleagues talk about challenges, opportunities and outcomes is beneficial to all. Breaks down the silos, share knowledge, designers get to receive feedback, designers get comfortable with sharing work.
 
 \[image here from a show and tell]
 
