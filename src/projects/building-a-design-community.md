@@ -2,7 +2,6 @@
 layout: layouts/project.njk
 title: Growing a design community (WIP)
 blurb: Doing my bit to establish a national community of interaction designers
-  and friends
 roles:
   - itemText: Community design
   - itemText: Interaction design
@@ -26,6 +25,8 @@ Running regular workshops to engage the community.
 **What do you want to get out of the community?** 
 
 An ongoing conversation to ensure the needs of the community are being met...
+
+![](/images/screenshot-2021-09-09-at-21.15.03.png)
 
 ![A slide from a workshop asking participants what they would you like to happen at future community catch ups. ](/images/screenshot-2021-09-09-at-21.15.03.png "Caption goes here")
 
