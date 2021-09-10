@@ -1,7 +1,7 @@
 ---
 layout: layouts/project.njk
-title: Growing a design community (WIP)
-blurb: Doing my bit to establish a national community of interaction designers
+title: Growing a design community
+blurb: Doing my bit to nurture a national community of interaction designers
 roles:
   - itemText: Community design
   - itemText: Interaction design
