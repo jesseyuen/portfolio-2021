@@ -15,7 +15,7 @@ leadImageCaption: Placeholder image.
 outroHeading: Outcome
 outro: Content here.
 ---
-I'm driving by a sense of collectiveness. I like the feeling of being part of something. I was one of the original permanent designers at the DfE. A community of designers was missing and I wanted to do something about it. 
+I'm driven by a sense of collectiveness. I like the feeling of being part of something. I was one of the original permanent designers at the DfE. A community of designers was missing and I wanted to do something about it. 
 
 What does community mean to me? Time for reflection, what do I want in a community?
 
