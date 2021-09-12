@@ -23,7 +23,7 @@ outro: >-
 
   <p>If I could have done something differently I would have encouraged a more user centered design approach to this work, including usability testing post launch. Sadly, this isn't always possible in an agency context.</p>
 ---
-### Information architecture and UX review
+## Information architecture and UX review
 
 We began with a comprehensive site-wide audit. Many questions were asked. 
 
@@ -31,7 +31,7 @@ What does each page do? What does the UI on each page to do? Does it function as
 
 ![](/images/audit.png "The UI audit looked something like this.")
 
-### Things that make you go hmmm
+## Things that make you go hmmm
 
 Our initial suspicions was that the information architecture was overly complex and contributing to a somewhat confusing experience for people navigating the site. We decided to set up a tree test using [Treejack](https://www.optimalworkshop.com/treejack "Visit Treejack") to evaluate how *findable* key parts of the site where for visitors.
 
@@ -39,7 +39,7 @@ Creating a tree test allows you to see a sites structure without the influence o
 
 **Insight!** It wasn't as much poor IA but rather a limited visual hierarchy and *busy* UI that gave the impression of cluttered structure, in the process increasing the cognitive load and creating a baffling experience 😕
 
-### User research
+## User research
 
 I conducted interviews with staff in support roles within Hot Copper to help identify common pain points that users experienced on the site. Many of these followed a similar theme of onboarding, account management and forum engagement... all priority tasks for the site.
 
@@ -55,7 +55,7 @@ For 2 weeks we ran heat mapping on key landing pages to identify navigation patt
 
 ![](/images/hc-heatmap.gif "The Hot Copper homepage. Ok ok, you got me. This isn't the real heat map. I lost those screenshots but you get the idea right?")
 
-### Interface design
+## Interface design
 
 To kick off design I wireframed oodles of screens across viewports and states and captured intended layout for the site based on our research and these informed conversations with internal stakeholders and third-party collaborators such as SEO types.
 
@@ -71,7 +71,7 @@ The client hoped to start generating editorial content. We designed a series of 
 
 ![](/images/hc-editorial.jpg "Extensions of the final design included an editorial section.")
 
-### Component library
+## Component library
 
 Part of the brief from the client was to establish a consistent and appropriate visual language for UI used within the site. A comprehensive list of components were designed with the intention that an in-house development team could follow our direction when building bespoke features in the future.
 
