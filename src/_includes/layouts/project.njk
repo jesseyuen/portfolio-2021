@@ -22,7 +22,7 @@
         <div class="grid-item project__meta">
           <div class="project__meta-inner">
             <div>
-              <h2>{{employer}}</h2>
+              <h3>{{employer}}</h3>
               <p>{{year}}</p>
               <a href="/"><span>View more work</span></a>
             </div>
@@ -50,14 +50,14 @@
           <div class="grid-item project__content">
             {% if intro %}
               <section class="project-summary">
-                <h3>{{ introHeading | safe }}</h3>
+                <h2>{{ introHeading | safe }}</h2>
                 <p>{{ intro | safe }}</p>
               </section>
             {% endif %}
             {{ content | safe }}
             {% if outro %}
               <section class="project-summary">
-                <h3>{{ outroHeading | safe }}</h3>
+                <h2>{{ outroHeading | safe }}</h2>
                 <p>{{ outro | safe }}</p>
               </section>
             {% endif %}

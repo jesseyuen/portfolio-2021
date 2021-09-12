@@ -106,9 +106,10 @@ figcaption {
   font-size: var(--font-size-medium);
   color: var(--color-mid);
   
-  h2 {
+  h3 {
     font-size: var(--font-size-medium);
     color: var(--color-text-default);
+    // margin-bottom: var(--spacing-small);
 
     a {
       display: none;
@@ -156,6 +157,10 @@ figcaption {
 .project__meta-inner {
   position: sticky;
   top: calc(var(--spacing-x-large) + 70px);
+}
+
+.project__meta-inner h3 {
+
 }
 
 .project .intro__blurb {
