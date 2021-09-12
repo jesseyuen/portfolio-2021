@@ -5,6 +5,7 @@ blurb: Doing my bit to nurture a national community of interaction designers
 roles:
   - itemText: Community design
   - itemText: Interaction design
+  - itemText: Leadership
 employer: Department for Education
 year: 2020 to 2021
 outroHeading: Outcome
