@@ -43,7 +43,7 @@ Teams present what they are up to, tell the stories of their service. Hearing co
 
 \[image here from a show and tell]
 
-### Knowledge shares
+### Get feedback sessions
 
 Content here
 
