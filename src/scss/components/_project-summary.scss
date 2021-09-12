@@ -162,7 +162,7 @@ figcaption {
   color: var(--color-mid);
 }
 
-.project h3,
+.project h2,
 .page2 h2:not(.intro__heading) {
   margin-bottom: var(--spacing-medium);
   font-family: var(--font-family-serif);
@@ -175,6 +175,11 @@ figcaption {
   }
 }
 
+.project h2 {
+  margin-bottom: var(--spacing-medium);
+}
+
+.project__content * + h2,
 .project__content * + h3 {
   margin-top: var(--spacing-xxxx-large);
 }
