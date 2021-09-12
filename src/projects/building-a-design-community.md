@@ -3,16 +3,21 @@ layout: layouts/project.njk
 title: Growing a design community (wip)
 blurb: What does a design community mean to me? A case study about doing my bit
   to nurture a national community of interaction designers.
+socialImage: ""
 roles:
   - itemText: Community design
   - itemText: Interaction design
   - itemText: Leadership
 employer: Department for Education
 year: 2020 to 2021
+leadImage: /images/screenshot-2021-09-12-at-18.51.40.png
+leadImageCaption: Placeholder image.
 outroHeading: Outcome
 outro: Content here.
 ---
-I'm driving by a sense of collectiveness. I like the feeling of being part of something. I was one of the original permanent designers at the DfE.  A community of designers was missing and I wanted to do something about it.
+I'm driving by a sense of collectiveness. I like the feeling of being part of something. I was one of the original permanent designers at the DfE. A community of designers was missing and I wanted to do something about it. 
+
+What does community mean to me? Time for reflection, what do I want in a community?
 
 ### Starting small
 
@@ -34,7 +39,7 @@ An ongoing conversation to ensure the needs of the community are being met...
 
 ### Workshop:  Identifying common user interface elements
 
-Do we need a design system? A pattern library? A frequently asked question in big orgs. An exercise to explore needs.
+Do we need a design system? A pattern library? A frequently asked question in big orgs. An exercise to explore needs across the DfE services.
 
 ![A screenshot of a collection of card components](/images/screenshot-2021-09-09-at-20.57.22.png "We collaboratively surveyed the DfE landscape to collect and collate user interface elements (components and patterns) that weren't in the GOV.UK Design System.")
 
