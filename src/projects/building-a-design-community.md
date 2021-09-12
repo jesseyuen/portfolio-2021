@@ -10,8 +10,9 @@ roles:
   - itemText: Leadership
 employer: Department for Education
 year: 2020 to 2021
-leadImage: /images/screenshot-2021-09-12-at-18.51.40.png
-leadImageCaption: Placeholder image.
+leadImage: /images/screenshot-2021-09-12-at-19.04.55.png
+leadImageAlt: Alt text here
+leadImageCaption: Caption here
 outroHeading: Outcome
 outro: Content here.
 ---
