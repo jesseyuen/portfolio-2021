@@ -45,7 +45,7 @@ Teams present what they are up to, tell the stories of their service. Hearing co
 
 ### Get feedback sessions
 
-Content here
+Content here...
 
 ## Connecting others
 
@@ -53,9 +53,9 @@ Community growth can happen at various layers within the design space.
 
 Large public ceremonies like meet ups are good for...
 
-Smaller groups connecting in more intimate settings allow...
+People connecting in smaller groups in an intimate settings allow...
 
-Identifying good matches and connecting them. Pairing senior and junior designers, creating mentoring opportunities,
+Identifying good matches and connecting them. Pairing senior and junior designers, finding people mentors, creating mentoring opportunities for others.
 
 ## Why do I do it?
 
