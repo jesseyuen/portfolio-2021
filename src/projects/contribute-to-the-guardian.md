@@ -69,6 +69,10 @@ Following was a usability review. For such a small amount of screen real estate,
 3. The three text fields were very busy. Was it really necessary to mark each as required? Did we need leading icons to help identify rather generic form fields? Probably not.
 4. A third set of radio buttons, again with unique styling, although somewhat more traditional. The accessibility audit highlighted that these performed poorly in terms of contrast and also other colour checks.
 
+### User flows
+
+Coming soon.
+
 ### Designing and piloting design system components
 
 I consolidated the three random radio button styles into one consistent pattern, a UI pattern which we started calling <a href="https://guardian.github.io/source/?path=/story/choicecard--single-state-light" target="_blank">choice cards</a>.
@@ -86,6 +90,10 @@ Though much of this design process was focused on simplification we also wanted 
 ![](/images/earth.jpg "A proof of concept to road test the new layout.")
 
 ![](/images/free2.jpg "A proof of concept with placeholder illustration by unknown illustrator. I've forgotten where I found this one now 😬 Is it yours?")
+
+### Encouraging repeat contributions
+
+Coming soon.
 
 ### Measuring success
 
