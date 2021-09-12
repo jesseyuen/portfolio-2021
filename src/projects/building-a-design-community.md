@@ -1,6 +1,6 @@
 ---
 layout: layouts/project.njk
-title: Growing a design community
+title: Growing a design community (wip)
 blurb: Doing my bit to nurture a national community of interaction designers
 roles:
   - itemText: Community design
@@ -10,7 +10,7 @@ year: 2020 to 2021
 outroHeading: Outcome
 outro: Content here...
 ---
-I'm driving by a sense of collectiveness. I like the feeling of being part of something. I was one of the original permanent designers at the DfE. When I started, there was no design community.
+I'm driving by a sense of collectiveness. I like the feeling of being part of something. I was one of the original permanent designers at the DfE. I identified a lack of community and I wanted to do something about it.
 
 **Starting small**
 
