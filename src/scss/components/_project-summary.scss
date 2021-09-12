@@ -179,9 +179,12 @@ figcaption {
   margin-bottom: var(--spacing-medium);
 }
 
-.project__content * + h2,
-.project__content * + h3 {
+.project__content * + h2 {
   margin-top: var(--spacing-xxxx-large);
+}
+
+.project__content * + h3 {
+  margin-top: var(--spacing-x-large);
 }
 
 .project__content * + p {
