@@ -44,7 +44,7 @@ The Guardian does not have a paywall and instead relies on readers' contribution
 
 Often user needs and business needs are complementary and in this project I felt there was a need to advocate for user focused work too.
 
-### Accessibility audit
+## Accessibility audit
 
 My initial piece of work involved running an accessibility audit across the journey which included:
 
@@ -60,7 +60,7 @@ Playing this back to the team, it wasn't hard to convince stakeholders to priori
 
 ![](/images/the-before.png "What the Contribution page looked like when I joined the team. Numbered are four areas of focus from the usability review.")
 
-### Usability review
+## Usability review
 
 Following was a usability review. For such a small amount of screen real estate, there was A LOT going on.
 
@@ -69,11 +69,11 @@ Following was a usability review. For such a small amount of screen real estate,
 3. The three text fields were very busy. Was it really necessary to mark each as required? Did we need leading icons to help identify rather generic form fields? Probably not.
 4. A third set of radio buttons, again with unique styling, although somewhat more traditional. The accessibility audit highlighted that these performed poorly in terms of contrast and also other colour checks.
 
-### User flows
+## User flows
 
 Coming soon.
 
-### Designing and piloting design system components
+## Designing and piloting design system components
 
 I consolidated the three random radio button styles into one consistent pattern, a UI pattern which we started calling <a href="https://guardian.github.io/source/?path=/story/choicecard--single-state-light" target="_blank">choice cards</a>.
 
@@ -83,7 +83,7 @@ All three sets of radios, now styled as ‘choice cards’ where also clearly si
 
 ![](/images/choice-cards.png "Increased consistency within the UI with a focus on accessibility.")
 
-### Opportunities for design within constraints
+## Opportunities for design within constraints
 
 Though much of this design process was focused on simplification we also wanted to accommodate bespoke marketing events at The Guardian. We needed to be able to easily *theme* the page based on marketing campaigns. The updated design had a generous enough amount of real estate that was flexible in allowing bespoke design opportunities.
 
@@ -91,11 +91,11 @@ Though much of this design process was focused on simplification we also wanted 
 
 ![](/images/free2.jpg "A proof of concept with placeholder illustration by unknown illustrator. I've forgotten where I found this one now 😬 Is it yours?")
 
-### Encouraging repeat contributions
+## Encouraging repeat contributions
 
 Coming soon.
 
-### Measuring success
+## Measuring success
 
 This team was very big on multivariate AB testing. I’m more a ‘let’s stick this in front of users’ and see what they say kind of designer but I recognise the role AB testing can play, especially when the success metric is something easy to measure like revenue. The design contributed to a positive shift in contributions.
 
