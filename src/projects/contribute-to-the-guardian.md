@@ -9,6 +9,7 @@ roles:
   - itemText: UX design
   - itemText: UI design
   - itemText: Accessibility advocacy
+  - itemText: Design systems
 employer: The Guardian
 year: "2019"
 leadImage: /images/contribute2.png
