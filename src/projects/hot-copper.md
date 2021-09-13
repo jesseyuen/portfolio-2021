@@ -9,6 +9,7 @@ permalink: /projects/hot-copper/index.html
 roles:
   - itemText: Experience design
   - itemText: Interface design
+  - itemText: Design systems
 employer: Humaan
 year: "2018"
 leadImage: /images/hc-hero.png
