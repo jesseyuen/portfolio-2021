@@ -75,7 +75,7 @@ Coming soon.
 
 ## Designing and piloting design system components
 
-I consolidated the three random radio button styles into one consistent pattern, a UI pattern which we started calling <a href="https://guardian.github.io/source/?path=/story/choicecard--single-state-light" target="_blank">choice cards</a>.
+I consolidated the three random radio button styles into one consistent pattern, a UI pattern which we started calling <a href="https://guardian.github.io/source/?path=/story/source-src-choice-card-choicecardgroup--playground" target="_blank">choice cards</a>.
 
 At this time the Guardian Design System was in its infancy and we used this project to publicly pilot the new component and also experiment with the workflow between the product and design system teams.
 
