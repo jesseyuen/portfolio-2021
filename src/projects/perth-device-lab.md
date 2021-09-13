@@ -35,7 +35,7 @@ It was an open community space for testing web products on a range of devices an
 
 The lab is probably much like many other testing environments you might find in the web development industry. A collection of devices in a room. What make this lab different is that the doors are open to the public!
 
-### Design considerations
+## Design considerations
 
 Before opened we dubbed the lab the *Device Lounge*. This reflected our intention for the space to be warm and welcoming for visitors. Somewhere you felt relaxed. Casual, conversational copy and a vibrant colour palette helped convey this online.
 
@@ -49,8 +49,12 @@ We wanted the online and onsite experience to remain consistent (and positive) f
 
 ![](/images/lab-booking.gif " Continuing the conversational tone during the booking process.")
 
-### Setting a performance budget
+## Setting a performance budget
 
 Typically you might start a design project with some rough sketches or a moodboard. This project begun with a performance budget. On first load the site needed to weigh less than 1mb on the common mobile viewport and less 2mb for common desktop viewport.
 
 To help achieve this the design remained lean, css was written mobile first and we lazy loaded assets like large images and google maps
+
+## Usability workshops
+
+Coming soon.
