@@ -199,3 +199,7 @@ figcaption {
 .project__content figure + p:empty + p  {
   margin-top: var(--spacing-xxxx-large);
 }
+
+.project__content figure + p:empty + h3  {
+  margin-top: var(--spacing-xxxx-large);
+}
