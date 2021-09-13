@@ -16,7 +16,7 @@ leadImageCaption: Caption here
 outroHeading: Outcome
 outro: Content here.
 ---
-I'm driven by a sense of collectiveness. I like the feeling of being part of something. I was one of the original permanent designers at the DfE. A community of designers was missing and I wanted to do something about it. 
+I was one of the original permanent designers at the DfE. A community of designers was missing and I wanted to do something about it. 
 
 What does community mean to me? Time for reflection, what do I want in a community?
 
@@ -60,10 +60,10 @@ Community growth can happen at various layers within the design space.
 
 Large public ceremonies like meet ups are good for...
 
-People connecting in smaller groups in an intimate settings allow...
+People connecting in smaller groups in an intimate settings is good for and allows...
 
 Identifying good matches and connecting them. Pairing senior and junior designers, finding people mentors, creating mentoring opportunities for others.
 
 ## Why do I do it?
 
-Content here.
+I'm driven by a sense of collectiveness. I like the feeling of being part of something... I want that opportunity to be available for others if they feel the same way...
