@@ -2,7 +2,7 @@
   padding: var(--spacing-x-large) 0;
 
   .grid-item:nth-child(1) {
-    grid-column: 2 / span 3;
+    grid-column: 2 / span 4;
   }
 
   * + * {
@@ -19,12 +19,6 @@
     .page2 &,
     .home & {
       font-size: var(--font-size-well-large);
-    }
-      
-    @media (min-width: 75em) {
-      .grid-item:nth-child(1) {
-        grid-column: 2 / span 3;
-      }
     }
 
   }
@@ -73,6 +67,16 @@
   }
 
 }
+
+.about,
+.page2,
+.home {
+    @media (min-width: 75em) {
+      .intro .grid-item:nth-child(1) {
+        grid-column: 2 / span 3;
+      }
+    }
+  }
 
 .page2 {
   
