@@ -10,8 +10,11 @@
 {% block content %}
   <main id="main-content" class="about">
     {% include "partials/components/intro.njk" %}
-    <div class="grid-item">
-      {{ content | safe }}
+    <div class="wrapper grid-wrapper">
+      <div class="grid-item"></div>
+      <div class="page-intro grid-item">
+        {{ content | safe }}
+      </div>
     </div>
     <section id="work" class="projects">
       <div class="wrapper grid-wrapper">

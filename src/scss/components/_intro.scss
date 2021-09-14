@@ -95,3 +95,29 @@
     }
   }
 }
+
+.about {
+  
+  h2 {
+    margin-bottom: var(--spacing-medium);
+  }
+  
+  p + p {
+    margin-top: var(--spacing-medium);
+  }
+  
+  p + h2 {
+    margin-top: var(--spacing-large);
+  }
+
+  .page-intro.grid-item {
+    grid-column: 2 / span 4;
+    padding: 0 0 var(--spacing-xxxx-large);
+  }
+
+  @media (max-width: 1200px) {
+    .page-intro.grid-item {
+      grid-column: 1 / span 5;
+    }
+  }
+}
