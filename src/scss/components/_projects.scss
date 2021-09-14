@@ -96,6 +96,27 @@
     grid-column: 2 / span 5;
   }
 
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    // column-count: 2;
+    // column-gap: var(--spacing-xxxx-large);
+    // display: flex;
+    // flex-direction: row;
+    // flex-basis: 100%;
+    // flex-wrap: wrap;
+  }
+
+  li {
+    display: inline-block;
+    margin-bottom: var(--spacing-xx-large);
+  }
+
+  strong {
+    display: block;
+  }
+
   h2 {
     margin: 0 0 var(--spacing-medium) 0;
   }
@@ -158,6 +179,13 @@
     h2 {
       position: sticky;
       top: calc(var(--spacing-x-large) + 70px);
+    }
+  }
+
+  @media (min-width: 75em) {
+    ul {
+      column-count: 2;
+      column-gap: var(--spacing-xxxx-large);
     }
   }
 }

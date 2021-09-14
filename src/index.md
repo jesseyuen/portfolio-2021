@@ -7,31 +7,9 @@ blurb: Before you go any further please know I'm designing and building this
   site in the open. Why? Because I want to to share it with you, and if I wait
   until I'm finished you'll never see it! <br><br>In the spirit of iterative
   design, tread warily my friend and don't mind the typos, bugs and less
-  polished bits. I might even design a homepage at some point.
+  polished bits. I might even design a homepage at some point.<br><br>
+  Learn more <a href="/about">about me</a> and view <a href="/projects">selected projects</a>.
 metaDesc: text here
 postsHeading: Latest posts
 socialImage: ""
 ---
-## A little about me
-
-I'm an experienced interaction (product + ux + code) designer who's looking to connect with good people, do great work with them and do my bit to encourage and nurture a positive environment in the team that I join.
-
-I've worked for big sprawling organisations like [The Guardian](https://www.theguardian.com/uk) and the [Department for Education](https://www.gov.uk/government/organisations/department-for-education), a world class agency in one of the most isolated cities on earth called [Humaan](http://humaan.com/) and freelanced for lovely little places like [Stuff and Nonsense](https://stuffandnonsense.co.uk/) and [Studio Papa](https://studiopapa.com.au/).
-
-Currently I'm leading the design of a digital service to support teachers across the UK as well as facilitating a national community of interaction designers.
-
-## Civic minded
-
-I’m interested in designing in the space where technology, inclusivity and community meet and I have strong intentions to only work for organisations who do good, not evil. 
-
-## User centered
-
-I believe all users have the right to a fair and positive experience using the products I help design and build. Good design starts by addressing user needs.
-
-## Pragmatic
-
-Working iteratively and sensibly within a product team requires a pragmatic approach. I prefer to move a little slower and fix things along the way instead of moving fast and breaking everything.
-
-## Team focused
-
-I prioritise team health and part of this is ensuring others around me feel empowered and involved. Teams that make progress and grow together are better outcomes than individuals making a huge impact whilst leaving the team behind. A good designer brings the team along for the ride.
