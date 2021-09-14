@@ -12,12 +12,13 @@
   &__heading {
     font-size: var(--font-size-xx-large);
     font-family: var(--font-family-serif);
-    // margin-bottom: var(--spacing-medium);
     line-height: 1;
     font-weight: 700;
     
-    .home & {
-      font-size: var(--font-size-xx-large);
+    .about &,
+    .page2 &,
+    .home {
+      font-size: var(--font-size-well-large);
     }
       
     @media (min-width: 1500px) {
