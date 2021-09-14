@@ -1,5 +1,5 @@
 ---
-title: About me.
+title: About me
 role: Designer
 employer: DfE
 year: "2021"
