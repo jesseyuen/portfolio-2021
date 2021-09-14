@@ -48,11 +48,11 @@ Do we need a design system? A pattern library? A frequently asked question in bi
 
 Teams present what they are up to, tell the stories of their service. Hearing colleagues talk about challenges, opportunities and outcomes is beneficial to all. Breaks down the silos, share knowledge, designers get to receive feedback, designers get comfortable with sharing work.
 
-\[image here from a show and tell]
+\[add an image here from a recent show and tell]
 
-### Get feedback sessions
+## Get feedback sessions
 
-Content here.
+Why is getting feedback important? How can it benefit projects? What do you need to be mindful when giving feedback? How do you create safe, meaningful spaces for feedback sessions. Who needs to be involved? What does our model looks like.
 
 ## Connecting others
 
@@ -66,4 +66,4 @@ Identifying good matches and connecting them. Pairing senior and junior designer
 
 ## Why do I do it?
 
-I'm driven by a sense of collectiveness. I like the feeling of being part of something... I want that opportunity to be available for others if they feel the same way...
+I'm driven by a sense of collectiveness. I like the feeling of being part of something. I want that opportunity to be available for others if they feel the same way. Community can transcend organisational silos.
