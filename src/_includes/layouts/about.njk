@@ -1,0 +1,40 @@
+{% extends 'layouts/base.njk' %}
+
+{# Custom macros #}
+
+{# Intro content #}
+{% set introHeading = title %}
+{% set activeNav = "about" %}
+{# {% set blurb = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam velit mauris, fringilla ac nunc eget, mattis iaculis magna." %} #}
+
+{% block content %}
+  <main id="main-content" class="about">
+    {% include "partials/components/intro.njk" %}
+    <div class="grid-item">
+      {{ content | safe }}
+    </div>
+    <section id="work" class="projects">
+      <div class="wrapper grid-wrapper">
+        <div class="grid-item">
+          <h2>What I do</h2>
+        </div>
+        <div class="grid-item">
+          Skills here
+        </div>
+      </div>
+    </section>
+    <section class="projects">
+      <div class="wrapper grid-wrapper">
+      <div class="grid-item">
+        <h2>My values</h2>
+      </div>
+        <div class="grid-item">
+          Values here
+        </div>
+      </div>
+    </section>
+    
+    {# {% include "partials/components/post-list.njk" %} #}
+    {# {% include "partials/components/pagination.njk" %} #}
+  </main>
+{% endblock %}

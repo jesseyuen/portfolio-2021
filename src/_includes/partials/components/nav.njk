@@ -18,6 +18,7 @@
         </li>
       {% endfor %} #}
       <li><a href="/" {% if activeNav == "home" %}aria-current="page"{% endif %}>Home</a></li>
+      <li><a href="/about" {% if activeNav == "about" %}aria-current="page"{% endif %}>About</a></li>
       <li><a href="/projects" {% if activeNav == "projects" %}aria-current="page"{% endif %}>Projects</a></li>
       {# <li><a href="/resume" {% if activeNav == "resume" %}aria-current="page"{% endif %}>Resume</a></li></ul> #}
     </ul>
