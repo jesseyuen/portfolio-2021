@@ -32,7 +32,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/page.njk"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Blurb", name: "blurb", widget: "string"}
+      - {label: "Blurb", name: "blurb", widget: "string", required: false}
       - {label: "Permalink Override (Pattern: '/your-slug/index.html')", name: "permalink", widget: "string", required: false}
       - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
       - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
