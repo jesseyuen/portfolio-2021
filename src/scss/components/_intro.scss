@@ -2,7 +2,7 @@
   padding: var(--spacing-x-large) 0;
 
   .grid-item:nth-child(1) {
-    grid-column: 2 / span 4;
+    grid-column: 2 / span 3;
   }
 
   * + * {
@@ -17,12 +17,14 @@
     
     .about &,
     .page2 &,
-    .home {
+    .home & {
       font-size: var(--font-size-well-large);
     }
       
-    @media (min-width: 1500px) {
-      // max-width: 90%;
+    @media (min-width: 75em) {
+      .grid-item:nth-child(1) {
+        grid-column: 2 / span 3;
+      }
     }
 
   }
