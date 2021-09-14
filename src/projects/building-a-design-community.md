@@ -1,6 +1,6 @@
 ---
 layout: layouts/project.njk
-title: Growing a design community (wip)
+title: Growing a design community (wip case study)
 blurb: What does a design community mean to me? A case study about doing my bit
   to nurture a national community of interaction designers.
 socialImage: ""
