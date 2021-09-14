@@ -1,8 +1,8 @@
 ---
-title: About me
+title: Civic-minded, user-centered and pragmatic
 intro: This is the intro
-permalink: /about/index.html
 layout: layouts/about.njk
+permalink: /about/index.html
 ---
 I want to connect with good people, do great work with them and do my bit to encourage and nurture a positive environment in the team that I join.
 
