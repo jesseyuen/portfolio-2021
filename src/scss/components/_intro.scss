@@ -71,7 +71,7 @@
 .about,
 .page2,
 .home {
-    @media (min-width: 75em) {
+    @media (min-width: 100em) {
       .intro .grid-item:nth-child(1) {
         grid-column: 2 / span 3;
       }
