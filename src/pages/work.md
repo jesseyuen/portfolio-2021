@@ -1,5 +1,5 @@
 ---
-title: Doing the hard work to make things simple
+title: Doing the hard work to make things simple.
 role: Designer
 employer: DfE
 year: "2021"

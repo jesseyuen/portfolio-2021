@@ -16,9 +16,7 @@ leadImageCaption: Caption here
 outroHeading: Outcome
 outro: Content here.
 ---
-I was one of the original permanent designers at the DfE. A community of designers was missing and I wanted to do something about it. 
-
-What does community mean to me? Time for reflection, what do I want in a community?
+I was one of the original permanent designers at the DfE. A community of designers was missing and I wanted to do something about it. What does community mean to me? Time for reflection, what do I want in a community?
 
 ### Starting small
 
@@ -40,19 +38,23 @@ An ongoing conversation to ensure the needs of the community are being met...
 
 ### Workshop:  Identifying common user interface elements
 
-Do we need a design system? A pattern library? A frequently asked question in big orgs. An exercise to explore needs across the DfE services.
+Do we need a design system? A pattern library? There are often frequently asked questions in big organisations. Sometimes there may also be pressures from senior leadership to create org-specific assets. As part of our needs analysis, I facilitated a workshop to look at user interface needs across the DfE services.
 
-![A screenshot of a collection of card components](/images/screenshot-2021-09-09-at-20.57.22.png "Placeholder image: We collaboratively surveyed the DfE landscape to collect and collate user interface elements (components and patterns) that weren't in the GOV.UK Design System.")
+Designers from across the country collected and sorted screenshots of user interface elements (components and patterns) that weren't in the GOV.UK Design System. We were looking for evidence of bespoke patterns, evidence of a need for our own design system. What did we find? The typical contained chaos of government service design but nothing that really suggested a DfE design system was needed. 
+
+Our conversation has now turned to look at patterns. 
+
+![A screenshot of a collection of card components](/images/_-page-1-1-.png "We collaboratively surveyed DfE services to collect and collate user interface elements (components and patterns) that weren't in the GOV.UK Design System.")
 
 ### Show the thing
 
 Teams present what they are up to, tell the stories of their service. Hearing colleagues talk about challenges, opportunities and outcomes is beneficial to all. Breaks down the silos, share knowledge, designers get to receive feedback, designers get comfortable with sharing work.
 
-\[image here from a show and tell]
+\[add an image here from a recent show and tell]
 
-### Get feedback sessions
+## Get feedback sessions
 
-Content here.
+Why is getting feedback important? How can it benefit projects? What do you need to be mindful when giving feedback? How do you create safe, meaningful spaces for feedback sessions. Who needs to be involved? What does our model looks like.
 
 ## Connecting others
 
@@ -66,4 +68,4 @@ Identifying good matches and connecting them. Pairing senior and junior designer
 
 ## Why do I do it?
 
-I'm driven by a sense of collectiveness. I like the feeling of being part of something... I want that opportunity to be available for others if they feel the same way...
+I'm driven by a sense of collectiveness. I like the feeling of being part of something. I want that opportunity to be available for others if they feel the same way. Community can transcend organisational silos.
