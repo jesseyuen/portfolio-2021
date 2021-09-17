@@ -22,7 +22,7 @@ The intention of this work was to increase the visual maturity of the subscripti
 
 Circles... everywhere. The visual aesthetic of the subscription platform had drifted towards a colourful and playful tone. It had suited The Guardian at an earlier time but there was a desire to move towards a more mature, modular and unified design language across our products.
 
-![Screen shots from the Subscription site featuring lots of colourful circles.](/images/circles-1.png "We were going around in circles when I started The Guardian. There was a lack of consistency across the subscription site and a visual language that was not aligned with how we wanted to present the brand. ")
+![Screen shots from the Subscription site featuring lots of colourful circles.](/images/circles-1.jpg "We were going around in circles when I started The Guardian. There was a lack of consistency across the subscription site and a visual language that was not aligned with how we wanted to present the brand. ")
 
 ## Wireframing
 
@@ -36,7 +36,7 @@ We had a consistency problem. Each page in the subscription site was unique, we 
 
 We wanted to design a collection of modular components that were flexible enough to accommodate all of our products. The components combined would form patterns that would be the basis of consistent page templates across the site.
 
-![Examples of design exploration for our card components. ](/images/exploration.png "I started with an iterative approach to page design, by beginning with the modular components.")
+![Examples of design exploration for our card components. ](/images/exploration.jpg "I started with an iterative approach to page design, by beginning with the modular components.")
 
 ## Prototyping in code
 
