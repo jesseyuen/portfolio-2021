@@ -5,5 +5,10 @@
   margin-left: auto;
   margin-right: auto;
   // background: #f2f2f2;
-  padding: 0 var(--spacing-xx-large);
+  padding: 0 var(--spacing-large);
+  
+  @media (min-width: 37.5em){
+    padding: 0 var(--spacing-xx-large);
+  }
+
 }

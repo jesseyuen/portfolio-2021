@@ -21,34 +21,45 @@
 
 .contact-list {
   // padding-left: var(--spacing-xx-large);
-  display: flex;
   // margin-bottom: var(--spacing-large);
-
+  
   &__heading {
     font-size: var(--font-size-med);
     display: inline-block;
   }
   
   ul {
-    display: flex;
+    // display: flex;
     list-style: none;
     padding: 0;
     margin: 0;
   }
-
+  
   li {
     padding: 0;
+    display: block;
     //  &:not(:last-child) {
-       margin-left: var(--spacing-large);
-    //  }
-  }
+      
+    }
+    
+    a {
+      color: var(--color-mid);
+      text-decoration: none;
+    }
+    
+    a:hover {
+      color: var(--color-text-default);
+    }
+    
+    @media (min-width: 37.5em) {
+      display: flex;
 
-  a {
-    color: var(--color-mid);
-    text-decoration: none;
-  }
+      ul {
+        display: flex;
+      }
 
-  a:hover {
-    color: var(--color-text-default);
+      li {
+        margin-left: var(--spacing-large);
+      }
   }
 }

@@ -11,7 +11,7 @@
     max-width: var(--max-width);
     margin-left: auto;
     margin-right: auto;
-    padding: 0 var(--spacing-xx-large);
+    padding: 0 var(--spacing-large);
   }
 
   .wrapper {
@@ -67,6 +67,7 @@
     & > div {
       display: grid;
       grid-template-columns: repeat(6, 1fr);
+      padding: 0 var(--spacing-xx-large);
     }
 
     .site-header__site-name {
