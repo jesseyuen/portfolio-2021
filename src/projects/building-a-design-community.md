@@ -44,7 +44,7 @@ Designers from across the country collected and sorted screenshots of user inter
 
 Our conversation has now turned to look at patterns. 
 
-![A screenshot of a collection of card components](/images/_-page-1-1-.png "We collaboratively surveyed DfE services to collect and collate user interface elements (components and patterns) that weren't in the GOV.UK Design System.")
+![A screenshot of a collection of card components](/images/_-page-1-1-.jpg "We collaboratively surveyed DfE services to collect and collate user interface elements (components and patterns) that weren't in the GOV.UK Design System.")
 
 ### Show the thing
 
