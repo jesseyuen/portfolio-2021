@@ -22,7 +22,7 @@ Sodashi is an elegant e-commerce site with subtle and buttery-smooth animation. 
 
 [Visit Sodashi](https://www.sodashi.co.uk/)
 
-![A screenshot of the Mideast Tunes Radio homepage](/images/radio.mideastunes.com_-1-.png "Building right-to-left reading websites is a mind bending exercise.  ")
+![A screenshot of the Mideast Tunes Radio homepage](/images/radio.mideastunes.com_-1-.jpg "Building right-to-left reading websites is a mind bending exercise.  ")
 
 ## Mideast Tunes Radio
 
@@ -46,7 +46,7 @@ Paris American Academy is a fashion design school in Paris. This site features a
 
 [Visit Paris American Academy](https://www.parisamericanacademy.fr/)
 
-![A screenshot of the Landscape Elements homepage](/images/landscapeelements.com.au_.png "An accessible site with layers on finesse on top.")
+![A screenshot of the Landscape Elements homepage](/images/landscapeelements.com.au_.jpg "An accessible site with layers on finesse on top.")
 
 ## Landscape Elements
 
