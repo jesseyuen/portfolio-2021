@@ -1,10 +1,8 @@
 ---
 layout: layouts/project.njk
 title: Hot Copper
-blurb: a research, strategy and design project I worked on at Humaan. The
-  project spanned months (and months) and involved several members of our team
-  (creative director, user researcher and myself in UX and design) over this
-  period.
+blurb: A research, strategy and design project that spanned months (and months).
+  In an agency, thats a REALLY long time.
 permalink: /projects/hot-copper/index.html
 roles:
   - itemText: Experience design
