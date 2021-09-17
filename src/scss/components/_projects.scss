@@ -62,6 +62,8 @@
     font-size: var(--font-size-default);
     padding-bottom: var(--spacing-small);
     color: var(--color-mid);
+    font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+    letter-spacing: -0.03em;
   }
 
   @media (min-width: 37.5em) and (max-width: 75em) {

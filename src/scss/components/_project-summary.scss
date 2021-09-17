@@ -65,8 +65,10 @@ figure + * {
 }
 
 figcaption {
-  font-size: var(--font-size-default);
   color: var(--color-mid);
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+  font-size: var(--font-size-default);
+  letter-spacing: -0.03em;
 }
 
 .project__content-wrapper {
@@ -156,8 +158,11 @@ figcaption {
   top: calc(var(--spacing-x-large) + 70px);
 }
 
-.project__meta-inner h3 {
-
+.project__meta-inner p,
+.project__meta-inner li {
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+  font-size: var(--font-size-default);
+  letter-spacing: -0.03em;
 }
 
 .project .intro__blurb {
