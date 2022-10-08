@@ -2,16 +2,31 @@
 
 {# Intro content #}
 {% set introHeading = title %}
+{% set blurb = shortDesc %}
 
 {% block content %}
-  <main id="main-content" tabindex="-1">
-    <article class="">
-      {% include "partials/components/intro.njk" %}
-      <div class="">
-        {{ content | safe }}
+  <main id="main-content" class="page">
+    <section class="intro">
+      <div class="wrapper grid-wrapper grid-wrapper--reverse">
+        <div class="grid-item">
+          <h1 class="intro__heading">{{ introHeading }}</h1>
+          <p class="intro__blurb">{{ blurb }}</p>
+        </div>
+        <div class="grid-item">
+          
+        </div>
       </div>
+    </section>
+    <article>
+      <div class="wrapper grid-wrapper">
+        <div class="grid-item">
+          {# page template #}
+        </div>
+        <div class="grid-item">
+          {{ content | safe }}
+        </div>
+      </div>
+    </section>
     </article>
   </main>
 {% endblock %}
-
-{{ content | safe }}

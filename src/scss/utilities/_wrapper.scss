@@ -1,7 +1,14 @@
 .wrapper {
-  // max-width: map-get($metrics, 'wrap-max-width');
+  // max-width: calc(100vw - 10em);
+  max-width: 1600px;
+  max-width: var(--max-width);
   margin-left: auto;
   margin-right: auto;
-  // padding-left: get-size(500);
-  // padding-right: get-size(500);
+  // background: #f2f2f2;
+  padding: 0 var(--spacing-large);
+  
+  @media (min-width: 37.5em){
+    padding: 0 var(--spacing-xx-large);
+  }
+
 }

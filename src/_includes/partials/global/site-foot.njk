@@ -1,24 +1,23 @@
-<footer role="contentinfo" class="">
-  <div class="wrapper">
-    <div class="">
-      {% if site.shortDesc %}
-        <div>
-          <article class="">
-            <h2 class="font-base text-600">{{ site.name }}</h2>
-            {{ site.shortDesc | markdownFilter | safe }}
-          </article>
-        </div>
-      {% endif %}
-      <div>
-        {% set ariaLabel = 'footer navigation' %}
-        {% include "partials/components/nav.njk" %}
-        <theme-toggle></theme-toggle>
+<footer class="site-foot" role="contentinfo">
+  <div class="wrapper grid-wrapper">
+    <div class="grid-item">
+      <h2>&copy; 2021</h2>
+    </div>
+    <div class="grid-item">
+      <div class="contact-list">
+        <h2 class="contact-list__heading">Contact <span class="visually-hidden">{{ site.name }}</span></h2> 
+        <ul>
+          <li>
+            <a href="mailto:hello@jesseyuen.com">Email</a>
+          </li>
+          <li>
+            <a href="https://twitter.com/jesseyuen">Twitter</a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/jesseyuen/">LinkedIn</a>
+          </li>
+        </ul>
       </div>
     </div>
-    {% if site.showThemeCredit %}
-      <p class="">
-        Powered by the <a href="https://hylia.website" rel="external">Hylia Eleventy Starter Kit v{{ pkg.version }}</a>.
-      </p>
-    {% endif %}
   </div>
 </footer>

@@ -14,42 +14,100 @@
 /**
  * GLOBAL STYLES
  */
-html,
-body {
-  height: 100%;
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
+/* Remove default padding */
+ul[class],
+ol[class] {
+  padding: 0;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+/* Set core body defaults */
 body {
+  min-height: 100vh;
   scroll-behavior: smooth;
-  display: flex;
-  flex-direction: column;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+  background-color: var(--color-background-alt);
 }
 
-main {
-  flex: 1 0 auto;
-  &:focus {
-    outline: none;
+/* Remove list styles on ul, ol elements with a class attribute */
+ul[class],
+ol[class] {
+  list-style: none;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+  color: #fff;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.1em;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.1em;
+  text-decoration-color: var(--color-highlight);
+  
+  &:hover {
+    color: var(--color-highlight);
   }
 }
 
-hr {
-  display: block;
-  height: 1px;
-  max-width: 500px;
-  // background: var(--color-stroke);
-  border: none;
-  margin: get-size(900) auto;
-}
-
-// For when metric attributes are added to img elements
+/* Make images easier to work with */
 img {
+  max-width: 100%;
   height: auto;
+  display: block;
 }
 
-:focus {
-  // outline: 1px solid var(--color-theme-primary-glare);
-  outline-offset: 0.25rem;
+/* Natural flow and rhythm in articles by default */
+article > * + * {
+  margin-top: 1em;
 }
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+p:empty {
+  display: none;
+}
+
+/* Remove all animations and transitions for people that prefer not to see them */
+// @media (prefers-reduced-motion: reduce) {
+//   * {
+//     animation-duration: 0.01ms !important;
+//     animation-iteration-count: 1 !important;
+//     transition-duration: 0.01ms !important;
+//     scroll-behavior: auto !important;
+//   }
+// }
 
 /**
  * PROJECT IMPORTS
@@ -58,19 +116,19 @@ img {
 // Utils
 @import 'utilities/inner-wrapper';
 @import 'utilities/visually-hidden';
+@import 'utilities/grid-wrapper';
 @import 'utilities/wrapper';
+@import 'utilities/variables';
+
+@import 'typography';
 
 // Components
-// @import 'components/button';
-// @import 'components/form';
-// @import 'components/heading-permalink';
-// @import 'components/intro';
-// @import 'components/nav';
-// @import 'components/pagination';
-// @import 'components/post';
-// @import 'components/post-list';
-// @import 'components/site-head';
-// @import 'components/site-foot';
+@import 'components/blockquote';
+@import 'components/feature-box';
+@import 'components/intro';
+@import 'components/nav';
+@import 'components/site-head';
+@import 'components/site-foot';
+@import 'components/projects';
+@import 'components/project-summary';
 @import 'components/skip-link';
-// @import 'components/syntax-highlighting';
-// @import 'components/video-player';

@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 <head>
@@ -17,8 +19,6 @@
   {% block content %}
   {% endblock content %}
   {% include "partials/global/site-foot.njk" %}
-  {% block foot %}
-  {% endblock %}
   <script type="module" src="/js/components/theme-toggle.js" async defer></script>
   <script>
     if ('serviceWorker' in navigator) {
@@ -27,6 +27,5 @@
       });
     }
   </script>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
 </body>
 </html>

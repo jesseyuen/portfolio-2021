@@ -1,25 +1,130 @@
 .intro {
-  background: var(--color-theme-highlight-block);
+  padding: var(--spacing-x-large) 0;
 
-  &__summary {
-    --flow-space: #{get-size(500)};
-    font-size: get-size(500);
+  .grid-item:nth-child(1) {
+    grid-column: 2 / span 4;
+  }
 
-    a {
-      color: currentColor;
+  * + * {
+    margin-top: var(--spacing-x-large);
+  }
+  
+  &__heading {
+    font-size: var(--font-size-xx-large);
+    font-family: var(--font-family-serif);
+    line-height: 1;
+    font-weight: 700;
+    
+    .about &,
+    .page2 &,
+    .home & {
+      font-size: var(--font-size-well-large);
+    }
 
-      &:hover {
-        text-decoration: none;
+  }
+  
+  &__blurb {
+    grid-column: 2 / span 4;
+    font-size: var(--font-size-large);
+    // font-family: var(--font-family-serif);
+    line-height: 1.2;
+    font-weight: normal;
+    color: var(--color-mid);
+      
+    @media (max-width: 1200px) {
+      grid-column: 2 / span 5;
+    }
+
+  }
+
+  &__image {
+    grid-column: 1 / span 5;
+    margin-bottom: var(--spacing-xx-large);
+    
+    img {
+      margin-bottom: var(--spacing-medium);
+    }
+  }
+
+  @media (min-width: 37.5em){
+    padding: var(--spacing-xxxx-large) 0;
+
+    &__blurb {
+      padding-right: 45px;
+    }
+  }
+
+  @media (max-width: 1200px) {
+    .grid-item:nth-child(1),
+    &__blurb {
+      grid-column: 1 / span 5;
+    }
+
+    &__image {
+      grid-column: 1 / span 6;
+    }
+
+  }
+
+}
+
+.about,
+.page2,
+.home {
+    @media (min-width: 100em) {
+      .intro .grid-item:nth-child(1) {
+        grid-column: 2 / span 3;
       }
     }
   }
 
-  &__heading {
-    max-width: 40ex;
-    color: var(--color-theme-feature-text);
+.page2 {
+  
+  h2 {
+    margin-bottom: var(--spacing-medium);
+  }
+  
+  p + p {
+    margin-top: var(--spacing-medium);
+  }
+  
+  p + h2 {
+    margin-top: var(--spacing-large);
+  }
+  
+  .grid-item:nth-child(2) {
+    grid-column: 2 / span 3;
+  }
 
-    &--compact {
-      max-width: 20ex;
+  @media (max-width: 1200px) {
+    .grid-item:nth-child(2) {
+      grid-column: 1 / span 5;
+    }
+  }
+}
+
+.about {
+  
+  h2 {
+    margin-bottom: var(--spacing-medium);
+  }
+  
+  p + p {
+    margin-top: var(--spacing-medium);
+  }
+  
+  p + h2 {
+    margin-top: var(--spacing-large);
+  }
+
+  .page-intro.grid-item {
+    grid-column: 2 / span 4;
+    padding: 0 0 var(--spacing-xxxx-large);
+  }
+
+  @media (max-width: 1200px) {
+    .page-intro.grid-item {
+      grid-column: 1 / span 5;
     }
   }
 }

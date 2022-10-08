@@ -1,8 +1,29 @@
-<header class="">
-  <div class="">
-    <h1 class="">{{ introHeading }}</h1>
-    {% if introSummary %}
-      <div class="">{{ introSummary | safe }}</div>
-    {% endif %}
+<section class="intro">
+  <div class="wrapper grid-wrapper">
+    {# <div class="grid-item">
+      text
+    </div> #}
+    <div class="grid-item">
+      <h1 class="intro__heading">{{ introHeading }}</h1>
+      {% if blurb %}
+        <p class="intro__blurb">{{ blurb }}</p>
+      {% endif %}
+    </div>
+    {# <div class="grid-item">
+      <div class="contact-list">
+        <h2 class="contact-list__heading">Contact <span class="visually-hidden">{{ site.name }}</span></h2> 
+        <ul>
+          <li>
+            <a href="mailto:hello@jesseyuen.com">Email</a>
+          </li>
+          <li>
+            <a href="https://twitter.com/jesseyuen">Twitter</a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/jesseyuen/">LinkedIn</a>
+          </li>
+        </ul>
+      </div>
+    </div> #}
   </div>
-</header>
+</section>

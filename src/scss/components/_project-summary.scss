@@ -1,0 +1,207 @@
+.project-summary {
+  padding: var(--spacing-x-large) var(--spacing-large);
+  margin-top: var(--spacing-xx-large);
+  margin-top: var(--spacing-xxxx-large);
+  // background: var(--color-background);
+  background: var(--color-background-breakout);
+  // border: 1px solid var(--color-border);
+}
+
+.project-summary + * {
+  margin-top: var(--spacing-xx-large);
+}
+
+.project__content figure {
+  // display: flex;
+  // flex-direction: row-reverse;
+  margin-top: var(--spacing-xxxx-large);
+  margin-bottom: var(--spacing-xcxxx-large);
+  // margin-left: calc( ( (-1600px/6) * 1) + 10px);
+  
+  img {
+    margin-bottom: var(--spacing-medium);
+    width: 100%;
+  }
+  
+  // figcaption {
+  //   width: calc((1600px/6) * 1);
+  //   align-items: flex-start;
+  //   padding-right: var(--spacing-large);
+  // }
+  
+  // .figcaption__inner {
+  //   position: sticky;
+  //   top: calc(var(--spacing-x-large) + 70px);
+  // }
+
+  @media (min-width: 1600px) {
+    display: flex;
+    flex-direction: row-reverse;
+    width: calc((1600px/6) * 4.95);
+    margin-left: calc( ( (-1600px/6) * 1.43));
+
+    img {
+      max-width: calc((1600px/6) * 3);
+      max-width: 940px;
+      margin-bottom: 0;
+    }
+    
+    figcaption {
+      width: calc((1600px/6) * 1);
+      align-items: flex-start;
+      padding-right: var(--spacing-large);
+      padding-left: var(--spacing-large);
+    }
+    
+    .figcaption__inner {
+      position: sticky;
+      top: calc(var(--spacing-x-large) + 70px);
+    }
+  }
+}
+
+figure + * {
+  margin-top: var(--spacing-xx-large);
+}
+
+figcaption {
+  color: var(--color-mid);
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+  font-size: var(--font-size-default);
+  letter-spacing: -0.03em;
+}
+
+.project__content-wrapper {
+  padding: 0;
+  
+  @media (min-width: 37.5em) { 
+    display: grid;
+    grid-column: 1 / span 5;
+    grid-template-columns: repeat(5,1fr);
+    padding-right: 45px;
+  }
+  
+  @media (max-width: 75em){
+    grid-template-columns: repeat(6, 1fr);
+    grid-column: 1 / span 6;
+  }
+}
+
+.project-content p + figure {
+  margin-top: var(--spacing-xx-large);
+}
+
+.project__content {
+  grid-column: 2 / span 4;
+  // padding-left: 25px;
+
+  @media (max-width: 1200px){
+    grid-column: 1 / span 5;
+  }
+}
+
+.project__meta {
+  grid-column: 1 / span 5;
+  margin-bottom: var(--spacing-x-large);
+  font-size: var(--font-size-medium);
+  color: var(--color-mid);
+  
+  h3 {
+    font-size: var(--font-size-medium);
+    color: var(--color-text-default);
+    // margin-bottom: var(--spacing-small);
+
+    a {
+      display: none;
+    }
+  }
+
+  div + div {
+    margin-top: var(--spacing-large);
+    padding: 0;
+  }
+
+  // work link
+  div a {
+    color: var(--color-mid);
+    display: none;
+    
+    &:hover {
+      color: var(--color-text-default);
+    }
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  @media (min-width: 75em) {
+    grid-column: 6 / span 1;
+
+    div + a {
+      display: inline-block;
+      margin-top: var(--spacing-xx-large);
+      text-decoration: none;
+  
+      span {
+        text-decoration: underline;
+      }
+    }
+
+  }
+}
+
+.project__meta-inner {
+  position: sticky;
+  top: calc(var(--spacing-x-large) + 70px);
+}
+
+.project__meta-inner p,
+.project__meta-inner li {
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+  font-size: var(--font-size-default);
+  letter-spacing: -0.03em;
+}
+
+.project .intro__blurb {
+  color: var(--color-mid);
+}
+
+.project h2,
+.page2 h2:not(.intro__heading) {
+  margin-bottom: var(--spacing-medium);
+  font-family: var(--font-family-serif);
+  font-size: var(--font-size-x-large);
+  font-weight: 400;
+  line-height: 1.2;
+
+  .heading-permalink {
+    display: none;
+  }
+}
+
+.project h2 {
+  margin-bottom: var(--spacing-medium);
+}
+
+.project__content * + h2 {
+  margin-top: var(--spacing-xxxx-large);
+}
+
+.project__content * + h3 {
+  margin-top: var(--spacing-x-large);
+}
+
+.project__content * + p {
+  margin-top: var(--spacing-medium);
+}
+
+.project__content figure + p:empty + p  {
+  margin-top: var(--spacing-xxxx-large);
+}
+
+.project__content figure + p:empty + h3  {
+  margin-top: var(--spacing-xxxx-large);
+}

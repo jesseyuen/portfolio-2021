@@ -1,25 +1,127 @@
 {% extends 'layouts/base.njk' %}
 
+{# Custom macros #}
+{% from "macros/project-item/macro.njk"   import appProjectList %}
+
 {# Intro content #}
 {% set introHeading = title %}
-{% set introSummary %}
-  {{ content | safe }}
-{% endset %}
+{% set activeNav = "projects" %}
+{# {% set blurb = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam velit mauris, fringilla ac nunc eget, mattis iaculis magna." %} #}
 
 {# Post list content #}
-{% set postListHeading = postsHeading %}
-{% set postListItems = collections.postFeed %}
+{# {% set postListHeading = postsHeading %}
+{% set postListItems = collections.postFeed %} #}
 
 {# Archive link #}
-{% if postListItems.length < collections.posts.length %} 
+{# {% if postListItems.length < collections.posts.length %} 
   {% set paginationNextText = archiveButtonText %}
   {% set paginationNextUrl = '/archive' %}
-{% endif %}
+{% endif %} #}
 
 {% block content %}
-  <main id="main-content" tabindex="-1">
+  <main id="main-content" class="home">
     {% include "partials/components/intro.njk" %}
-    {% include "partials/components/post-list.njk" %}
-    {% include "partials/components/pagination.njk" %}
+    <section id="work" class="projects">
+      {# <div class="wrapper grid-wrapper">
+        <h2 class="serif-heading">Select projects</h2>
+      </div> #}
+      <div class="wrapper grid-wrapper">
+        <div class="grid-item">
+          <h2><span class="visually-hidden">Projects completed at the</span>GOV.UK</h2>
+        </div>
+        <div class="grid-item">
+          {{ appProjectList ({
+            items: [
+              {
+                heading: 'Teaching Vacancies (Coming soon)',
+                desc: 'Adpoting a mature service in the role of lead designer',
+                details: 'Digital service delivery, Interaction design'
+              },
+              {
+                href: '/projects/register-teacher-training',
+                heading: 'Register trainee teachers',
+                desc: 'Co-designing a digital service from prototype to public beta',
+                details: 'Digital service delivery, Interaction design'
+              },
+              {
+                href: '/projects/building-a-design-community',
+                heading: 'Growing a design community (wip case study)',
+                desc: 'Doing my bit to nurture a national community of interaction designers',
+                details: 'Community design, Interaction design, Leadership'
+              }
+            ]
+          }) }}
+        </div>
+      </div>
+    </section>
+    <section class="projects">
+      <div class="wrapper grid-wrapper">
+      <div class="grid-item">
+        <h2><span class="visually-hidden">Projects completed at the</span>The Guardian</h2>
+      </div>
+        <div class="grid-item">
+          {{ appProjectList ({
+            items: [
+              {
+                href: '/projects/subscribe',
+                heading: 'Subscribe to the Guardian',
+                desc: 'Redesigning of the Guardians subscription product with a focus on modular patterns',
+                details: 'UX/UI design'
+              },
+              {
+                href: '/projects/contribute',
+                heading: 'Contribute to the Guardian',
+                desc: 'Advocating for inclusivity when redesigning the contribution journey',
+                details: 'UX/UI design, Accessability, Design system'
+              }
+            ]
+          }) }}
+        </div>
+      </div>
+    </section>
+    <section class="projects">
+      <div class="wrapper grid-wrapper">
+      <div class="grid-item">
+        <h2><span class="visually-hidden">Projects completed </span>Elsewhere</h2>
+      </div>
+        <div class="grid-item">
+          {{ appProjectList ({
+            items: [
+              {
+                href: '/projects/perth-device-lab',
+                heading: 'Perth Device Lab',
+                desc: 'An open source project with a difference',
+                details: 'Community, UX/UI design, development'
+              },
+              {
+                heading: 'A design system for [name withheld] (Coming soon)',
+                desc: 'Designing, building and maintaining a design system.',
+                details: 'Design system, UX/UI design, development'
+              },
+              {
+                href: '/projects/hot-copper',
+                heading: 'Hot Copper',
+                desc: 'Redesigning Australia’s most popular share market forum',
+                details: 'UX/UI design, Design system'
+              },
+              {
+                href: '/projects/front-end-development',
+                heading: 'Front end development',
+                desc: 'A collection of semantic, accessible and engaging frontend work',
+                details: 'Development, Accessability'
+              }
+            ]
+          }) }}
+        </div>
+        {# {
+          href: '/projects/art-on-the-move',
+          heading: 'Art on the Move',
+          desc: 'Accessible and modular design on a showstrong budget',
+          details: 'UX/UI design'
+        }, #}
+      </div>
+    </section>
+    {# {% include "partials/components/post-list.njk" %} #}
+    {# {% include "partials/components/pagination.njk" %} #}
   </main>
 {% endblock %}

@@ -1,12 +1,16 @@
 ---
-layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
+layout: layouts/page2.njk
+title: Hi! Tread warily, ok?
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+shortDesc: Civic minded Pragmatic design of products & services for good, not evil*
+blurb: Before you go any further please know I'm designing and building this
+  site in the open.
+metaDesc: text here
+postsHeading: Latest posts
+socialImage: ""
 ---
+Why? Because I want to to share it with you, and if I wait until I'm finished you'll never see it! 
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+In the spirit of iterative design, tread warily my friend and don't mind the typos, bugs and less polished bits. I might even design a homepage at some point.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+In the meantime, learn more [about me](about) or view [selected projects](projects).
