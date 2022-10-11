@@ -1,147 +1,152 @@
 .projects {
-  padding: var(--spacing-x-large) 0;
-  box-shadow: 0 -1px 0 0 var(--color-border);
+    padding: var(--spacing-x-large) 0;
+    box-shadow: 0 -1px 0 0 var(--color-border);
 
-  &:last-of-type {
-    padding-bottom: 0;
-  }
-
-  .grid-item:nth-child(1) {
-    grid-column: 1 / span 1;
-  }
-  
-  .grid-item:nth-child(2) {
-    grid-column: 2 / span 4;
-  }
-
-  h2 {
-    margin: 0 0 var(--spacing-medium) 0;
-  }
-
-  &__item {
-    position: relative;
-
-    & * {
-      transition: color var(--duration-quickly), 
+    &:last-of-type {
+        padding-bottom: 0;
     }
 
-  }
-  
-  &__item + * {
-    margin: var(--spacing-x-large) 0 0 0;
-  }
-  
-  &__item-heading {
-    display: block;
-    margin: 0 0 var(--spacing-medium) 0;
-    line-height: 1.2;
-    color: var(--color-text-default);
-    font-size: var(--font-size-x-large);
-    font-family: var(--font-family-serif);
-    font-weight: bold;
-    
-    a {
-      text-decoration: underline;
-      text-decoration-thickness: 2px;
-      text-underline-offset: 0.1em;
-      text-decoration-color: var(--color-highlight);
+    .grid-item:nth-child(1) {
+        grid-column: 1 / span 1;
     }
-    
-    a:hover {
-      color: var(--color-highlight);
-    }
-  }
 
-  &__item-desc {
-    display: inline-block;
-    font-size: var(--font-size-medium);
-    margin-bottom: var(--spacing-small);
-  }
-
-  &__item-details {
-    font-size: var(--font-size-default);
-    padding-bottom: var(--spacing-small);
-    color: var(--color-mid);
-    font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
-    letter-spacing: -0.03em;
-  }
-
-  @media (min-width: 37.5em) and (max-width: 75em) {
     .grid-item:nth-child(2) {
-      padding-left: var(--spacing-large);
+        grid-column: 2 / span 4;
     }
-  }
-
-  @media (min-width: 37.5em){
-    padding: var(--spacing-xxx-large) 0;
 
     h2 {
-      position: sticky;
-      top: calc(var(--spacing-x-large) + 70px);
+        margin: 0 0 var(--spacing-medium) 0;
     }
-  }
+
+    &__item {
+        position: relative;
+
+        & * {
+            transition: color var(--duration-quickly),
+        }
+
+    }
+
+    &__item+* {
+        margin: var(--spacing-x-large) 0 0 0;
+    }
+
+    &__item-heading {
+        display: block;
+        margin: 0 0 var(--spacing-medium) 0;
+        line-height: 1.2;
+        color: var(--color-text-default);
+        font-size: var(--font-size-x-large);
+        font-family: var(--font-family-serif);
+        font-weight: bold;
+
+        a {
+            text-decoration: underline;
+            text-decoration-thickness: 2px;
+            text-underline-offset: 0.1em;
+            text-decoration-color: var(--color-highlight);
+        }
+
+        a:hover {
+            color: var(--color-highlight);
+        }
+    }
+
+    &__item-desc {
+        display: inline-block;
+        font-size: var(--font-size-medium);
+        margin-bottom: var(--spacing-small);
+    }
+
+    &__item-details {
+        font-size: var(--font-size-default);
+        padding-bottom: var(--spacing-small);
+        color: var(--color-mid);
+        font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+        letter-spacing: -0.03em;
+    }
+
+    img {
+        margin-top: var(--spacing-x-large);
+        margin-bottom: var(--spacing-x-large);
+    }
+
+    @media (min-width: 37.5em) and (max-width: 75em) {
+        .grid-item:nth-child(2) {
+            padding-left: var(--spacing-large);
+        }
+    }
+
+    @media (min-width: 37.5em) {
+        padding: var(--spacing-xxx-large) 0;
+
+        h2 {
+            position: sticky;
+            top: calc(var(--spacing-x-large) + 70px);
+        }
+    }
 }
 
 .skills-values {
-  padding: var(--spacing-x-large) 0;
-  box-shadow: 0 -1px 0 0 var(--color-border);
+    padding: var(--spacing-x-large) 0;
+    box-shadow: 0 -1px 0 0 var(--color-border);
 
-  &:last-of-type {
-    padding-bottom: 0;
-  }
-
-  .grid-item:nth-child(1) {
-    grid-column: 1 / span 1;
-  }
-  
-  .grid-item:nth-child(2) {
-    grid-column: 2 / span 4;
-  }
-
-  ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    // column-count: 2;
-    // column-gap: var(--spacing-xxxx-large);
-    // display: flex;
-    // flex-direction: row;
-    // flex-basis: 100%;
-    // flex-wrap: wrap;
-  }
-
-  li {
-    display: inline-block;
-    margin-bottom: var(--spacing-xx-large);
-  }
-
-  strong {
-    display: block;
-  }
-
-  h2 {
-    margin: 0 0 var(--spacing-medium) 0;
-  }
-
-  @media (min-width: 37.5em) and (max-width: 75em) {
-    .grid-item:nth-child(2) {
-      padding-left: var(--spacing-large);
+    &:last-of-type {
+        padding-bottom: 0;
     }
-  }
 
-  @media (min-width: 37.5em){
-    padding: var(--spacing-xxx-large) 0;
+    .grid-item:nth-child(1) {
+        grid-column: 1 / span 1;
+    }
+
+    .grid-item:nth-child(2) {
+        grid-column: 2 / span 4;
+    }
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        // column-count: 2;
+        // column-gap: var(--spacing-xxxx-large);
+        // display: flex;
+        // flex-direction: row;
+        // flex-basis: 100%;
+        // flex-wrap: wrap;
+    }
+
+    li {
+        display: inline-block;
+        margin-bottom: var(--spacing-xx-large);
+    }
+
+    strong {
+        display: block;
+    }
 
     h2 {
-      position: sticky;
-      top: calc(var(--spacing-x-large) + 70px);
+        margin: 0 0 var(--spacing-medium) 0;
     }
-  }
 
-  @media (min-width: 75em) {
-    ul {
-      column-count: 2;
-      column-gap: var(--spacing-xxxx-large);
+    @media (min-width: 37.5em) and (max-width: 75em) {
+        .grid-item:nth-child(2) {
+            padding-left: var(--spacing-large);
+        }
     }
-  }
+
+    @media (min-width: 37.5em) {
+        padding: var(--spacing-xxx-large) 0;
+
+        h2 {
+            position: sticky;
+            top: calc(var(--spacing-x-large) + 70px);
+        }
+    }
+
+    @media (min-width: 75em) {
+        ul {
+            column-count: 2;
+            column-gap: var(--spacing-xxxx-large);
+        }
+    }
 }

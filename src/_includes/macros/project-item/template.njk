@@ -8,6 +8,9 @@
           {% else %}
             {{ item.heading }}
           {% endif %}
+          {% if item.imagePath %}
+            <img src="/images/{{ item.imagePath}}">  
+          {% endif %}
           </h3>
           <p class="projects__item-desc">{{ item.desc }}</p>
           <p class="projects__item-details"><span class="visually-hidden">Project details:</span>{{ item.details }}</p>

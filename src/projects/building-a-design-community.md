@@ -10,7 +10,7 @@ roles:
   - itemText: Leadership
 employer: Department for Education
 year: 2020 to 2021
-leadImage: /images/screenshot-2021-09-12-at-19.04.55.png
+leadImage: /images/community.png
 leadImageAlt: Alt text here
 leadImageCaption: Caption here
 outroHeading: Outcome
@@ -50,8 +50,6 @@ Our conversation has now turned to look at patterns.
 
 Teams present what they are up to, tell the stories of their service. Hearing colleagues talk about challenges, opportunities and outcomes is beneficial to all. Breaks down the silos, share knowledge, designers get to receive feedback, designers get comfortable with sharing work.
 
-\[add an image here from a recent show and tell]
-
 ## Get feedback sessions
 
 Why is getting feedback important? How can it benefit projects? What do you need to be mindful when giving feedback? How do you create safe, meaningful spaces for feedback sessions. Who needs to be involved? What does our model looks like.
@@ -68,4 +66,8 @@ Identifying good matches and connecting them. Pairing senior and junior designer
 
 ## Why do I do it?
 
-I'm driven by a sense of collectiveness. I like the feeling of being part of something. I want that opportunity to be available for others if they feel the same way. Community can transcend organisational silos.
+I like the feeling of being part of something. 
+
+I want that opportunity to be available for others if they feel the same way. 
+
+Community transcends organisational silos.
