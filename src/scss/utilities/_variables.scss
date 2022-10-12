@@ -1,124 +1,129 @@
 :root {
-  --font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+    --font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
 
-  --font-weight-light: 300;
-  --font-weight-default: 400;
-  --font-weight-semibold: 600;
-  --font-weight-bold: 700;
+    --font-weight-light: 300;
+    --font-weight-default: 400;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
 
-  --font-family-serif: Charter, Bitstream Charter, serif;
-  // --font-family-serif: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
-  
-  // Temp font sizes for smaller widths
-  // TODO fluid type!
-  --font-size-xxx-large: 4rem;
-  --font-size-xx-large: 3rem;
-  --font-size-well-large: 2.5rem;
-  --font-size-x-large: 2.2rem;
-  --font-size-large: 1.7rem;
-  --font-size-medium: 1.4rem;
-  --font-size-default: 1rem;
+    --font-family-serif: Charter, Bitstream Charter, serif;
+    // --font-family-serif: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 
-  @media (min-width: 75em){
-    // 90px
-    --font-size-xxx-large: 5rem;
-    // 64px  
-    --font-size-xx-large: 3.998rem;
-    --font-size-well-large: 3.2rem;
-    // 45px
-    --font-size-x-large: 2.6rem;
-    // 32px
-    --font-size-large: 1.99rem;
-    //22px
-    --font-size-medium: 1.414rem;
-    // 18px
-    --font-size-default: 1.125rem;
-  }
+    // Temp font sizes for smaller widths
+    // TODO fluid type!
+    --font-size-xxx-large: 4rem;
+    --font-size-xx-large: 3rem;
+    --font-size-well-large: 2.5rem;
+    --font-size-x-large: 2.2rem;
+    --font-size-large: 1.7rem;
+    --font-size-medium: 1.4rem;
+    --font-size-default: 1rem;
 
-  --font-size-small: 0.833rem;
-  --font-size-x-small: 0.694rem;
-  --font-size-xx-small: 8px;
-  
-  --lineheight-text: 1.5;
-  --lineheight-heading: 1.3;
-  
-  --color-highlight: #F9B60C;
-  
-  // --color-text-default: #3A3A3A;
-  --color-text-default: #fff;
-  --color-text-alt: #fff;
-  
-  --color-background: #fff;
-  // --color-background-alt: #fbfaf7;
-  // --color-background-alt: #fbf9f4;
-  --color-background-alt: #1d1d1d;
-  --color-background-breakout: #363636;
-  --color-background-selection: #f0f2f3;
-  --color-base: #f8f8f8;
-  // --color-border: #e5e5e5;
-  --color-border: #3f3f3f;
-  --color-light: #fff;
-  // --color-mid: #6E6E6E;
-  --color-mid: #a3a3a3;
-  // --color-dark: #494957;
-  // --color-darkest: #292935;
-  
-  --color-text-link: var(--color-brand-dark);
-  --color-text-link-active: var(--color-text-link);
-  --color-text-link-focus: var(--color-text-link);
-  --color-text-link-hover: var(--color-text-link);
-  --color-text-link-visited: var(--color-text-link);
-  
-  --color-input-background: var(--color-background);
-  --color-input-background-hover: var(--color-background);
-  --color-input-background-active: var(--color-background);
-  --color-input-border: var(--color-border);
-  --color-input-border-hover: var(--color-border);
-  --color-input-border-active: var(--color-mid);
-  
-  --color-button: var(--color-brand);
-  --color-button-hover: var(--color-brand-dark);
-  --color-button-active: #1aabeb;
-  --color-button-border: #059de1;
-  
-  --color-button-alt: var(--color-base);
-  --color-button-hover-alt: var(--color-mid);
-  --color-button-active-alt: var(--color-base);
-  --color-button-border-alt: var(--color-border);
-    
-  --grid-column-gap: 2vw;
-  --grid-row-gap: 2vh;
-  
-  //600px
-  --width-800: 37.5rem;
-  
-  //800px
-  --width-800: 50rem;
- 
-  //1000px
-  --width-1000: 62.5rem;
-  
-  //1200px
-  --width-1200: 75rem;
+    @media (min-width: 75em) {
+        // 90px
+        --font-size-xxx-large: 5rem;
+        // 64px  
+        --font-size-xx-large: 3.998rem;
+        --font-size-well-large: 3.2rem;
+        // 45px
+        --font-size-x-large: 2.6rem;
+        // 32px
+        --font-size-large: 1.99rem;
+        //22px
+        --font-size-medium: 1.414rem;
+        // 18px
+        --font-size-default: 1.125rem;
+    }
 
-  // 1600px
-  --max-width: 100rem;
-  
-  --spacing-xx-small: .125rem;
-  --spacing-x-small: .25rem;
-  --spacing-small: .5rem;
-  --spacing: .75rem;
-  --spacing-medium: 1rem;
-  --spacing-large: 1.5rem;
-  --spacing-x-large: 2rem;
-  --spacing-xx-large: 3rem;
-  --spacing-xxx-large: 4rem;
-  --spacing-xxxx-large: 5rem;
-  --spacing-mega-large: 7rem;
-  
-  --duration-instantly: 0;
-  --duration-immediately: .1s;
-  --duration-quickly: .2s;
-  --duration-promptly: .5s;
-  --duration-slowly: 1s;
-  }
+    --font-size-small: 0.833rem;
+    --font-size-x-small: 0.694rem;
+    --font-size-xx-small: 8px;
+
+    --lineheight-text: 1.5;
+    --lineheight-heading: 1.3;
+
+    // --color-highlight: #F9B60C;
+    --color-highlight: #7a9676;
+
+    // --color-text-default: #3A3A3A;
+    --color-text-default: #fff;
+    --color-text-alt: #fff;
+    --color-text-alt2: #ebe9da;
+
+    --color-background: #fff;
+    // --color-background-alt: #fbfaf7;
+    // --color-background-alt: #fbf9f4;
+    --color-background-alt: #30552f;
+    //   --color-background-alt: #1d1d1d;
+    --color-background-breakout: #3b5e3a;
+    // --color-background-breakout: #363636;
+    --color-background-selection: #f0f2f3;
+    --color-base: #f8f8f8;
+    // --color-border: #e5e5e5;
+    // --color-border: #3f3f3f;
+    --color-border: #5e745b;
+    --color-light: #fff;
+    // --color-mid: #6E6E6E;
+    --color-mid: #a3a3a3;
+    // --color-dark: #494957;
+    // --color-darkest: #292935;
+
+    --color-text-link: var(--color-brand-dark);
+    --color-text-link-active: var(--color-text-link);
+    --color-text-link-focus: var(--color-text-link);
+    --color-text-link-hover: var(--color-text-link);
+    --color-text-link-visited: var(--color-text-link);
+
+    --color-input-background: var(--color-background);
+    --color-input-background-hover: var(--color-background);
+    --color-input-background-active: var(--color-background);
+    --color-input-border: var(--color-border);
+    --color-input-border-hover: var(--color-border);
+    --color-input-border-active: var(--color-mid);
+
+    --color-button: var(--color-brand);
+    --color-button-hover: var(--color-brand-dark);
+    --color-button-active: #1aabeb;
+    --color-button-border: #059de1;
+
+    --color-button-alt: var(--color-base);
+    --color-button-hover-alt: var(--color-mid);
+    --color-button-active-alt: var(--color-base);
+    --color-button-border-alt: var(--color-border);
+
+    --grid-column-gap: 2vw;
+    --grid-row-gap: 2vh;
+
+    //600px
+    --width-800: 37.5rem;
+
+    //800px
+    --width-800: 50rem;
+
+    //1000px
+    --width-1000: 62.5rem;
+
+    //1200px
+    --width-1200: 75rem;
+
+    // 1600px
+    --max-width: 100rem;
+
+    --spacing-xx-small: .125rem;
+    --spacing-x-small: .25rem;
+    --spacing-small: .5rem;
+    --spacing: .75rem;
+    --spacing-medium: 1rem;
+    --spacing-large: 1.5rem;
+    --spacing-x-large: 2rem;
+    --spacing-xx-large: 3rem;
+    --spacing-xxx-large: 4rem;
+    --spacing-xxxx-large: 5rem;
+    --spacing-mega-large: 7rem;
+
+    --duration-instantly: 0;
+    --duration-immediately: .1s;
+    --duration-quickly: .2s;
+    --duration-promptly: .5s;
+    --duration-slowly: 1s;
+}

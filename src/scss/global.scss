@@ -18,13 +18,13 @@
 *,
 *::before,
 *::after {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 /* Remove default padding */
 ul[class],
 ol[class] {
-  padding: 0;
+    padding: 0;
 }
 
 /* Remove default margin */
@@ -42,49 +42,51 @@ figcaption,
 blockquote,
 dl,
 dd {
-  margin: 0;
+    margin: 0;
 }
 
 /* Set core body defaults */
 body {
-  min-height: 100vh;
-  scroll-behavior: smooth;
-  text-rendering: optimizeSpeed;
-  line-height: 1.5;
-  background-color: var(--color-background-alt);
+    min-height: 100vh;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    line-height: 1.5;
+    background-color: var(--color-background-alt);
 }
 
 /* Remove list styles on ul, ol elements with a class attribute */
 ul[class],
 ol[class] {
-  list-style: none;
+    list-style: none;
 }
 
 /* A elements that don't have a class get default styles */
 a:not([class]) {
-  text-decoration-skip-ink: auto;
-  color: #fff;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.1em;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 0.1em;
-  text-decoration-color: var(--color-highlight);
-  
-  &:hover {
-    color: var(--color-highlight);
-  }
+    text-decoration-skip-ink: auto;
+    color: #fff;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.1em;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.1em;
+    text-decoration-color: var(--color-highlight);
+
+    &:hover {
+        // color: var(--color-highlight);
+        color: var(--color-text-alt2);
+        text-decoration-color: var(--color-text-alt2);
+    }
 }
 
 /* Make images easier to work with */
 img {
-  max-width: 100%;
-  height: auto;
-  display: block;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 /* Natural flow and rhythm in articles by default */
-article > * + * {
-  margin-top: 1em;
+article>*+* {
+    margin-top: 1em;
 }
 
 /* Inherit fonts for inputs and buttons */
@@ -92,11 +94,11 @@ input,
 button,
 textarea,
 select {
-  font: inherit;
+    font: inherit;
 }
 
 p:empty {
-  display: none;
+    display: none;
 }
 
 /* Remove all animations and transitions for people that prefer not to see them */

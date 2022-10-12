@@ -1,56 +1,58 @@
 body {
-  font-size: var(--font-size-medium);
-  font-family: var(--font-family);
-  color: var(--color-text-default);
-  line-height: 1.4;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    font-size: var(--font-size-medium);
+    font-family: var(--font-family);
+    //   color: var(--color-text-default);
+    color: var(--color-text-alt2);
+    line-height: 1.4;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 h2 {
-  font-size: var(--font-size-medium);
+    font-size: var(--font-size-medium);
 }
 
 .serif-heading {
-  font-size: var(--font-size-x-large);
-  font-family: var(--font-family-serif);
-  font-weight: 700;
-  margin-bottom: var(--spacing-xxx-large);
-  grid-column: 2 / span 4;
+    font-size: var(--font-size-x-large);
+    font-family: var(--font-family-serif);
+    font-weight: 700;
+    margin-bottom: var(--spacing-xxx-large);
+    grid-column: 2 / span 4;
 }
 
 .type-xxx-large {
-  font-size: var(--font-size-xxx-large)
+    font-size: var(--font-size-xxx-large)
 }
 
 .type-xx-large {
-  font-size: var(--font-size-xx-large)
+    font-size: var(--font-size-xx-large)
 }
 
 .type-x-large {
-  font-size: var(--font-size-x-large)
+    font-size: var(--font-size-x-large)
 }
 
 .type-large {
-  font-size: var(--font-size-large)
+    font-size: var(--font-size-large)
 }
 
 .type-med {
-  font-size: var(--font-size-medium)
+    font-size: var(--font-size-medium)
 }
 
 a {
-  transition: color var(--duration-quickly);
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.1em;
-  
-  &:focus {
-    outline: 3px solid transparent;
-    color: var(--color-text-default) !important;
-    background-color: var(--color-highlight);;
-    // box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c;
-    // text-decoration-thickness: 2px;
-    text-decoration: none !important;
-    color: var(--color-background-alt) !important;
-  }
+    transition: color var(--duration-quickly);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.1em;
+
+    &:focus {
+        outline: 3px solid transparent;
+        color: var(--color-text-default) !important;
+        background-color: var(--color-highlight);
+        ;
+        // box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c;
+        // text-decoration-thickness: 2px;
+        text-decoration: none !important;
+        // color: var(--color-background-alt) !important;
+    }
 }

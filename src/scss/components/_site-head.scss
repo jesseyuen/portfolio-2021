@@ -2,9 +2,9 @@
     //   position: sticky;
     //   top: 0;
     // box-shadow: 0 0 0 1px var(--color-border);
-    box-shadow: 0 1px 0 0 var(--color-border);
+    // box-shadow: 0 1px 0 0 var(--color-border);
     font-size: var(--font-size-medium);
-    background: var(--color-background-alt);
+    // background: var(--color-background-alt);
     z-index: 2;
 
     &>div {
@@ -23,7 +23,8 @@
         display: inline-block;
         position: relative;
         text-decoration: none;
-        color: var(--color-mid);
+        // color: var(--color-mid);
+        color: rgba(var(--color-text-default2), 0.6);
         padding: 10px 20px;
     }
 
