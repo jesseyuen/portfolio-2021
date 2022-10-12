@@ -1,6 +1,6 @@
 ---
 layout: layouts/project.njk
-title: Register Teacher Training
+title: Register trainee teachers
 blurb: Designing a digital service that supports teachers across England from
   prototype through to public beta.
 permalink: /projects/register-teacher-training/index.html
