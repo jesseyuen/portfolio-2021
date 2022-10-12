@@ -75,6 +75,7 @@
     @media (min-width: 37.5em) and (max-width: 75em) {
         .grid-item:nth-child(2) {
             padding-left: var(--spacing-large);
+            grid-column: 2 / span 5;
         }
     }
 
@@ -146,8 +147,9 @@
 
     @media (min-width: 75em) {
         ul {
-            column-count: 2;
-            column-gap: var(--spacing-xxxx-large);
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-gap: 0 var(--spacing-xx-large);
         }
 
         li {
