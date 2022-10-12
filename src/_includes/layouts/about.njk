@@ -10,12 +10,14 @@
 {% block content %}
   <main id="main-content" class="about">
     {% include "partials/components/intro.njk" %}
-    <div class="wrapper grid-wrapper">
-      <div class="grid-item"></div>
-      <div class="page-intro grid-item">
-        {{ content | safe }}
-      </div>
-    </div>
+    <section class="about-intro">
+        <div class="wrapper grid-wrapper">
+            <div class="grid-item"></div>
+            <div class="page-intro grid-item">
+                {{ content | safe }}
+            </div>
+        </div>
+    </section>
     <section id="work" class="skills-values">
       <div class="wrapper grid-wrapper">
         <div class="grid-item">
@@ -42,7 +44,7 @@
         </div>
       </div>
     </section>
-    <section class="skills-values">
+    {# <section class="skills-values">
       <div class="wrapper grid-wrapper">
       <div class="grid-item">
         <h2>My values</h2>
@@ -68,7 +70,7 @@
           </ul>
         </div>
       </div>
-    </section>
+    </section> #}
     
     {# {% include "partials/components/post-list.njk" %} #}
     {# {% include "partials/components/pagination.njk" %} #}

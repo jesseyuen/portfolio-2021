@@ -69,6 +69,7 @@ a:not([class]) {
     text-decoration-thickness: 2px;
     text-underline-offset: 0.1em;
     text-decoration-color: var(--color-highlight);
+    transition: text-decoration var(--duration-quickly);
 
     &:hover {
         // color: var(--color-highlight);

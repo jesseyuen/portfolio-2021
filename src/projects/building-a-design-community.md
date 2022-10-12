@@ -5,7 +5,7 @@ blurb: What does a design community mean to me? A case study about doing my bit
   to nurture a national community of interaction designers.
 socialImage: ""
 roles:
-  - itemText: Community design
+  - itemText: Community
   - itemText: Interaction design
   - itemText: Leadership
 employer: Department for Education

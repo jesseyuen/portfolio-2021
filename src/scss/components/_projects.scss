@@ -35,7 +35,7 @@
         display: block;
         margin: 0 0 var(--spacing-medium) 0;
         line-height: 1.2;
-        color: var(--color-text-default);
+        // color: var(--color-text-default);
         font-size: var(--font-size-x-large);
         font-family: var(--font-family-serif);
         font-weight: bold;
@@ -62,7 +62,7 @@
         font-size: var(--font-size-default);
         padding-bottom: var(--spacing-small);
         // color: var(--color-mid);
-        color: var(--color-text-alt2);
+        // color: var(--color-muted);
         font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
         letter-spacing: -0.03em;
     }
@@ -118,7 +118,7 @@
 
     li {
         display: inline-block;
-        margin-bottom: var(--spacing-xx-large);
+        margin-bottom: var(--spacing-large);
     }
 
     strong {
@@ -148,6 +148,10 @@
         ul {
             column-count: 2;
             column-gap: var(--spacing-xxxx-large);
+        }
+
+        li {
+            margin-bottom: var(--spacing-xx-large);
         }
     }
 }
