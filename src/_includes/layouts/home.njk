@@ -27,6 +27,28 @@
       </div> #}
       <div class="wrapper grid-wrapper">
         <div class="grid-item">
+          <h2><span class="visually-hidden">Projects completed at </span>Made Tech</h2>
+        </div>
+        <div class="grid-item">
+          {{ appProjectList ({
+            items: [
+              {
+                heading: 'Introducing user centered design into an organisation
+ (Coming soon)',
+                desc: 'Embedding new concepts and ways of working',
+                details: 'Digital service delivery, Interaction design, Leadership'
+              }
+            ]
+          }) }}
+        </div>
+      </div>
+    </section>
+    <section class="projects">
+      {# <div class="wrapper grid-wrapper">
+        <h2 class="serif-heading">Select projects</h2>
+      </div> #}
+      <div class="wrapper grid-wrapper">
+        <div class="grid-item">
           <h2><span class="visually-hidden">Projects completed at the</span>GOV.UK</h2>
         </div>
         <div class="grid-item">
@@ -34,7 +56,7 @@
             items: [
               {
                 heading: 'Teaching Vacancies (Coming soon)',
-                desc: 'A job board for teaching, school leadership and education support jobs in England',
+                desc: 'Helping people find teaching, school leadership and education support jobs in England',
                 details: 'Digital service delivery, Interaction design',
                 imagePath: 'teaching-vacancies.png'
               },
