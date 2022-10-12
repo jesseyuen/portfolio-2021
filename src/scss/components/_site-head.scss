@@ -24,8 +24,8 @@
         position: relative;
         text-decoration: none;
         // color: var(--color-mid);
-        color: rgba(var(--color-text-default2), 0.6);
-        padding: 10px 20px;
+        color: var(--color-text-default2);
+        padding: 10px;
     }
 
     a[aria-current="page"] {
@@ -49,7 +49,7 @@
 
     .site-header__site-name {
         padding: 20px 0 0 0;
-        color: var(--color-text-default);
+        color: var(--color-text-default2);
         font-weight: 700;
     }
 
@@ -80,7 +80,7 @@
         }
 
         a {
-            padding: 20px;
+            padding: 20px 10px;
         }
     }
 
@@ -91,6 +91,12 @@
 
         .site-header__navigation {
             grid-column: 3 / span 4;
+        }
+    }
+
+    @media (max-width: 600px) {
+        .site-header__site-name {
+            margin-bottom: 20px;
         }
     }
 
