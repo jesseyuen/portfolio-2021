@@ -63,18 +63,16 @@ ol[class] {
 /* A elements that don't have a class get default styles */
 a:not([class]) {
     text-decoration-skip-ink: auto;
-    color: #fff;
+    color: var(--color-text-alt2);
     text-decoration-thickness: 1px;
     text-underline-offset: 0.1em;
     text-decoration-thickness: 2px;
     text-underline-offset: 0.1em;
     text-decoration-color: var(--color-highlight);
-    transition: text-decoration var(--duration-quickly);
-    transition: color var(--duration-quickly);
+    transition: text-decoration var(--duration-quickly), color var(--duration-quickly);
 
     &:hover {
-        // color: var(--color-highlight);
-        color: var(--color-text-alt2);
+        color: var(--color-text-default);
         text-decoration-color: var(--color-text-alt2);
     }
 }
