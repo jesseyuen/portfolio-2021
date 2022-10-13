@@ -41,17 +41,19 @@ The product is essentially a CRM for trainee teachers, with user interaction lar
 
 ![An example of the original forms.](/images/exit-information.png "There was no way to know how 'complete' a registration was nor what was left to complete.")
 
-## Co-design for the win
+<!-- ## Co-design for the win
 
 This project had two senior designers. A bit of a treat to be honest, with ongoing opportunity for peer feedback and someone always there to bounce ideas off who knew the project intimately. Seeking and giving feedback are both challenging things to do well, yet get easier with practice and allow for better design. 
 
-Designing collaboratively can be a rewarding experience but requires the people involved to be low on ego, strong in communication and also vulnerable and open to feedback.
+Designing collaboratively can be a rewarding experience but requires the people involved to be low on ego, strong in communication and also vulnerable and open to feedback. -->
 
 ## User centred design
 
-I've not experienced user centered design done as well as it is within government design teams. UCD is respected by stakeholders and forms the core principles of how products are designed. There is no single person responsible for UX on the team and its refreshing! Instead we recognise that user experience is everybody's responsibility. 
+<!-- I've not experienced user centered design done as well as it is within government design teams. UCD is respected by stakeholders and forms the core principles of how products are designed. There is no single person responsible for UX on the team and its refreshing! Instead we recognise that user experience is everybody's responsibility.  -->
 
-The core UCD team is made up of user researchers, content and interaction designers with front end developers often helping to complete the group responsible for *UX,* and by sharing it we remove unintentional bias and bring our own individual experiences and knowledge to the product.
+<!-- The core UCD team is made up of user researchers, content and interaction designers with front end developers often helping to complete the group responsible for *UX,* and by sharing it we remove unintentional bias and bring our own individual experiences and knowledge to the product. -->
+
+Working closely with user researchers on the team meant we could get into a rhythm of regular usability testing sessions, collaborative analysis, insight generation and iterative updates. When building empathy without users, there is no substitute for talking to actual users and observing them use the service. 
 
 User needs define what we prioritise in design and what we ship first.
 
@@ -91,10 +93,6 @@ This pattern addressed the user's need for grouping related tasks and clearly si
 User needed to track multiple trainees over a number of years. Trainee records can exist in multiple states and there was a need to provide a clear classification system and advanced filtering.
 
 ![A screen shot of trainee records screen](/images/filters.png "Advanced filtering allowed our users to maintain large numbers of trainees in various states.")
-
-## Building empathy through user research
-
-Working closely with user researchers on the team meant we could get into a rhythm of regular usability testing sessions, collaborative analysis, insight generation and iterative updates. When building empathy without users, there is no substitute for talking to actual users and observing them use the service. 
 
 ## Documenting design
 
