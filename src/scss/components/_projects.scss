@@ -45,10 +45,11 @@
             text-decoration-thickness: 2px;
             text-underline-offset: 0.1em;
             text-decoration-color: var(--color-highlight);
+            color: var(--color-text-alt2);
         }
 
         a:hover {
-            // color: var(--color-highlight);
+            color: var(--color-text-default);
         }
     }
 
