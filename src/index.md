@@ -5,7 +5,7 @@ archiveButtonText: See all posts
 shortDesc: Civic minded Pragmatic design of products & services for good, not evil*
 blurb: Before you go any further please know I'm designing and building this
   site in the open.
-metaDesc: text here
+metaDesc: Design of products and services
 postsHeading: Latest posts
 socialImage: ""
 ---
