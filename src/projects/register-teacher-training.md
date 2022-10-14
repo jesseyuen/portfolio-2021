@@ -17,14 +17,11 @@ introHeading: ""
 intro: ""
 outroHeading: Outcome
 outro: >-
-  I saw this project from initial prototype design, through the private beta
-  which involved piloting the service with a sample group of live users to
-  public beta where the service was officially public. 
+  The private beta involved piloting the service with a sample group of live users before a public beta where the service was officially live. 
 
-
-  <br><br>In contrast to the legacy product, our service was insignificantly more usable and accessible. A metric we used to measure success was time to create a record. In the original product a record would take up to 20 minutes to create while we observed first time users creating records in 6-7 minutes.
+  <br><br>In contrast to the legacy product, our service was significantly more usable and accessible. Time to create a record was a key metric we used to measure success. In the original product a record would take up to 20 minutes to create while we observed first time users creating records in 6-7 minutes.
 ---
-Register Trainee Teachers does what is says on the tin, register trainees with the Department for Education and record the outcome of their training. Teachers across England will have their progress tracked using this service. 
+Register trainee teachers does what is says on the tin, register trainees with the Department for Education and record the outcome of their training. Teachers across England will have their progress tracked using this service. 
 
 ## Where we started
 
