@@ -1,8 +1,7 @@
 ---
 layout: layouts/project.njk
 title: Subscribe to The Guardian
-blurb: Adventures in leading the redesign of The Guardians online subscription
-  journey.
+blurb: Redesigning of The Guardians online subscription journey.
 permalink: /projects/subscribe/index.html
 roles:
   - itemText: UX design
@@ -12,7 +11,7 @@ employer: The Guardian
 year: "2019"
 leadImage: /images/subscribe.png
 leadImageAlt: A screenshot of The Guardians subscription page
-leadImageCaption: The intention was to increase the visual maturity of the subscription platform.
+leadImageCaption: The intention was to increase the visual maturity of the subscription platform... and make more money!
 outroHeading: Outcome
 outro: Coming soon.
 ---
