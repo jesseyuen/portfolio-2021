@@ -136,7 +136,7 @@ main {
     top: -50%;
     height: 120%;
     background: url(/images/simple-2.svg) no-repeat;
-    background-position: center;
+    background-position: initial;
     background-size: contain;
 
     @media (min-width: 75em) {

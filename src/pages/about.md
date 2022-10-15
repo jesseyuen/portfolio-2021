@@ -1,5 +1,5 @@
 ---
-title: Civic-minded, user-centered and pragmatic.
+title: Civic-minded and user-centered.
 intro: This is the intro
 layout: layouts/about.njk
 permalink: /about/index.html
