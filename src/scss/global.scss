@@ -104,12 +104,12 @@ p:empty {
 main {
     position: relative;
     padding: 0 0 var(--spacing-xxx-large) 0;
-    overflow: hidden;
+    // overflow: hidden;
 }
 
 .svg-head {
     position: absolute;
-    bottom: -10px;
+    bottom: -8px;
     right: 30px;
     width: 100px;
     height: auto;
