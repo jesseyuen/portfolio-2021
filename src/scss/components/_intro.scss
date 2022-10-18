@@ -53,6 +53,7 @@
         &__blurb {
             padding-right: 45px;
         }
+
     }
 
     @media (max-width: 1200px) {
@@ -159,6 +160,11 @@
     @media (min-width: 37.5em) {
         .about-intro {
             padding: var(--spacing-xxx-large) 0;
+
+            h2 {
+                position: sticky;
+                top: calc(var(--spacing-x-large) + 70px);
+            }
         }
     }
 }

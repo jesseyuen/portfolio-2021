@@ -50,9 +50,9 @@ Designing collaboratively can be a rewarding experience but requires the people 
 
 <!-- The core UCD team is made up of user researchers, content and interaction designers with front end developers often helping to complete the group responsible for *UX,* and by sharing it we remove unintentional bias and bring our own individual experiences and knowledge to the product. -->
 
-Working closely with user researchers on the team meant we could get into a rhythm of regular usability testing sessions, collaborative analysis, insight generation and iterative updates. When building empathy without users, there is no substitute for talking to actual users and observing them use the service. 
+Working closely with user researchers on the team meant we could get into a rhythm of regular usability testing sessions, collaborative analysis, insight generation and iterative updates.
 
-User needs define what we prioritise in design and what we ship first.
+User needs define what we prioritise in design and what we ship first and there is no substitute for talking to actual users and observing them using the service. 
 
 ![A screenshot with post it notes from user research attached.](/images/ucd.png "UX is a team sport! After rounds of usability testing the UCD team analysed research data together, ensuring we all have a common understanding of the data and next steps.  ")
 
