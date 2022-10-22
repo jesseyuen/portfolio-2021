@@ -115,12 +115,14 @@ main {
     height: auto;
 }
 
-.simple-outer {
+.simple-outer,
+.good-outer {
     overflow: visible;
     position: relative;
 }
 
-.simple-inner {
+.simple-inner,
+.good-inner {
     position: relative;
     z-index: 2;
 }
@@ -141,6 +143,24 @@ main {
 
     @media (min-width: 75em) {
         top: -30%;
+    }
+}
+
+.good-bg {
+    z-index: 1;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    // width: 140%;
+    bottom: 0%;
+    height: 120%;
+    background: url(/images/underline.svg) no-repeat bottom;
+    background-size: contain;
+
+    @media (min-width: 75em) {
+        // top: -30%;
     }
 }
 
