@@ -1,18 +1,11 @@
 ---
-layout: layouts/page2.njk
-title: Tread warily!
-archiveButtonText: See all posts
-shortDesc: Civic minded Pragmatic design of products & services for good, not evil*
-blurb: Before you go any further please know I'm designing and building this
-  site in the open.
-metaDesc: Design of products and services
-postsHeading: Latest posts
-socialImage: ""
+title: Designing for good, not evil.
+intro: This is the intro
+layout: layouts/about.njk
 ---
-Why? Because I want to to share it with you, and if I wait until I'm finished you'll never see it! 
 
-I'm in the process of adding and updating work and messing about. Yesterday this site was black, now it's green. Tomorrow I might add some squiggles here and there.
+I’m civic-minded and passionate about inclusive design, equity and exploring the intersection of community and technology.
 
-In the spirit of iterative design, tread warily my friend and don't mind the typos, bugs, less polished bits and accessibility issues.
+<!-- I have more than 15 years experience designing and developing digital services and products. -->
 
-In the meantime, learn more [about me](about) or view [selected projects](projects).
+I'm currently Head of Product Design at [Hireup](https://www.hireup.com.au), and have previously worked for tech and user centred design consultancy [Made Tech](https://www.madetech.com/), sprawling organisations such as [The Guardian](https://www.theguardian.com/uk) and the [Department for Education](https://www.gov.uk/government/organisations/department-for-education), world class digital agency [Humaan](http://humaan.com/) and freelanced for lovely little places like [Stuff and Nonsense](https://stuffandnonsense.co.uk/) and [Studio Papa](https://studiopapa.com.au/).

@@ -1,7 +1,5 @@
 {% extends 'layouts/base.njk' %}
 
-{# Custom macros #}
-
 {# Intro content #}
 {% set introHeading = title %}
 {% set activeNav = "about" %}
@@ -13,8 +11,8 @@
     <section class="intro">
         <div class="wrapper grid-wrapper">
             <div class="grid-item">
-                <h1 class="intro__heading">Designing for <span class="good-outer"><span class="good-inner">good</span><span class="good-bg"></span></span>, not evil.</h1>
-                </div>
+              <h1 class="intro__heading">Designing for <span class="good-outer"><span class="good-inner">good</span><span class="good-bg"></span></span>, not evil.</h1>
+            </div>
         </div>
     </section>
     <section class="about-intro">
@@ -22,6 +20,16 @@
             <div class="grid-item"><h2>Hello</h2></div>
             <div class="page-intro grid-item">
                 {{ content | safe }}
+            </div>
+        </div>
+    </section>
+    <section class="about-intro">
+        <div class="wrapper grid-wrapper">
+            <div class="grid-item"><h2>Tread warily!</h2></div>
+            <div class="page-intro grid-item">
+                <p>I'm building this site in the open, and am in the process of tinkering with a blog section and messing about here and there with layouts.</p>
+
+                <p>In the spirit of iterative design, tread warily my friend and don't mind the typos, bugs, less polished bits and accessibility issues.</p>
             </div>
         </div>
     </section>
@@ -33,6 +41,7 @@
         <div class="grid-item">
           <ul>
             <li>Embed user centred design capability in teams</li>
+            <li>Product strategy</li>
             <li>Train, mentor and coach others</li>
             <li>Empower those around me</li>
             <li>Care about other designers and the experience they have at work</li>
@@ -45,9 +54,8 @@
             <li>Build inclusive and robust frontend for websites and web apps</li>
             <li>Contribute to user research</li>
             <li>Advocate for accessibility</li>
-            <li>Work within agile teams</li>
+            {# <li>Work within agile teams</li> #}
             <li>Work closely with engineers, product and stakeholders</li>
-            <li>Something about strategy?</li>
           </ul>
         </div>
       </div>
