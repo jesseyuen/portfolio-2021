@@ -70,7 +70,7 @@ collections:
   - name: "Thoughts"
     label: "Thoughts"
     folder: "src/thoughts"
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: "thoughts/{{slug}}"
     create: true
     fields:
