@@ -1,6 +1,7 @@
 ---
 title: A simple post test
 date: 2019-06-18
+layout: layouts/post.njk
 tags:
   - demo-content
   - simple-post

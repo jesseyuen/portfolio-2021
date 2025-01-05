@@ -67,7 +67,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Outro heading", name: "outroHeading", widget: "string",required: false}
       - {label: "Outro", name: "outro", widget: "text", required: false}
-  - name: "Thoughts"
+  - name: "postListItems"
     label: "Thoughts"
     folder: "src/thoughts"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"

@@ -1,5 +1,12 @@
 {% extends 'layouts/base.njk' %}
 
+---
+layout: layout.njk
+---
+
+{# Intro content #}
+{% set activeNav = "thoughts" %}
+
 {# Intro content #}
 {% set introHeading = title %}
 {% set introSummary %}
@@ -12,6 +19,70 @@
 {% endset %}
 
 {% block content %}
+  <main id="main-content" class="project">
+    <section class="intro">
+      <div class="wrapper grid-wrapper">
+        <div class="grid-item">
+          <h1 class="intro__heading">{{ introHeading }}</h1>
+        </div>
+        <p class="intro__blurb">{{ blurb }}</p>
+      </div>
+    </section>
+    <article>
+      <div class="wrapper grid-wrapper grid-wrapper--reverse project__body">
+        <div class="grid-item project__meta">
+          <div class="project__meta-inner">
+            <div>
+              <h3>{{employer}}</h3>
+              <p>{{year}}</p>
+              <a href="/"><span>View more work</span></a>
+            </div>
+            <div>
+              {% if roles %}
+                {# <h2>Role</h2> #}
+                <ul>
+                  {% for item in roles %}
+                    <li>{{item.itemText}}</li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        <div class="project__content-wrapper grid-item">
+          {# {% if leadImage %}
+            <div class="intro__image">
+              <figure>
+                <img src="{{leadImage}}" alt="{{leadImage}}">
+                <figcaption>{{leadImageCaption}}</figcaption>
+              </figure>
+            </div>
+          {% endif %} #}
+          <div class="grid-item project__content">
+            {# {% if intro %}
+              <section class="project-summary">
+                <h2>{{ introHeading | safe }}</h2>
+                <p>{{ intro | safe }}</p>
+              </section>
+            {% endif %} #}
+            {{ content | safe }}
+            {# {% if outro %}
+              <section class="project-summary">
+                <h2>{{ outroHeading | safe }}</h2>
+                <p>{{ outro | safe }}</p>
+              </section>
+            {% endif %} #}
+          </div>
+        </div>
+      </div>
+      <div class="wrapper grid-wrapper grid-wrapper--reverse project__body">
+        
+      </div>
+    </article>
+  </main>
+{% endblock %}
+
+{# {% block content %}
   <main id="main-content">
     <article class="">
       
@@ -52,6 +123,6 @@
       {% endif %}
     </article>
   </main>
-{% endblock %}
+{% endblock %} #}
 
-{{ content | safe }}
+{# {{ content | safe }} #}
