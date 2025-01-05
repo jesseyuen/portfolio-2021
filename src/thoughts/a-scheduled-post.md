@@ -1,4 +1,5 @@
 ---
+layout: layouts/post.njk
 title: A scheduled post
 date: '2022-06-18'
 tags:
