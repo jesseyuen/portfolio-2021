@@ -1,14 +1,13 @@
 {% if postListItems.length %}
   <section class="">
     <div class="">
-      <h2 class="">{{ postListHeading }}</h2>
       <ol class="" reversed>
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
             <li class="">
-              <h3 class="">
+              <h2 class="">
                 <a href="{{ item.url }}" class="" rel="bookmark">{{ item.data.title }}</a>
-              </h3>
+              </h2>
               <p class="">
                 <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
               </p>

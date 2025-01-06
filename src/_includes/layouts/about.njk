@@ -1,9 +1,7 @@
 {% extends 'layouts/base.njk' %}
 
-{# Intro content #}
 {% set introHeading = title %}
 {% set activeNav = "about" %}
-{# {% set blurb = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam velit mauris, fringilla ac nunc eget, mattis iaculis magna." %} #}
 
 {% block content %}
   <main id="main-content" class="about">
@@ -17,19 +15,19 @@
     </section>
     <section class="about-intro">
         <div class="wrapper grid-wrapper">
-            <div class="grid-item"><h2>Hello</h2></div>
-            <div class="page-intro grid-item">
-                {{ content | safe }}
-            </div>
-        </div>
-    </section>
-    <section class="about-intro">
-        <div class="wrapper grid-wrapper">
             <div class="grid-item"><h2>Tread warily!</h2></div>
             <div class="page-intro grid-item">
                 <p>I'm building this site in the open, and am in the process of tinkering with a blog section and messing about here and there with layouts.</p>
 
                 <p>In the spirit of iterative design, tread warily my friend and don't mind the typos, bugs, less polished bits and accessibility issues.</p>
+            </div>
+        </div>
+    </section>
+    <section class="about-intro">
+        <div class="wrapper grid-wrapper">
+            <div class="grid-item"><h2>Hello</h2></div>
+            <div class="page-intro grid-item">
+                {{ content | safe }}
             </div>
         </div>
     </section>
@@ -53,9 +51,11 @@
             <li>Design, build and maintain component libraries/design system thingos</li>
             <li>Build inclusive and robust frontend for websites and web apps</li>
             <li>Contribute to user research</li>
-            <li>Advocate for accessibility</li>
+            <li>Web accessibility advocavy, education, audits and testing</li>
+            <li>Someting or other</li>
+            <li>Blah blah blaaaah</li>
             {# <li>Work within agile teams</li> #}
-            <li>Work closely with engineers, product and stakeholders</li>
+            {# <li>Work closely with engineers, product and stakeholders</li> #}
           </ul>
         </div>
       </div>
@@ -77,7 +77,7 @@
             </li>
             <li>
               <strong>Pragmatic</strong>
-              Working iteratively and sensibly within a product team requires a pragmatic approach. I aim to ship at pace but also fix things along the way.
+                 iteratively and sensibly within a product team requires a pragmatic approach. I aim to ship at pace but also fix things along the way.
             </li>
             <li>
               <strong>Team focused</strong>

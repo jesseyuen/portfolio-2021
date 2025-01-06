@@ -1,9 +1,5 @@
 {% extends 'layouts/base.njk' %}
 
----
-layout: layout.njk
----
-
 {# Intro content #}
 {% set activeNav = "thoughts" %}
 
@@ -23,9 +19,17 @@ layout: layout.njk
     <section class="intro">
       <div class="wrapper grid-wrapper">
         <div class="grid-item">
-          <h1 class="intro__heading">{{ introHeading }}</h1>
+          <h1 class="intro__heading">{{ introHeading }}</h1>   
         </div>
-        <p class="intro__blurb">{{ blurb }}</p>
+        <p class="intro__blurb">
+          {# {% if postListItems.length %} #}
+          {% for item in postListItems %}
+          {% if item.date.getTime() <= global.now %}
+            <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
+           {% endif %}
+           {% endfor %}
+           {# {% endif %} #}
+        </p>
       </div>
     </section>
     <article>
@@ -59,20 +63,26 @@ layout: layout.njk
             </div>
           {% endif %} #}
           <div class="grid-item project__content">
-            {# {% if intro %}
-              <section class="project-summary">
-                <h2>{{ introHeading | safe }}</h2>
-                <p>{{ intro | safe }}</p>
-              </section>
-            {% endif %} #}
+
             {{ content | safe }}
-            {# {% if outro %}
-              <section class="project-summary">
-                <h2>{{ outroHeading | safe }}</h2>
-                <p>{{ outro | safe }}</p>
-              </section>
-            {% endif %} #}
+
+            <div class="post__footer">
+              {% if tags %}
+              <h3 class="">Tags</h3>
+              <ul class="">
+                {% for item in tags %}
+                  <li class="nav__item">
+                    <a href="/tags/{{ item }}">{{ item }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+              {% endif %}
+            </div>
+
           </div>
+
+          
+
         </div>
       </div>
       <div class="wrapper grid-wrapper grid-wrapper--reverse project__body">
