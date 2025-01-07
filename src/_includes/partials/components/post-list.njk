@@ -1,16 +1,17 @@
 {% if postListItems.length %}
-  <section class="">
+  <section class="thoughts__post-list">
     <div class="">
       <ol class="" reversed>
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
             <li class="">
-              <h2 class="">
+              <h3 class="">
                 <a href="{{ item.url }}" class="" rel="bookmark">{{ item.data.title }}</a>
-              </h2>
+              </h3>
               <p class="">
                 <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
               </p>
+              {# todo: add tags here #}
             </li>
           {% endif %}
         {% endfor %}

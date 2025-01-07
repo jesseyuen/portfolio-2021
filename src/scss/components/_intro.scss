@@ -15,6 +15,7 @@
         line-height: 1;
         font-weight: 700;
 
+        .thoughts &,
         .about &,
         .page2 &,
         .home & {
@@ -71,6 +72,7 @@
 
 }
 
+.thoughts,
 .about,
 .page2,
 .home {
@@ -149,6 +151,74 @@
     .page-intro.grid-item {
         grid-column: 2 / span 4;
         // padding: 0 0 var(--spacing-xxxx-large);
+    }
+
+    @media (max-width: 1200px) {
+        .page-intro.grid-item {
+            grid-column: 1 / span 5;
+        }
+    }
+
+    @media (min-width: 37.5em) {
+        .about-intro {
+            padding: var(--spacing-xxx-large) 0;
+
+            h2 {
+                position: sticky;
+                top: calc(var(--spacing-x-large) + 70px);
+            }
+        }
+    }
+}
+
+.thoughts {
+
+    h2 {
+        margin-bottom: var(--spacing-medium);
+    }
+
+    p+p {
+        margin-top: var(--spacing-medium);
+    }
+
+    p+h2 {
+        margin-top: var(--spacing-large);
+    }
+
+    .thoughts-intro {
+        box-shadow: 0 -1px 0 0 var(--color-border);
+        padding: var(--spacing-x-large) 0;
+    }
+
+    .page-intro.grid-item {
+        grid-column: 2 / span 4;
+    }
+
+    &__post-list {
+       li + li {
+        margin-top: var(--spacing-x-large);
+       }
+
+       h3 {
+            display: block;
+            margin: 0 0 var(--spacing-small) 0;
+            line-height: 1.2;
+            font-size: var(--font-size-x-large);
+            font-family: var(--font-family-serif);
+            font-weight: bold;
+
+            a {
+                text-decoration: underline;
+                text-decoration-thickness: 2px;
+                text-underline-offset: 0.1em;
+                text-decoration-color: var(--color-highlight);
+                color: var(--color-text-alt2);
+            }
+
+            a:hover {
+                color: var(--color-text-default);
+            }
+        }
     }
 
     @media (max-width: 1200px) {
