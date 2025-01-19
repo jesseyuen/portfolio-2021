@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: A tribute to Vicky Teinaki (and a new beginning)
 date: 2025-01-19T09:44:54.799Z
 ---
-[Vicky](https://www.vickyteinaki.com/) and I never talked, nor did we ever meet face to face. We messaged back a forth a few times, and might have liked or commented on each other’s posts over the years too. It’s safe to say we barely knew each other, but I’m feeling the loss after last night, learning that she has passed away.
+[Vicky](https://www.vickyteinaki.com/) and I never talked, nor did we ever meet face to face. We messaged back and forth once or twice, and might have liked or commented on each other’s posts over the years too. It’s safe to say we barely knew each other, but I’m feeling the loss after last night, learning that she has passed away.
 
 I’ve always been awestruck by Vicky’s omnipresence in our corner of the internet where the digital government, inclusive design and accessibility communities dwell. Her writing and commentary was beyond informative, always inspiring and consistently bang-on. 
 
