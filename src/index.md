@@ -8,4 +8,6 @@ I’m civic-minded and passionate about inclusive design, equity and exploring t
 
 <!-- I have more than 15 years experience designing and developing digital services and products. -->
 
-Currently Head of Product Design at [Hireup](https://www.hireup.com.au), over the last 15 years I have also worked for [big](https://www.theguardian.com/uk), [sprawling organisations](https://www.gov.uk/government/organisations/department-for-education), [consultancies](https://www.madetech.com/), [top notch agencies](http://humaan.com/) and freelanced for [lovely](https://studiopapa.com.au/) [little places](https://stuffandnonsense.co.uk/) too.
+Currently Head of Product Design at [Hireup](https://www.hireup.com.au), over the last 15 years I have worked for [big](https://www.theguardian.com/uk), [sprawling organisations](https://www.gov.uk/government/organisations/department-for-education), [consultancies](https://www.madetech.com/), [top notch agencies](http://humaan.com/) and freelanced for [lovely](https://studiopapa.com.au/) [little places](https://stuffandnonsense.co.uk/) too.
+
+<!-- When not at work you mihgt cathcI also volunteer at community radio stations and helping judge the Austalian web awards. -->
