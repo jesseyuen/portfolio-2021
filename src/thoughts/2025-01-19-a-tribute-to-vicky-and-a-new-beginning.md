@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: A tribute to Vicky (and a new beginning)
+title: A tribute to Vicky Teinaki (and a new beginning)
 date: 2025-01-19T09:44:54.799Z
 ---
 [Vicky](https://www.vickyteinaki.com/) and I never talked, nor did we ever meet face to face. We messaged back a forth a few times, and sometimes liked and commented on each other’s posts. It’s safe to say we barely knew each other, but I’m feeling the loss after last night, learning that she has passed away.
