@@ -3,8 +3,6 @@ layout: layouts/post.njk
 title: A tribute to Vicky (and a new beginning)
 date: 2025-01-19T09:44:54.799Z
 ---
-**A tribute to Vicky and new beginnings**
-
 [Vicky](https://www.vickyteinaki.com/) and I never talked, nor did we ever meet face to face. We messaged back a forth a few times, and sometimes liked and commented on each other’s posts. It’s safe to say we barely knew each other, but I’m feeling the loss after last night, learning that she has passed away.
 
 I’ve always been awestruck by Vicky’s omnipresence in the corner of the internet where digital gov, inclusive design and accessibility communities dwell. Her writing and commentary was beyond informative, always inspiring and consistently bang-on. 
