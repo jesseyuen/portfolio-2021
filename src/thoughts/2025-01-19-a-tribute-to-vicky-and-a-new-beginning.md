@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: A tribute to Vicky Teinaki (and a new beginning)
+title: "Tributes and beginnings "
 date: 2025-01-19T09:44:54.799Z
 ---
 [Vicky](https://www.vickyteinaki.com/) and I never talked, nor did we ever meet face to face. We messaged back and forth once or twice, and might have liked or commented on each other’s posts over the years too. It’s safe to say we barely knew each other, but I’m feeling the loss after last night, learning that she has passed away.
@@ -15,7 +15,7 @@ Most recently, these three articles are ones I’ve poured over, returned to oft
 
 Her post, [Metaphors we stick by,](https://medium.com/gov-design/metaphors-we-sticker-by-4e4ecdbf8d64) is one I revisit every time I join a team who needs some support in forming a healthy identity and culture (which is pretty much every team I've joined since reading this article way back when) and have used the workshop outlined in that post countless times.
 
-I often read [Vicky’s week notes](https://medium.vickyteinaki.com/list/weeknotes-b51e1736a091), as well as those of former colleagues (who are inspiring in their own right) like [Frankie](https://frankieroberto.github.io/nhsnotes/)[](https://frankieroberto.github.io/nhsnotes/%5D%20and%20%5BBenjy) and [Benjy](https://www.benjystanton.co.uk/blog/). I’ve aspired to adopt this practice and do the same; promote transparency, work in the open, share what I learn, document and reflect on the passing weeks, months and years doing my craft, through regular writing.
+I often read [Vicky’s week notes](https://medium.vickyteinaki.com/list/weeknotes-b51e1736a091), as well as those of former colleagues (who are inspiring in their own right) like [Frankie](https://frankieroberto.github.io/nhsnotes/)[](https://frankieroberto.github.io/nhsnotes/%5D%20and%20%5BBenjy) and [Benjy](https://www.benjystanton.co.uk/blog/). I’ve aspired to adopt this practice and do the same; promote transparency, work in the open, share what I learn, acknowledge when I fail, document and reflect on the passing weeks, months and years while doing my craft, through regular writing.
 
 Last night, after I heard the news of Vicky passing, and after reading many moving tributes online, I rolled up my sleeves and finished setting up this blog. A side-quest I’ve been putting off for far too long now. I’m still tinkering away but it works well enough to share this post.
 
