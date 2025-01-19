@@ -13,9 +13,9 @@ Most recently, these three articles are ones I’ve poured over, returned to oft
 * [Design and uncertainty](https://www.vickyteinaki.com/blog/design-and-uncertainty/)
 * [Responsible Interaction Design](https://www.vickyteinaki.com/blog/responsible-interaction-design)
 
-Her post, [Metaphors we stick by,](https://medium.com/gov-design/metaphors-we-sticker-by-4e4ecdbf8d64) is one I revisit every time I join a team who needs some support in forming a healthy identity and culture (which is pretty much every team I've joined since reading this article way back when) and have used the workshop outlined in that post countless times.
+Her post, [Metaphors we stick by](https://medium.com/gov-design/metaphors-we-sticker-by-4e4ecdbf8d64), is one I revisit every time I join a team who needed some support in nurturing a healthier identity and culture (which is pretty much every team I've joined since reading this article way back when), and have used the workshop outlined in that post countless times. 
 
-I often read [Vicky’s week notes](https://medium.vickyteinaki.com/list/weeknotes-b51e1736a091), and I’ve aspired to adopt this practice and do the same; promote transparency, work in the open, share what I learn, acknowledge when I fail, document and reflect on my craft through regular writing, over the passing weeks, months and years.
+I often read [Vicky’s week notes](https://medium.vickyteinaki.com/list/weeknotes-b51e1736a091), and I’ve aspired to adopt this practice and do the same; promote transparency, work in the open, share what I learn, acknowledge when I fail, document and reflect on my craft over the passing weeks, months and years.
 
 Last night, after learning that Vicky had passed and after reading many moving tributes online, I rolled up my sleeves and finished setting up this blog. A side-quest I’ve been putting off for far too long now. I’m still tinkering away but it works well enough to share this post with you.
 
