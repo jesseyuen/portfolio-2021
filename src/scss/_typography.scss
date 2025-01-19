@@ -45,7 +45,7 @@ a {
     text-decoration-thickness: 1px;
     text-underline-offset: 0.1em;
 
-    &:focus {
+    &:hover {
         outline: 3px solid transparent;
         color: var(--color-text-default) !important;
         background-color: var(--color-highlight);
