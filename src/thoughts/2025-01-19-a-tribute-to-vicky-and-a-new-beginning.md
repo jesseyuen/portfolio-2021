@@ -19,6 +19,6 @@ I often read [Vicky’s week notes](https://medium.vickyteinaki.com/list/weeknot
 
 Last night, after learning that Vicky had passed and after reading many moving tributes online, I rolled up my sleeves and finished setting up this blog. A side-quest I’ve been putting off for far too long now. I’m still tinkering away but it works well enough to share this post with you.
 
-I don’t yet know what will come of this blog, nor how often I will post, but I will share what I write as and when I do.
+I don’t yet know what will come of this blog, or how often I will post, but I promise to share what I write as and when I do it.
 
 Thank you Vicky, for everything you taught us.
