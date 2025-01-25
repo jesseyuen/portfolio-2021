@@ -7,7 +7,7 @@ date: 2025-01-25T00:57:13.483Z
 
 I've pulled my finger out and am taking the time to level-up on AI, with a current focus on designing human-centric AI experiences. Here are some new terms and concepts I've come across this morning:
 
-### **Levels of Automation of Decision and Action Selection**
+### **Levels of automation of decision and action selection**
 
 In 1978, Bill Verplank and Thomas Sheridan (human factors and systems engineering researchers) were talking about how automation is not ‘all or nothing’, that is, automation is not only a matter of either automating a task entirely or not, but to decide on the extent of automating it. There are 10 levels of levels of automation of decision and action selection.
 
