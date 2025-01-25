@@ -5,7 +5,7 @@ date: 2025-01-25T00:57:13.483Z
 ---
 ## Learning
 
-I've pulled my finger out and am taking the time to level-up on AI, currently with a specific lens of designing human-centric AI experiences. Some new terms and concepts I've learned this morning:
+I've pulled my finger out and am taking the time to level-up on AI, with a current focus on designing human-centric AI experiences. Here ate some new terms and concepts I've come across this morning:
 
 ### **Levels of Automation of Decision and Action Selection**
 
@@ -53,10 +53,10 @@ In 1978, Bill Verplank and Thomas Sheridan (human factors and systems engineerin
 
 ### Related reading
 
-* <https://www.uxai.design/> - Introduction to Explainable AI for designers
-* <https://pair.withgoogle.com/guidebook> - A set of methods, best practices and examples for designing with AI
-* <https://www.ibm.com/design/ai/> - A shared collection of ethics, guidelines, and resources ensures that IBM products share a unified foundation
-* <https://www.microsoft.com/en-us/haxtoolkit/> - The HAX Toolkit is for teams building user-facing AI products. It helps you conceptualise what the AI system will do and how it will behave. Use it early in your design process.
+* [](https://www.uxai.design/)[Introduction to Explainable AI for designers](https://www.uxai.design/)
+* [People + AI Guidebook ](https://pair.withgoogle.com/guidebook)- A set of methods, best practices and examples for designing with AI
+* [HAX Toolkit](https://www.microsoft.com/en-us/haxtoolkit)  - A toolkit for teams building user-facing AI products. It helps you conceptualise what the AI system will do and how it will behave. Use it early in your design process.
+* [Beyond Chatbots and Prompts: User-Centric AI Experiences](https://medium.com/@corinneschillizzi/beyond-chatbots-and-prompts-user-centric-ai-experiences-08163cf20915)
 
 ## The Ionosphere
 
