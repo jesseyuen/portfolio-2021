@@ -5,7 +5,7 @@ date: 2025-01-25T00:57:13.483Z
 ---
 ## Learning
 
-This week I continued digging into designing human-centric AI experiences. Here are some terms and concepts I've come across.
+This week I continued digging into designing for human-centric AI experiences. Here are some terms and concepts I've come across latley. 
 
 ### **Levels of automation of decision and action selection**
 
@@ -52,16 +52,17 @@ In 1978, Bill Verplank and Thomas Sheridan (human factors and systems engineerin
 ### Related reading
 
 * [](https://www.uxai.design/)[Introduction to Explainable AI for designers](https://www.uxai.design/)
-* [People + AI Guidebook ](https://pair.withgoogle.com/guidebook)- A set of methods, best practices and examples for designing with AI
-* [HAX Toolkit](https://www.microsoft.com/en-us/haxtoolkit)  - A toolkit for teams building user-facing AI products. It helps you conceptualise what the AI system will do and how it will behave. Use it early in your design process.
+* [People + AI Guidebook ](https://pair.withgoogle.com/guidebook)- A set of methods, best practices and examples for designing with AI (Google)
+* [HAX Toolkit](https://www.microsoft.com/en-us/haxtoolkit)  - A toolkit for teams building user-facing AI products. It helps you conceptualise what the AI system will do and how it will behave. Use it early in your design process. (Microsoft)
+* [AI-human interaction](https://design.gitlab.com/usability/ai-human-interaction/) - Guidlines and framework for using AI (Gitlab)
 * [Beyond Chatbots and Prompts: User-Centric AI Experience](https://medium.com/@corinneschillizzi/beyond-chatbots-and-prompts-user-centric-ai-experiences-08163cf20915)
 * [The Interface Illusion](https://imcatnoone.substack.com/p/the-interface-illusion)
 
 ## The Ionosphere
 
-In 2024 [](https://www.instagram.com/peteonedeck/)[One Deck Pete](https://www.instagram.com/peteonedeck/) and I started a new radio project, Downbeat on Shortwave. I recorded a 15 minute mix, then sent it to Pete. In a call and response fashion, he recorded a 15 minute reply, sent it back to me and so forth. Kind of like mix-tape pen pals, sharing music between London and Perth. It took us a year to assemble a 60min episode. Hopefully we manage another one in 2025!
+At the opposite end of the technology spectrum is [shortwave radio](https://en.wikipedia.org/wiki/Shortwave_radio).
 
-![Downbeat on Shortwave](/images/downbeat-on-shortwave3.jpg "DJ Frederick and Imaginary Stations broadcast Downbeat on Shortwave last weekend via the transmitters of  Shortwave Gold. ")
+In early 2024 [](https://www.instagram.com/peteonedeck/)[One Deck Pete](https://www.instagram.com/peteonedeck/) and I started a new radio project, Downbeat on Shortwave. I recorded a 15 minute mix, then sent it to Pete. In a call and response fashion, he recorded a 15 minute reply, sent it back to me and so forth. Kind of like mix-tape pen pals, sharing music between London and Perth. It took us a year to assemble a 60min episode. Hopefully we manage another one in 2025!
 
 ![Down beat on Shortwave tracklisting](/images/downbeat-on-shortwave3_tracklistings-2.jpg "Track listing for our first mix. ")
 
