@@ -65,8 +65,6 @@ In 2024 [](https://www.instagram.com/peteonedeck/)[One Deck Pete](https://www.i
 
 ![Down beat on Shortwave tracklisting](/images/downbeat-on-shortwave3_tracklistings-2.jpg "Track listing for our first mix. ")
 
-\
-\
 A little different to average internet radio show, this broadcast is going to be sent to the ionosphere, then rebounded back to earth via Shortwave Gold, a shortwave radio station based in Germany that broadcasts across Europe and beyond depending on the weather, solar conditions and the time of day where you listen.
 
 Listen back to the clean studio mix and the shortwave radio, "via the ionosphere" mix on [Pete's blog](https://weedsuptomeknees.uk/2025/01/23/limited-copies-come-with-an-extra-via-the-ionosphere-mix/).
