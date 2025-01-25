@@ -5,9 +5,9 @@ date: 2025-01-25T00:57:13.483Z
 ---
 ## Learning
 
-I've pulled my finger out and am taking the time to level-up on AI, with a current focus on designing human-centric AI experiences. Here ate some new terms and concepts I've come across this morning:
+I've pulled my finger out and am taking the time to level-up on AI, with a current focus on designing human-centric AI experiences. Here are some new terms and concepts I've come across this morning:
 
-### **Levels of Automation of Decision and Action Selection**
+### **Levels of automation of decision and action selection**
 
 In 1978, Bill Verplank and Thomas Sheridan (human factors and systems engineering researchers) were talking about how automation is not ‘all or nothing’, that is, automation is not only a matter of either automating a task entirely or not, but to decide on the extent of automating it. There are 10 levels of levels of automation of decision and action selection.
 
@@ -60,7 +60,7 @@ In 1978, Bill Verplank and Thomas Sheridan (human factors and systems engineerin
 
 ## The Ionosphere
 
-In 2024 [@peteonedeck](https://www.instagram.com/peteonedeck/) and I kicked off a new radio project, Downbeat on Shortwave. I recorded a 15 minute mix, then sent it to Pete. In a call and response fashion, he recorded a 15 minute reply, sent it back to me and so forth. Kind of like mix-tape pen pals. It took us a year to assemble a 60min episode. Hopefully we manage another one in 2025!\
+In 2024 [](https://www.instagram.com/peteonedeck/)[One Deck Pete](https://www.instagram.com/peteonedeck/) and I started a new radio project, Downbeat on Shortwave. I recorded a 15 minute mix, then sent it to Pete. In a call and response fashion, he recorded a 15 minute reply, sent it back to me and so forth. Kind of like mix-tape pen pals, sharing music between London and Perth. It took us a year to assemble a 60min episode. Hopefully we manage another one in 2025!\
 \
 A little different to average internet radio show, this broadcast is going to be sent to the ionosphere, then rebounded back to earth via Shortwave Gold, a shortwave radio station based in Germany that broadcasts across Europe and beyond depending on the weather, solar conditions and the time of day where you listen.
 
