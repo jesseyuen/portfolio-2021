@@ -5,7 +5,7 @@ date: 2025-01-25T00:57:13.483Z
 ---
 ## Learning
 
-I've pulled my finger out and am taking the time to level-up on AI, with a current focus on designing human-centric AI experiences. Here are some new terms and concepts I've come across this morning:
+I've pulled my finger out and am taking the time to level-up on AI, with a current focus on designing human-centric AI experiences. Here are some new terms and concepts I've come across this week:
 
 ### **Levels of automation of decision and action selection**
 
