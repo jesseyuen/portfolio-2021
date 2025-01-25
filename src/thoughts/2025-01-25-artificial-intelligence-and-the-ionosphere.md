@@ -15,9 +15,7 @@ In 1978, Bill Verplank and Thomas Sheridan (human factors and systems engineerin
 >
 > Level 1: The computer offers no assistance, and humans make all decisions and actions. There is no AI used in this step.
 >
-> Level 2: The AI offers a complete set of alternatives for decisions/actions. You can see this with Google
->
-> Search, where the AI provides a choice of results.
+> Level 2: The AI offers a complete set of alternatives for decisions/actions. You can see this with Google Search, where the AI provides a choice of results.
 >
 > The AI narrows down the selection to a few alternatives. Netflix does this by showing you a personalized set of relevant movies.
 >
@@ -56,7 +54,8 @@ In 1978, Bill Verplank and Thomas Sheridan (human factors and systems engineerin
 * [](https://www.uxai.design/)[Introduction to Explainable AI for designers](https://www.uxai.design/)
 * [People + AI Guidebook ](https://pair.withgoogle.com/guidebook)- A set of methods, best practices and examples for designing with AI
 * [HAX Toolkit](https://www.microsoft.com/en-us/haxtoolkit)  - A toolkit for teams building user-facing AI products. It helps you conceptualise what the AI system will do and how it will behave. Use it early in your design process.
-* [Beyond Chatbots and Prompts: User-Centric AI Experiences](https://medium.com/@corinneschillizzi/beyond-chatbots-and-prompts-user-centric-ai-experiences-08163cf20915)
+* [Beyond Chatbots and Prompts: User-Centric AI Experience](https://medium.com/@corinneschillizzi/beyond-chatbots-and-prompts-user-centric-ai-experiences-08163cf20915)
+* [The Interface Illusion](https://imcatnoone.substack.com/p/the-interface-illusion)
 
 ## The Ionosphere
 
