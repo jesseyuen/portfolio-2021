@@ -49,7 +49,7 @@ In 1978, Bill Verplank and Thomas Sheridan (human factors and systems engineerin
 >
 > Source: [Cat Noone](https://imcatnoone.substack.com/p/the-interface-illusion)
 
-### Related reading
+### Bookmarks
 
 * [](https://www.uxai.design/)[Introduction to Explainable AI for designers](https://www.uxai.design/)
 * [People + AI Guidebook ](https://pair.withgoogle.com/guidebook)- A set of methods, best practices and examples for designing with AI (Google)
