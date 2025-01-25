@@ -59,7 +59,13 @@ In 1978, Bill Verplank and Thomas Sheridan (human factors and systems engineerin
 
 ## The Ionosphere
 
-In 2024 [](https://www.instagram.com/peteonedeck/)[One Deck Pete](https://www.instagram.com/peteonedeck/) and I started a new radio project, Downbeat on Shortwave. I recorded a 15 minute mix, then sent it to Pete. In a call and response fashion, he recorded a 15 minute reply, sent it back to me and so forth. Kind of like mix-tape pen pals, sharing music between London and Perth. It took us a year to assemble a 60min episode. Hopefully we manage another one in 2025!\
+In 2024 [](https://www.instagram.com/peteonedeck/)[One Deck Pete](https://www.instagram.com/peteonedeck/) and I started a new radio project, Downbeat on Shortwave. I recorded a 15 minute mix, then sent it to Pete. In a call and response fashion, he recorded a 15 minute reply, sent it back to me and so forth. Kind of like mix-tape pen pals, sharing music between London and Perth. It took us a year to assemble a 60min episode. Hopefully we manage another one in 2025!
+
+![Downbeat on Shortwave](/images/downbeat-on-shortwave3.jpg "DJ Frederick and Imaginary Stations broadcast Downbeat on Shortwave last weekend via the transmitters of  Shortwave Gold. ")
+
+![Down beat on Shortwave tracklisting](/images/downbeat-on-shortwave3_tracklistings-2.jpg "Track listing for our first mix. ")
+
+\
 \
 A little different to average internet radio show, this broadcast is going to be sent to the ionosphere, then rebounded back to earth via Shortwave Gold, a shortwave radio station based in Germany that broadcasts across Europe and beyond depending on the weather, solar conditions and the time of day where you listen.
 
