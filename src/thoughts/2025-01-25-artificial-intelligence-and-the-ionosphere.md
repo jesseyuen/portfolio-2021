@@ -5,7 +5,7 @@ date: 2025-01-25T00:57:13.483Z
 ---
 ## Learning
 
-This week I've pulled my finger out and spent some time digging into designing human-centric AI experiences. Here are some terms and concepts I've come across.
+This week I continued digging into designing human-centric AI experiences. Here are some terms and concepts I've come across.
 
 ### **Levels of automation of decision and action selection**
 
