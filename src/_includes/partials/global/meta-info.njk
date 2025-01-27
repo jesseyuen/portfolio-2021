@@ -29,12 +29,12 @@
   <meta property="og:description" content="{{ metaDesc }}" />
 {% endif %}
 
-{% if socialImage %}  
-  <meta property="og:image" content="{{ socialImage }}" />
-  <meta name="twitter:image" content="{{ socialImage }}" />
+{# {% if socialImage %}   #}
+  <meta property="og:image" content="/images/og.png" />
+  <meta name="twitter:image" content="/images/og.png" />
   <meta property="og:image:alt" content="Page image for {{ site.name }}" />
   <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
-{% endif %}
+{# {% endif %} #}
 
 {% if site.paymentPointer %}
   <meta name="monetization" content="{{ site.paymentPointer }}" />
