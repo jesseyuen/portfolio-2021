@@ -53,7 +53,7 @@ In 1978, Bill Verplank and Thomas Sheridan (human factors and systems engineerin
 
 * [](https://www.uxai.design/)[Introduction to Explainable AI for designers](https://www.uxai.design/)
 * [People + AI Guidebook ](https://pair.withgoogle.com/guidebook)- A set of methods, best practices and examples for designing with AI (Google)
-* [HAX Toolkit](https://www.microsoft.com/en-us/haxtoolkit)  - A toolkit for teams building user-facing AI products. It helps you conceptualise what the AI system will do and how it will behave. Use it early in your design process. (Microsoft)
+* [HAX Toolkit](https://www.microsoft.com/en-us/haxtoolkit)  - A toolkit for teams building user-facing AI products (Microsoft)
 * [AI-human interaction](https://design.gitlab.com/usability/ai-human-interaction/) - Guidlines and framework for using AI (Gitlab)
 * [Beyond Chatbots and Prompts: User-Centric AI Experience](https://medium.com/@corinneschillizzi/beyond-chatbots-and-prompts-user-centric-ai-experiences-08163cf20915)
 * [The Interface Illusion](https://imcatnoone.substack.com/p/the-interface-illusion)
