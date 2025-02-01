@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Does Change == Holiday? (Redux)
 date: 2025-02-01T08:45:18.314Z
 ---
-I've been thinking a lot about comfort zones... again. Having recently started a new role, I've definitely been experiencing the internal struggles that come with being nudged out of my comfort zone. I'm also reflecting that I've been here before, many times over, and when feeling this way I used to always re-read a blog post I wrote in 2015 while at [Humaan](https://humaan.com/), where I first mused on themes of comfort zones, growth and learning. That blog post is no longer online so I'm resurrecting it to help now-me find some solace, and for future-me to do so as well. Read on...
+I've been thinking a lot about comfort zones... again. Having recently started a new role, I've definitely been experiencing the internal struggles that come with being nudged out of my comfort zone. I'm also reflecting that I've been here before, many times over, and when feeling this way I used to always re-read a blog post I wrote in 2015 while at [Humaan](https://humaan.com/), where I first mused on themes of comfort zones, growth and learning. That blog post is no longer online so I'm resurrecting it to help now-me find some solace, and for future-me to do so as well. Read the original post below.
 
 ## Does Change == Holiday?
 
