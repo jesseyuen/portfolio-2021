@@ -31,11 +31,11 @@ I’d just had a baby, was applying off the back of a stint in the public servic
 
 First day jitters didn’t fade away. They got worse.
 
-![An illustration of myself sitting at a desk.](/images/change-holiday.png "*I know nothing in comparison to these other Humaans. How did I even land this job? Was it just the Hawaiian shirt? Am I a gimmick hire? Aaaarrggh.")
+![An illustration of myself sitting at a desk.](/images/change-holiday.png "I know nothing in comparison to these other Humaans. How did I even land this job? Was it just the Hawaiian shirt? Am I a gimmick hire? Aaaarrggh.")
 
 This period of change was feeling like no holiday I’d ever been on. I was completely eating my words at this point. This holiday SUCKS. Change can bugger off too.
 
-I was loving the work. I was learning plenty. The people were great… but I wasn’t having fun and the seeds of something not-quite-right we’re sprouting. I was lost in a thick fog of [self doubt](https://web.archive.org/web/20160301185213/https://signalvnoise.com/posts/3782-the-joy-and-a-good-dose-of-pain-of-my-first-few-months-at-basecamp "The joy (and a good dose of pain) of my first few months at Basecamp"). Reading Conor’s post during this period offered a bunch of solace. To avoid repeating Conor far less eloquently I urge you to read his article too. The gist of it? Sometimes starting your dream job can be bit of a nightmare.
+I was loving the work. I was learning plenty. The people were great… but I wasn’t having fun and the seeds of something not-quite-right we’re sprouting. I was lost in a thick fog of [self doubt](https://signalvnoise.com/posts/3782-the-joy-and-a-good-dose-of-pain-of-my-first-few-months-at-basecamp). Reading Conor’s post during this period offered a bunch of solace. To avoid repeating Conor far less eloquently I urge you to read his article too. The gist of it? Sometimes starting your dream job can be bit of a nightmare.
 
 *Hey, I’m not alone in this.* 
 
