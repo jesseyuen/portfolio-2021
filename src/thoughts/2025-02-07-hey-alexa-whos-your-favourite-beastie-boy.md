@@ -12,7 +12,7 @@ Remote working is great, but I'm feeling kinda isolated at the moment, just my Z
 
 My mate [Teresa Watts](https://teresawatts.com/) reached out for a lunch date and we had some great chats about work, life and all of that. The in-person interaction was such a treat and left me feeling energised. I'm free for more lunch dates if anyone wants one? Reach out and let me know.
 
-A 2025 intention of mine is to talk to more designers, more often. Some of you have already been reached out to, and thank you for saying yes to a chat. Some of you may hear from me soon!
+A 2025 intention of mine is to talk to more designers, more often. Some peeps have already been reached out to, and I'm grateful they have agreed to a chat. Some of you may hear from me soon!
 
 ## **Who is your favourite Beastie Boy?**
 
