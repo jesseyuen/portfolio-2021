@@ -16,7 +16,7 @@ My mate [Teresa Watts](https://teresawatts.com/) reached out for a lunch date an
 
 This afternoon my mind wandered to the Beastie Boys, after learning that their [2004 Stage-Worn Personalised Adidas Tracksuits are up for auction](https://bid.juliensauctions.com/lot-details/index/catalog/603/lot/250180/the-beastie-boys-2004-stage-worn-personalized-adidas-tracksuits) if you want to buy me a present.
 
-Without any humans in the house to bother, I decided to poll various AI assistants in the house on who their favourite Beastie Boy, results as follows:
+Without any humans in the house to bother, I decided to poll various AI assistants on who their favourite Beastie Boy was. Results as follows:
 
 ### Siri
 
