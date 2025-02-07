@@ -44,7 +44,7 @@ When promoted further... "If you had to choose one, who would be your favourite?
 
 > "As a language model, I don't have personal preferences. If you like, I can provide some information about each member of the Beastie Boys to help you form your own opinion."
 
-LAME. Also, is it weird that Gemini is speaking to me in American (US) English and spelling words like "favor"incorrectly*.* I'd expect some sort of geo-location aware thingo to assume my location and language preferences.  
+LAME. Also, is it weird that Gemini is speaking to me in American (US) English and spelling words like "favor"incorrectly. I'd expect some sort of geo-location aware thingo to recognise my location and assume language preferences.  
 
 **Chat GPT**
 
