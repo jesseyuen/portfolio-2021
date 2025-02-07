@@ -49,7 +49,16 @@ LAME. Also, is it weird that Gemini is speaking to me in American (US) English a
 
 > “Tough question! Each Beastie Boy brought something unique—MCA had that gravelly wisdom, Ad-Rock had the wild energy, and Mike D was the cool, laid-back glue holding it together. If I had to pick, MCA (Adam Yauch) stands out. His deep voice, activism, and creative vision really shaped the group’s evolution. How about you?”
 
-The correct answer, but what is "gravelly wisdom" I wonder?
+The correct answer, but what is "gravelly wisdom" I wonder? When prompted to describe what it was, Chat GPT replied:
+
+> "Gravelly wisdom" is my way of saying that MCA had a rough, distinctive voice (gravelly) and often dropped insightful, thoughtful lyrics (wisdom). He had this raspy, almost growling delivery that made his lines hit differently, especially as he got older and started rapping more about life, spirituality, and activism.
+>
+> Like in *Pass the Mic*:\
+> *"If you can feel what I'm feeling, then it's a musical masterpiece..."*
+>
+> His voice just made everything sound deep, you know? 
+
+This exchange felt the most *normal.* Well done Chat GPT.
 
 ### Claude
 
