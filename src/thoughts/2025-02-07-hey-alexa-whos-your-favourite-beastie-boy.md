@@ -2,13 +2,12 @@
 layout: layouts/post.njk
 title: Hey Alexa, who's your favourite Beastie Boy?
 date: 2025-02-07T09:35:47.221Z
-tags: []
 ---
 It's been a long week and my battery levels are too low to contribute anything overly profound today.
 
 ## Reaching out
 
-Remote working is great, but I'm feeling kinda isolated at the moment, just my Zoom colleagues and me, shut away in the home office, which also doubles as the craft/junk/spare desk/storage/library/filing cabinet room.
+Remote working is great, but I'm feeling kinda isolated at the moment, with just my Zoom colleagues and me, shut away in the home office, which also doubles as the craft/junk/spare desk/storage/library/filing cabinet room.
 
 My mate [Teresa Watts](https://teresawatts.com/) reached out for a lunch date and we had some great chats about work, life and all of that. The in-person interaction was such a treat and left me feeling energised. I'm free for more lunch dates if anyone wants one? Reach out and let me know.
 
