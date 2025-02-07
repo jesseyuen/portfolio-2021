@@ -16,7 +16,7 @@ A 2025 intention of mine is to talk to more designers, more often. Some peeps ha
 
 ## **Who is your favourite Beastie Boy?**
 
-This afternoon my mind wandered to the Beastie Boys, after learning that their [2004 Stage-Worn Personalised Adidas Tracksuits are up for auction,](https://bid.juliensauctions.com/lot-details/index/catalog/603/lot/250180/the-beastie-boys-2004-stage-worn-personalized-adidas-tracksuits) if you want to buy me a present my birthday is in late June.
+This afternoon my mind wandered to the Beastie Boys, after learning that their [2004 Stage-Worn Personalised Adidas Tracksuits are up for auction.](https://bid.juliensauctions.com/lot-details/index/catalog/603/lot/250180/the-beastie-boys-2004-stage-worn-personalized-adidas-tracksuits)
 
 Without any humans in the house to bother, I decided to poll various AI assistants on who their favourite Beastie Boy was. Results as follows:
 
