@@ -11,28 +11,44 @@
 
     // Temp font sizes for smaller widths
     // TODO fluid type!
-    --font-size-xxx-large: 4rem;
-    --font-size-xx-large: 3rem;
-    --font-size-well-large: 2.5rem;
-    --font-size-x-large: 2.2rem;
-    --font-size-large: 1.7rem;
-    --font-size-medium: 1.4rem;
+    // --font-size-xxx-large: 4rem;
+    // --font-size-xx-large: 3rem;
+    // --font-size-well-large: 2.5rem;
+    // --font-size-x-large: 2.2rem;
+    // --font-size-large: 1.7rem;
+    // --font-size-medium: 1.4rem;
+    // --font-size-default: 1rem;
+
+    --font-size-xxx-large: 6rem;
+    --font-size-xx-large: 4rem;
+    --font-size-well-large: 3rem;
+    --font-size-x-large: 3rem;
+    --font-size-large: 2.5rem;
+    --font-size-medium: 1.7rem;
     --font-size-default: 1rem;
 
     @media (min-width: 75em) {
-        // 90px
-        --font-size-xxx-large: 5rem;
-        // 64px  
-        --font-size-xx-large: 3.998rem;
-        --font-size-well-large: 3.2rem;
-        // 45px
-        --font-size-x-large: 2.6rem;
-        // 32px
-        --font-size-large: 1.99rem;
-        //22px
-        --font-size-medium: 1.414rem;
-        // 18px
-        --font-size-default: 1.125rem;
+        // // 90px
+        // --font-size-xxx-large: 5rem;
+        // // 64px  
+        // --font-size-xx-large: 3.998rem;
+        // --font-size-well-large: 3.2rem;
+        // // 45px
+        // --font-size-x-large: 2.6rem;
+        // // 32px
+        // --font-size-large: 1.99rem;
+        // //22px
+        // --font-size-medium: 1.414rem;
+        // // 18px
+        // --font-size-default: 1.125rem;
+
+        --font-size-xxx-large: 8rem;
+        --font-size-xx-large: 6rem;
+        --font-size-well-large: 5rem;
+        --font-size-x-large: 3rem;
+        --font-size-large: 2.5rem;
+        --font-size-medium: 2.5rem;
+        --font-size-default: 1rem;
     }
 
     --font-size-small: 0.833rem;
@@ -108,7 +124,7 @@
     --width-1200: 75rem;
 
     // 1600px
-    --max-width: 100rem;
+    --max-width: 95vw;
 
     --spacing-xx-small: .125rem;
     --spacing-x-small: .25rem;
