@@ -24,7 +24,7 @@ Josh brought with him a refreshing level of honesty, humility and deep curiosity
 
 I've started running again, this time experimenting with the Couch to 5km process. I nearly got to 5km runs during COVID but this time I'm feeling hopeful! As a kid I loved running and wanted to be Robert de Castella when I grew up. At 44 I can still feel that same sense of freedom that I felt then once I settle into a good rhythm on the foot falcon. 
 
-## Reading, watching and listening list
+## Reading, watching and listening
 
 * [Mike Gallagher - Sometimes I still design things. Is that a problem?](https://mikegallagher.org/posts/sometimes-i-still-design/)
 * [Simon Mateljan - Life as a design Manager](https://medium.com/design-bootcamp/life-as-a-design-manager-7874cf727e4f)
