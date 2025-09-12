@@ -18,7 +18,7 @@ A highlight of the week was meeting [Joshua Crowley](https://joshuacrowley.com/)
 * establishing a shared language when we talk about AI and design
 * some help with understanding how low the barrier of entry actually is to explore emerging interaction paradigms
 
-Josh brought with him a refreshing level of honesty, humility and deep curiosity, immediately made us all feel safe and led a workshop which we all loved. It was wild to watch Service Designers who had never opened an IDE in their life prompt-build a multimodal shopping list app from scratch. I can't recommend Josh enough if you suspect your team might need a gentle nudge into a space that seems kind of scary from the outside looking in.
+Josh brought a refreshing level of honesty, humility and deep curiosity, immediately made us all feel safe and led a workshop which we all loved. It was wild to watch Service Designers who had never opened an IDE in their life prompt-build a multimodal shopping list app from scratch. I can't recommend Josh enough if you suspect your team might need a gentle nudge into a space that seems kind of scary from the outside looking in.
 
 ## Running
 
