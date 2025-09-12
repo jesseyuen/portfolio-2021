@@ -20,7 +20,7 @@ A highlight of the week in the big smoke was meeting [Joshua Crowley](https://jo
 
 Josh brought a refreshing level of honesty, humility and deep curiosity, immediately made us all feel safe and led a workshop which we all loved. It was wild to watch Service Designers who had never opened an IDE in their life prompt-build a multimodal shopping list app from scratch. I can't recommend Josh enough if you suspect your team might need a gentle nudge into a space that seems kind of scary from the outside looking in.
 
-## Mapping
+## Mapping (as meditation?)
 
 I've spent a bit of time pairing on a hybrid service blueprint/user journey type map thingo with a service designer at work. Making all the lines and boxes line up was a super soothing exercise, and it was a bit of load off to be able to finally visualise the complex thing we were mapping yet I couldn't shake [the words of the esteemed Vicky Houghton-Price](https://medium.com/design-bootcamp/do-you-need-another-map-probably-not-2f8a8a7a9773):
 
