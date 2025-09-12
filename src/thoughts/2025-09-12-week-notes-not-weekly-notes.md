@@ -27,7 +27,7 @@ I've started running again, this time experimenting with the Couch to 5km proces
 ## Reading, watching and listening
 
 * [Mike Gallagher - Sometimes I still design things. Is that a problem?](https://mikegallagher.org/posts/sometimes-i-still-design/) 📚
-* [Simon Mateljan - Life as a design Manager](https://medium.com/design-bootcamp/life-as-a-design-manager-7874cf727e4f) 📚
+* [Simon Mateljan - Life as a Design Manager](https://medium.com/design-bootcamp/life-as-a-design-manager-7874cf727e4f) 📚
 * [Clara Greo - 12 equity and justice questions about AI](https://claragreo.com/posts/12-equity-and-justice-questions-about-ai/) 📚
 * [Inside Floating Points' mighty Sunflower Sound System](https://www.youtube.com/watch?v=nG86T2f1T-Q&ab_channel=ResidentAdvisor) 🍿
 * [Keanu Nelson - Wilurarrakutu](https://keanunelson.bandcamp.com/album/wilurarrakutu) 🔊
