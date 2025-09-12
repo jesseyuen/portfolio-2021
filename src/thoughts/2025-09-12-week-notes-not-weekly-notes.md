@@ -12,7 +12,7 @@ I've recently spent a week in Sydney for our company's annual team get together,
 
 ## Jagged Peaks
 
-A highlight of the week was getting to finally meet [Joshua Crowley](https://joshuacrowley.com/) in person, an educator and designer who runs [Jagged Peaks,](https://jaggedpeaks.club/) I had asked him to come run a three hour workshop for the team on using Cursor to prototyping AI-first experiences and Multimodal apps. Like what I imagine is happening in many orgs, Hireup has declared a future filled with AI. As designers riding this wave of whatever it will be eventually called, I recognise our team needs:
+A highlight of the week was meeting [Joshua Crowley](https://joshuacrowley.com/), an educator and designer who runs [Jagged Peaks.](https://jaggedpeaks.club/) I had asked him to come run a three hour workshop for the team on using Cursor to prototyping AI-first experiences and Multimodal apps. Like what I imagine is happening in many orgs, Hireup has declared a future filled with AI. As designers riding this wave of whatever it will be eventually called, I recognise our team needs:
 
 * a common framework for us to help identify good (and less good) AI experiences
 * to establish a shared language when we talk about AI and design
