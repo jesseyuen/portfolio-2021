@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: '"Week" notes, not "weekly" notes'
+title: Week notes, not weekly notes
 date: 2025-09-12T08:26:46.463Z
 tags: []
 ---
