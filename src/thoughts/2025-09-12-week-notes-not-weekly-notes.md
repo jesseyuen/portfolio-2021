@@ -14,8 +14,8 @@ I've recently spent a week in Sydney for our company's annual team get together,
 
 A highlight of the week in the big smoke was meeting [Joshua Crowley](https://joshuacrowley.com/), an educator and designer who runs [Jagged Peaks.](https://jaggedpeaks.club/) I had asked him to run a three hour workshop for the team on Cursor and prototyping AI-first experiences and Multimodal apps. Like what I imagine is happening in many orgs, Hireup has declared a future filled with AI and as designers riding this wave of whatever it will be eventually called, we recognised our team would find value in:
 
-* a common framework for us to help identify good (and less good) AI experiences
-* establishing a shared language when we talk about AI and design
+* establishing a common framework for us to help identify good (and less good) AI experiences
+* building a shared language for when we talk about AI and design
 * some help with understanding how low the barrier of entry actually is to explore emerging interaction paradigms
 
 Josh brought a refreshing level of honesty, humility and deep curiosity, immediately made us all feel safe and led a workshop which we all loved. It was wild to watch Service Designers who had never opened an IDE in their life prompt-build a multimodal shopping list app from scratch. I can't recommend Josh enough if you suspect your team might need a gentle nudge into a space that seems kind of scary from the outside looking in.
