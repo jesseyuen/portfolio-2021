@@ -4,7 +4,7 @@ title: '"Week" notes, not "weekly" notes'
 date: 2025-09-12T08:26:46.463Z
 tags: []
 ---
-Forslty I want to acknowledge that I have not added a post to this blog since the 7th February. A lot has happened between then and now, including having to reconcile with the fact I am simply not wired to write a week note, *every* week. My mental health has been patchy, family life has bene eventful, work incredibly busy and I've been laying low. If you are waiting for a reply from me, please don't take it personally, I'm just very, very slow at replying right now.
+Firstly I want to acknowledge that I have not added a post to this blog since the 7th February. A lot has happened between then and now, including having to reconcile with the fact I am simply not wired to write a week note, *every* week. My mental health has been patchy, family life has bene eventful, work incredibly busy and I've been laying low. If you are waiting for a reply from me, please don't take it personally, I'm just very, very slow at replying right now.
 
 ## **Sydney**
 
