@@ -12,17 +12,17 @@ I've recently spent a week in Sydney for our companies annual team get together,
 
 ## Jagged Peaks
 
-A highlight of the week was getting to finally meet [Joshua Crowley](https://joshuacrowley.com/) in person, an educator and designer who runs [Jagged Peaks,](https://jaggedpeaks.club/) I had asked him to come in run a three hour workshop for the team on using Cursor to prototyping AI-first experiences and Multimodal apps. Like what I imagine is happening in many orgs, Hireup has declared a future filled with AI. As designers riding a wave of whatever it is we are all riding, I recognised the team needed:
+A highlight of the week was getting to finally meet [Joshua Crowley](https://joshuacrowley.com/) in person, an educator and designer who runs [Jagged Peaks,](https://jaggedpeaks.club/) I had asked him to come in run a three hour workshop for the team on using Cursor to prototyping AI-first experiences and Multimodal apps. Like what I imagine is happening in many orgs, Hireup has declared a future filled with AI. As designers riding this wave of whatever it will be eventually called, I recognise our team needs:
 
 * a common framework for us to help identify good (ad less good) AI experiences
 * to establish a shared language when we talk about AI and design
-* someone to help demonstrate how low the barrier of entry is to explore these emerging paradigms
+* some help in understanding how low the barrier of entry is to explore emerging interaction paradigms
 
 Josh brought with him a refreshing level of honesty, humility and deep curiosity, immediately made us all feel safe and led a workshop which we all loved. It was wild to watch Service Designers who had never opened an IDE in their life prompt-build a multimodal shopping list app form scratch. I can't recommend John enough if you suspect your team might need a gentle nudge into a space that seems kind of scary from the outside looking in. 
 
 ## Running
 
-I've started running again, this time experimenting with the Couch to 5km process. I nearly got to 5km runs during COVID but this time I'm feeling hopeful! As a kid I loved running and wanted to be Robert de Castella when I grew up. At 44 I still feel that same sense of freedom that I felt then once I settle into a good rhythm on the foot falcon. 
+I've started running again, this time experimenting with the Couch to 5km process. I nearly got to 5km runs during COVID but this time I'm feeling hopeful! As a kid I loved running and wanted to be Robert de Castella when I grew up. At 44 I can still feel that same sense of freedom that I felt then once I settle into a good rhythm on the foot falcon. 
 
 ## Reading, watching and listening list
 
