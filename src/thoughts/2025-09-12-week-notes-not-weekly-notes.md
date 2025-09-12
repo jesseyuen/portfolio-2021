@@ -8,7 +8,7 @@ Firstly I want to acknowledge that I have not added a post to this blog since th
 
 ## Sydney
 
-I've recently spent a week in Sydney for our company's annual team get together, Hi-Con. For many of us who are used to crawling into and out of our WFH caves each day, a week of in-person time is a daunting prospect yet ultimately, it was hard to ignore the opportunities it created that I do not have when remote. A pint in the late arvo with a peer, ranting and debating prospective ideas for the product it's just something you can't create over Zoom, nor is that face you pull at a mate when your eyes lock across an open plan office. That being said, each visit confirms that if I end up in a situation when I need to visit an office regularly, I have definitely fucked up.
+I've recently spent a week in Sydney for our company's annual team get together, Hi-Con. For many of us who are used to crawling into and out of our WFH caves each day, a week of in-person time is a daunting prospect yet ultimately, it was hard to ignore the opportunities it created that I do not have when remote. A pint in the late arvo with a peer, ranting and debating prospective ideas for the product it's just something you can't create over Zoom, nor is that face you pull at a mate when your eyes lock across an open plan office. That being said, each visit confirms that if I end up in a future situation where I need to regularly visit an office, I have definitely fucked up.
 
 ## Jagged Peaks
 
