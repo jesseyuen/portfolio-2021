@@ -1,5 +1,5 @@
 .gradient-wrapper {
-    text-align: center;
+    // text-align: center;
     color: var(--color-text-default);
     // display: flex;
     // flex-direction: column;
@@ -112,9 +112,35 @@
     }
 }
 
+
+@keyframes reveal {
+    from {
+      opacity: 0;
+      transform: translateY(100px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+/* 2. Apply and link the animation to the view timeline */
 .drifting {
+    text-align: center;
     padding: 100vw 0;
     opacity: 0.4;
+    // opacity: 0;
+    // transform: translateY(100px);
+
+    // /* Apply animation */
+    // animation-name: reveal;
+    // animation-duration: 1s; /* The duration is now linked to scroll progress, not time */
+    // animation-fill-mode: forwards; /* Retain the final state after animation completion */
+
+    // /* Link animation to the viewport visibility */
+    // animation-timeline: view();
+    // /* Optional: fine-tune when the animation starts/ends in the viewport */
+    // animation-range: entry 0% cover 50%;
 }
 
 // .gradient-wrapper {
