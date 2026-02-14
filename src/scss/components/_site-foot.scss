@@ -102,8 +102,10 @@
     // background: 
 	// linear-gradient(0deg, rgba(217,215,210,1), rgba(48,85,47,1));
     padding: 100vw 0;
-    filter: contrast(100%) brightness(100%);
-    background: 
-	linear-gradient(0deg, rgba(217,215,210,1) 10%, rgba(48,85,47,1) 90%),
-    url(/images/noise.svg);
+    // filter: contrast(100%) brightness(100%);
+    background: linear-gradient(0deg, #d9d7d2, #b4b3a2, #8b9276, #5f7350, #30552f), url(/images/noise.svg);
+    // background: 
+	// linear-gradient(0deg, rgba(217,215,210,1) 10.1%, rgba(48,85,47,1) 90.1%);
+	// linear-gradient(0deg, rgba(217,215,210,1) 10%, rgba(48,85,47,1) 90%),
+    // url(/images/noise.svg);
 }
